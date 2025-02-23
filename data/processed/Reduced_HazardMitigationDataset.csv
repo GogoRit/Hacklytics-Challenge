@@ -1,0 +1,5001 @@
+state,FederalFunding,benefitCostRatio,ProjectTimeline(in months),ZoneRiskLevel
+Arkansas,23658.0,0.0,46.0,Moderate
+New Hampshire,107246.0,1.94,39.0,Moderate
+Kansas,25164.0,0.0,27.0,High
+Hawaii,34575.0,0.0,44.0,Low
+West Virginia,263602.0,1.04,42.0,Moderate
+Louisiana,65000.0,0.0,50.0,High
+Florida,4621365.83,1.24,82.0,High
+Minnesota,20343.0,0.0,36.0,Moderate
+Oklahoma,162653.0,7.65,43.0,High
+Washington,547767.0,1.11,65.0,High
+Arkansas,0.0,1.2,33.0,Moderate
+Florida,1247250.0,1.16,42.0,High
+Nebraska,74355.0,0.0,52.0,High
+Florida,4121.0,4.89,33.0,High
+Montana,4265.67,0.0,49.0,Low
+Nebraska,103151.0,0.0,20.0,High
+Florida,745608.37,4.32,59.0,High
+Florida,53538.38,0.0,-156.0,High
+Arkansas,429446.0,1.0,44.0,Moderate
+New Jersey,99701.0,3.34,68.0,High
+Louisiana,0.0,1.23,0.0,High
+New Jersey,142080.0,1.41,60.0,High
+Tennessee,31219.0,0.0,47.0,Moderate
+Oklahoma,7500.0,0.0,75.0,High
+Montana,79386.0,8.83,59.0,Low
+Colorado,235546.0,54.0,40.0,Moderate
+Oklahoma,20000.0,0.0,67.0,High
+Iowa,23850.0,0.0,21.0,High
+California,124542.64,0.0,34.0,High
+Maryland,279075.0,1.0,0.0,Moderate
+Texas,2282567.0,1.0,39.0,High
+Mississippi,28773.0,0.0,19.0,High
+Oklahoma,88906.0,0.0,83.0,High
+Mississippi,78019.0,0.0,68.0,High
+Florida,585065.0,1.76,46.0,High
+Missouri,3134013.0,3.42,34.0,High
+Oklahoma,204524.0,3.79,68.0,High
+West Virginia,207377.0,1.05,0.0,Moderate
+Alabama,65208.29,8.2,111.0,High
+Texas,84000.0,0.0,43.0,High
+North Dakota,1026025.0,1.31,56.0,High
+Virgin Islands of the U.S.,2758927.51,11.77,60.0,Low
+Florida,159977.0,1.37,50.0,High
+Puerto Rico,30614.0,15.31,25.0,Moderate
+Washington,215433.0,0.0,119.0,High
+Texas,1857653.87,1.35,85.0,High
+Florida,0.0,2.64,3.0,High
+Florida,253860.0,4.34,51.0,High
+California,29810.04,0.0,35.0,High
+Arkansas,45000.0,0.0,71.0,Moderate
+New Jersey,0.0,1.0,36.0,High
+New Jersey,162176.8,2.9,103.0,High
+Maine,82814.0,1.34,22.0,Low
+Massachusetts,183675.0,1.47,42.0,Moderate
+Alaska,22032.0,0.0,42.0,Low
+Texas,2465486.0,1.25,68.0,High
+Mississippi,31953.0,0.0,27.0,High
+Massachusetts,14570.0,0.0,77.0,Moderate
+Minnesota,135000.0,5.6,65.0,Moderate
+New Jersey,75000.0,0.0,116.0,High
+Oklahoma,1313816.0,1.29,42.0,High
+Florida,153278.9,1.65,46.0,High
+Nebraska,47456.0,0.0,5.0,High
+Oklahoma,11988.0,0.0,25.0,High
+Iowa,1041907.0,0.0,28.0,High
+Pennsylvania,275300.0,1.0,0.0,High
+Puerto Rico,86511.0,7.77,48.0,Moderate
+Virginia,82500.0,0.0,77.0,Moderate
+Oklahoma,734477.0,2.29,59.0,High
+Kansas,13706.0,0.0,28.0,High
+Georgia,13015.0,0.0,44.0,High
+California,70000.0,0.0,37.0,High
+Montana,211606.0,11.75,44.0,Low
+Alabama,42750.0,1.3,48.0,High
+Nebraska,225000.0,0.0,71.0,High
+Kentucky,1291057.68,3.02,129.0,High
+Mississippi,877790.1,0.0,99.0,High
+Virginia,1290.0,0.0,15.0,Moderate
+Mississippi,23822.0,0.0,31.0,High
+Ohio,1541150.0,1.38,47.0,Moderate
+New Jersey,814000.0,0.0,48.0,High
+Kentucky,1156453.1,5.83,94.0,High
+Mississippi,875145.0,2.37,58.0,High
+Florida,129615.0,7.8,24.0,High
+District of Columbia,21778.0,0.0,51.0,Low
+Kansas,101250.0,1.09,14.0,High
+Pennsylvania,70139.7,4.81,117.0,High
+New Mexico,29655.66,0.0,64.0,Low
+New Jersey,274120.63,2.07,79.0,High
+Ohio,91182.8,1.03,30.0,Moderate
+Federated States of Micronesia,175642.0,5.47,121.0,Low
+Connecticut,100000.0,7.32,17.0,Moderate
+Virgin Islands of the U.S.,104605.0,2.09,31.0,Low
+Louisiana,96773.0,1.44,21.0,High
+Florida,703232.0,1.63,44.0,High
+Ohio,20995.0,0.0,23.0,Moderate
+California,100001.0,0.0,38.0,High
+New York,142181.6,3.38,40.0,High
+Kentucky,43146.7,0.0,24.0,High
+Kentucky,30646.0,0.0,20.0,High
+Mississippi,22518.0,0.0,11.0,High
+Michigan,225000.0,1.59,98.0,Moderate
+Florida,0.0,3.85,13.0,High
+North Dakota,11830.97,0.0,19.0,High
+Connecticut,30000.0,1.51,72.0,Moderate
+Oklahoma,40000.0,1.11,42.0,High
+Tennessee,10338.0,0.0,25.0,Moderate
+Arkansas,479910.0,3.84,34.0,Moderate
+California,69304.0,0.0,9.0,High
+Colorado,42479.05,0.0,28.0,Moderate
+Maryland,5175.0,0.0,-47.0,Moderate
+North Carolina,34686.0,3.88,58.0,High
+Alabama,0.0,0.0,4.0,High
+Florida,21420.0,2.62,65.0,High
+Virginia,9869.0,0.0,0.0,Moderate
+Texas,1637724.47,0.0,172.0,High
+Oklahoma,147890.09,13.27,44.0,High
+Louisiana,3978673.81,1.16,169.0,High
+Illinois,671345.92,2.05,62.0,Moderate
+Oregon,158566.5,3.15,70.0,Moderate
+Alaska,72270.0,1.87,27.0,Low
+Kentucky,333619.0,0.0,59.0,High
+Washington,500000.0,6.04,47.0,High
+Florida,1856.0,5.48,16.0,High
+Nebraska,54674.0,5.69,40.0,High
+Alabama,41250.0,0.0,18.0,High
+South Carolina,229444.0,3.14,24.0,Moderate
+Ohio,207000.0,1.0,34.0,Moderate
+Kansas,22791.0,0.0,43.0,High
+Minnesota,975075.0,0.0,42.0,Moderate
+Tennessee,1284668.0,2.39,43.0,Moderate
+Alabama,73547.0,7.33,136.0,High
+Illinois,67595.0,0.0,62.0,Moderate
+Ohio,5250.0,0.0,56.0,Moderate
+Missouri,285216.0,1.08,36.0,High
+Oklahoma,6000.0,4.91,8.0,High
+Virginia,213750.0,19.58,51.0,Moderate
+Georgia,18658.0,0.0,41.0,High
+Missouri,1399115.0,1.7,61.0,High
+Kansas,267750.0,1.91,36.0,High
+Montana,102383.33,0.0,31.0,Low
+Texas,1495223.79,1.01,103.0,High
+New Jersey,0.0,1.12,40.0,High
+Iowa,22500.72,0.0,20.0,High
+Alabama,15306.0,0.0,55.0,High
+Washington,753947.0,0.0,110.0,High
+Missouri,2537155.0,1.37,40.0,High
+New Jersey,148041.0,0.0,34.0,High
+South Carolina,30073.88,0.0,75.0,Moderate
+Louisiana,135415.0,2.58,93.0,High
+Oklahoma,16864.0,0.0,11.0,High
+South Dakota,34904.0,1.21,22.0,High
+Louisiana,37500.0,0.0,86.0,High
+Kentucky,732569.0,1.01,23.0,High
+New Jersey,436275.0,1.15,61.0,High
+Iowa,3138598.0,1.26,39.0,High
+South Carolina,62090.56,6.09,53.0,Moderate
+Wisconsin,15342.85,0.0,54.0,Moderate
+Illinois,56837.0,1.0,41.0,Moderate
+Tennessee,67914.0,1.62,27.0,Moderate
+Oklahoma,19960.0,0.0,31.0,High
+Florida,262676.0,1.36,52.0,High
+Virginia,583793.0,0.0,0.0,Moderate
+Oklahoma,43638.0,0.0,35.0,High
+Florida,83618.0,2.23,42.0,High
+Nebraska,25380.0,3.82,29.0,High
+Georgia,29186.0,0.0,20.0,High
+California,321431.25,12.37,35.0,High
+Alabama,15957.0,0.0,56.0,High
+Oklahoma,30375.0,0.0,48.0,High
+Georgia,40988.0,0.0,16.0,High
+Iowa,439725.0,1.87,16.0,High
+Arkansas,559924.0,7.11,34.0,Moderate
+Alabama,22500.0,0.0,27.0,High
+Puerto Rico,93070.0,63.18,28.0,Moderate
+New York,4798713.0,1.26,112.0,High
+Oklahoma,1099570.0,1.14,34.0,High
+South Dakota,160458.0,1.33,21.0,High
+Maryland,81750.0,3.16,22.0,Moderate
+Florida,11098.0,16.9,46.0,High
+Missouri,1101078.0,3.54,49.0,High
+Missouri,1172070.0,3.21,25.0,High
+Pennsylvania,80783.0,1.01,19.0,High
+Florida,3006977.0,1.09,38.0,High
+Oregon,1977995.2,6.31,87.0,Moderate
+Minnesota,53256.0,0.0,72.0,Moderate
+Kentucky,1495275.35,1.83,88.0,High
+North Carolina,70896.71,1.53,83.0,High
+Florida,45877.0,4.2,39.0,High
+Connecticut,59475.0,1.51,31.0,Moderate
+California,112500.0,0.0,22.0,High
+New York,3355.0,0.0,51.0,High
+New Hampshire,59250.0,1.21,31.0,Moderate
+Virginia,180000.0,0.0,34.0,Moderate
+Arkansas,22499.0,0.0,42.0,Moderate
+Alabama,59918.0,4.1,117.0,High
+Oklahoma,580329.0,2.53,48.0,High
+New Jersey,145850.25,2.39,90.0,High
+Oklahoma,202915.5,0.0,35.0,High
+Florida,157312.5,2.32,36.0,High
+Maryland,309613.0,1.0,52.0,Moderate
+Washington,0.0,2.05,6.0,High
+New Mexico,395603.76,1.08,41.0,Low
+Louisiana,142236.68,2.35,70.0,High
+Ohio,29872.93,11.54,36.0,Moderate
+Maine,113039.0,1.21,35.0,Low
+North Carolina,297949.09,2.06,33.0,High
+Northern Mariana Islands,36900.0,3.34,84.0,Low
+Oregon,92655.0,2.23,78.0,Moderate
+Michigan,226687.0,1.05,75.0,Moderate
+Ohio,18750.0,0.0,32.0,Moderate
+South Carolina,279585.0,0.0,101.0,Moderate
+Kansas,232796.0,1.04,47.0,High
+Alabama,13051.0,1.37,95.0,High
+Texas,167281.0,0.0,123.0,High
+Kansas,3626.0,1.42,27.0,High
+Oklahoma,19688.0,0.0,56.0,High
+Michigan,261750.0,1.0,71.0,Moderate
+Louisiana,248925.0,5.06,36.0,High
+Florida,615971.79,1.16,108.0,High
+California,158468.3,0.0,51.0,High
+New York,2038.0,0.0,82.0,High
+Georgia,1168363.0,1.27,42.0,High
+North Dakota,41521.0,0.0,45.0,High
+Ohio,171350.89,1.0,48.0,Moderate
+Montana,24600.0,0.0,81.0,Low
+Wisconsin,552221.0,1.17,66.0,Moderate
+Alaska,1929.0,0.0,32.0,Low
+New Jersey,75000.0,1.77,102.0,High
+New Jersey,39489.75,0.0,40.0,High
+Florida,564968.0,2.22,47.0,High
+Mississippi,195553.0,2.82,32.0,High
+Oregon,102143.0,3.26,65.0,Moderate
+New York,56431.0,0.0,77.0,High
+Alabama,57257.71,5.37,112.0,High
+Iowa,262006.0,0.0,77.0,High
+Florida,6539.0,97.65,21.0,High
+Alabama,23850.0,1.37,86.0,High
+Texas,5697.0,0.0,104.0,High
+Virginia,24067.0,0.0,0.0,Moderate
+Montana,7291.28,0.0,39.0,Low
+Florida,838053.75,9.25,25.0,High
+Texas,6513.95,0.0,147.0,High
+Louisiana,1258111.83,2.5,100.0,High
+Idaho,0.0,0.0,1.0,Low
+Alabama,135000.0,2.51,40.0,High
+Nebraska,6747.39,0.0,54.0,High
+Maryland,20000.0,0.0,-2.0,Moderate
+Iowa,25133.0,1.67,54.0,High
+Florida,201669.0,1.61,37.0,High
+Florida,2665653.0,1.29,52.0,High
+Kentucky,58526.0,9.7,28.0,High
+Missouri,23421.82,0.0,16.0,High
+South Carolina,51223.11,0.0,41.0,Moderate
+South Carolina,366948.0,2.37,65.0,Moderate
+Maine,5548.0,1.49,35.0,Low
+New Jersey,149503.97,1.02,32.0,High
+New Hampshire,84903.0,1.01,79.0,Moderate
+Alabama,318604.95,3.86,96.0,High
+California,149943.0,0.0,25.0,High
+Florida,112208.0,2.59,46.0,High
+Minnesota,56001.0,0.0,48.0,Moderate
+Tennessee,6207.0,0.0,38.0,Moderate
+Pennsylvania,564982.0,1.86,27.0,High
+Alabama,1135597.0,3.3,26.0,High
+Alabama,10687.0,0.0,9.0,High
+Arkansas,502341.82,5.85,61.0,Moderate
+Montana,34452.0,5.01,44.0,Low
+New Jersey,176500.0,2.35,26.0,High
+South Dakota,2809.0,0.0,12.0,High
+North Carolina,44070.63,2.48,73.0,High
+South Carolina,163487.0,3.26,43.0,Moderate
+Oregon,62850.0,5.06,59.0,Moderate
+Kentucky,491076.0,0.0,20.0,High
+Oklahoma,9000.0,0.0,22.0,High
+South Dakota,48134.0,0.0,20.0,High
+South Dakota,12338.0,0.0,13.0,High
+Florida,116384.0,1.5,33.0,High
+North Carolina,1654185.0,4.47,56.0,High
+Kentucky,106365.0,1.02,36.0,High
+Indiana,1083923.0,0.0,89.0,Low
+Alabama,3375.0,1.37,7.0,High
+Texas,0.0,1.62,23.0,High
+Florida,51522.64,4.43,31.0,High
+Tennessee,398842.0,1.48,33.0,Moderate
+South Carolina,355875.0,2.93,32.0,Moderate
+Mississippi,126054.0,0.0,27.0,High
+Northern Mariana Islands,630000.0,1.15,91.0,Low
+Minnesota,17285.0,0.0,39.0,Moderate
+Alabama,231864.0,4.64,21.0,High
+Florida,43500.0,7.41,60.0,High
+Minnesota,74673.0,0.0,86.0,Moderate
+Iowa,338441.0,0.0,49.0,High
+Ohio,605023.0,0.0,51.0,Moderate
+Michigan,64800.0,1.4,41.0,Moderate
+New Mexico,37052.85,0.0,62.0,Low
+New Hampshire,18000.0,0.0,32.0,Moderate
+Mississippi,53021.0,0.0,26.0,High
+South Dakota,69975.0,0.0,37.0,High
+Iowa,30334.0,0.0,38.0,High
+New Hampshire,202337.0,1.35,78.0,Moderate
+Wyoming,3340.52,0.0,37.0,Low
+Alabama,26168.0,1.37,95.0,High
+Arkansas,34141.0,0.0,92.0,Moderate
+Rhode Island,13113.0,1.71,68.0,Low
+Montana,50714.0,1.02,25.0,Low
+West Virginia,127710.0,4.74,0.0,Moderate
+Texas,348143.0,5.35,59.0,High
+Alabama,64847.0,1.37,91.0,High
+Missouri,1206000.0,3.53,37.0,High
+Ohio,158189.0,0.0,70.0,Moderate
+Virginia,59156.0,1.0,0.0,Moderate
+North Dakota,123165.0,1.06,27.0,High
+Alabama,577000.0,4.46,109.0,High
+Louisiana,659531.0,1.14,127.0,High
+Texas,3244480.69,2.21,60.0,High
+Colorado,96459.0,5.66,42.0,Moderate
+North Carolina,1372183.72,1.03,40.0,High
+Minnesota,114700.0,1.16,73.0,Moderate
+Connecticut,138864.0,0.0,48.0,Moderate
+Alabama,216318.0,1.5,113.0,High
+Alabama,7425.0,1.0,30.0,High
+Georgia,14479.0,0.0,25.0,High
+Arizona,15995.0,1.38,15.0,Low
+Louisiana,20214.0,1.35,88.0,High
+Texas,2522711.48,1.4,41.0,High
+New York,32000.0,0.0,114.0,High
+Texas,35941.5,0.0,33.0,High
+Oregon,48746.0,1.2,46.0,Moderate
+Montana,11976.0,0.0,24.0,Low
+Louisiana,3930681.35,1.47,158.0,High
+Missouri,585673.0,2.26,59.0,High
+Kentucky,231072.27,3.02,44.0,High
+Texas,34500.0,0.0,155.0,High
+Nevada,206338.0,1.0,49.0,Low
+New York,307800.0,1.4,1.0,High
+Washington,4275.0,0.0,54.0,High
+Oklahoma,22500.0,0.0,46.0,High
+Iowa,46500.0,0.0,59.0,High
+Vermont,26249.65,4.54,0.0,Moderate
+California,142442.5,0.0,54.0,High
+Alabama,44133.75,4.46,123.0,High
+Missouri,38307.0,0.0,45.0,High
+Kansas,478125.0,2.77,8.0,High
+Alabama,74362.0,1.37,83.0,High
+Nebraska,23859.58,0.0,55.0,High
+Oklahoma,39975.0,0.0,29.0,High
+Pennsylvania,730769.0,0.0,66.0,High
+Indiana,60250.0,0.0,62.0,Low
+North Carolina,18899.0,0.0,13.0,High
+Missouri,550935.0,2.56,28.0,High
+New Jersey,3346124.69,12.62,56.0,High
+Pennsylvania,0.0,1.45,47.0,High
+Kansas,579797.0,3.48,25.0,High
+Maryland,63132.0,0.0,37.0,Moderate
+Missouri,154691.88,1.98,22.0,High
+Alabama,4000.0,1.85,46.0,High
+Oklahoma,318263.0,4.45,66.0,High
+Alabama,1691.0,0.0,14.0,High
+Wisconsin,27000.0,0.0,49.0,Moderate
+Virginia,45833.0,0.0,30.0,Moderate
+Mississippi,49410.0,0.0,18.0,High
+Washington,193133.0,0.0,72.0,High
+Texas,409527.75,0.0,66.0,High
+Michigan,0.0,2.76,26.0,Moderate
+West Virginia,13426.34,0.0,0.0,Moderate
+Maine,99909.0,1.17,29.0,Low
+Oklahoma,30000.0,0.0,13.0,High
+Iowa,3750.0,0.0,25.0,High
+Texas,53049.0,0.0,146.0,High
+Louisiana,50000.0,0.0,48.0,High
+Alabama,489176.0,0.0,35.0,High
+Florida,156461.19,1.43,52.0,High
+Missouri,16125.0,0.0,13.0,High
+New Hampshire,7500.0,0.0,26.0,Moderate
+Michigan,40875.0,0.0,76.0,Moderate
+Louisiana,3961814.53,1.42,160.0,High
+New Jersey,40900.0,1.0,98.0,High
+Kansas,303675.0,2.85,38.0,High
+Alabama,12386.0,1.37,39.0,High
+Kansas,110313.24,1.95,14.0,High
+North Carolina,745550.0,3.82,49.0,High
+Alabama,5760.0,1.83,9.0,High
+Maryland,58541.0,0.0,13.0,Moderate
+Louisiana,1860319.0,1.07,86.0,High
+Indiana,18720.0,0.0,58.0,Low
+Illinois,14000.0,0.0,58.0,Moderate
+Arkansas,8509.0,0.0,61.0,Moderate
+Alabama,23375.0,7.78,75.0,High
+Florida,233453.07,2.71,69.0,High
+North Carolina,1375578.0,0.0,57.0,High
+Florida,103305.0,2.39,42.0,High
+South Dakota,78201.56,0.0,39.0,High
+Florida,124943.63,1.92,54.0,High
+Florida,6943.0,10.76,12.0,High
+North Carolina,11957931.0,0.0,82.0,High
+Oregon,84066.08,1.5,40.0,Moderate
+Texas,29999.0,0.0,53.0,High
+Virginia,50000.0,0.0,85.0,Moderate
+Florida,58832.0,1.61,46.0,High
+Florida,23479.0,2.18,16.0,High
+Colorado,600646.83,48.88,42.0,Moderate
+Iowa,44704.0,0.0,50.0,High
+Florida,77842.09,1.57,40.0,High
+Texas,34259.0,0.0,28.0,High
+Virginia,30555.0,0.0,-1.0,Moderate
+Connecticut,244591.0,1.13,34.0,Moderate
+South Carolina,8843.0,0.0,39.0,Moderate
+Florida,9319.0,2.04,40.0,High
+Utah,12468.0,1.23,31.0,Low
+Wyoming,2764684.31,2.03,57.0,Low
+Maryland,280029.0,1.01,25.0,Moderate
+South Carolina,1500000.0,1.0,44.0,Moderate
+Oklahoma,22500.0,0.0,38.0,High
+Georgia,2625750.0,2.43,48.0,High
+Massachusetts,120837.88,0.0,54.0,Moderate
+Arkansas,26250.0,0.0,47.0,Moderate
+Florida,160491.0,4.72,47.0,High
+Florida,199369.0,2.24,30.0,High
+Vermont,2816.0,1.52,17.0,Moderate
+Puerto Rico,1192147.0,8.48,62.0,Moderate
+Texas,33220788.0,9.64,99.0,High
+Alabama,50419.0,0.0,25.0,High
+Louisiana,75727.0,1.15,93.0,High
+Tennessee,391314.0,3.32,46.0,Moderate
+Florida,24195.19,1.82,50.0,High
+Florida,282273.0,10.42,48.0,High
+Texas,37500.0,0.0,106.0,High
+Alabama,80149.91,11.22,90.0,High
+Connecticut,152129.0,0.0,38.0,Moderate
+Oklahoma,915540.62,9.18,59.0,High
+Kentucky,66767.0,0.0,23.0,High
+Maine,61340.0,1.04,30.0,Low
+Alabama,65494.0,13.17,18.0,High
+Florida,658038.0,12.35,41.0,High
+Connecticut,122905.0,0.0,52.0,Moderate
+Arkansas,98026.73,8.45,36.0,Moderate
+Mississippi,134625.0,0.0,23.0,High
+Oklahoma,28000.0,0.0,69.0,High
+New Jersey,0.0,0.0,98.0,High
+Oklahoma,69000.0,0.0,41.0,High
+Iowa,17175.0,0.0,8.0,High
+Washington,72884.0,0.0,56.0,High
+Nevada,155105.0,0.0,72.0,Low
+Maine,75789.9,1.84,0.0,Low
+Kansas,621982.0,12.66,32.0,High
+Washington,17163.0,0.0,54.0,High
+Ohio,2262.0,0.0,38.0,Moderate
+Mississippi,409491.0,0.0,80.0,High
+Vermont,66750.0,1.13,100.0,Moderate
+North Carolina,163011.0,1.54,70.0,High
+New Jersey,100000.0,0.0,79.0,High
+Missouri,141140.58,1.64,34.0,High
+Iowa,1078031.0,1.4,42.0,High
+Northern Mariana Islands,0.0,29.75,9.0,Low
+Ohio,50779.0,0.0,58.0,Moderate
+Alabama,14164.0,1.37,95.0,High
+North Carolina,65837.0,0.0,41.0,High
+Alabama,499020.0,0.0,55.0,High
+Oregon,207619.89,0.0,29.0,Moderate
+Vermont,780.0,1.0,-19.0,Moderate
+Florida,1418597.44,1.18,78.0,High
+Nebraska,77250.0,0.0,44.0,High
+New Jersey,10000000.0,1.09,42.0,High
+Pennsylvania,338874.94,2.64,49.0,High
+Oklahoma,30000.0,0.0,30.0,High
+West Virginia,896541.0,0.0,47.0,Moderate
+Virginia,31190.62,6.64,46.0,Moderate
+North Dakota,358875.0,2.73,33.0,High
+Oklahoma,42468.0,0.0,49.0,High
+Florida,8254320.0,1.59,56.0,High
+Kansas,181791.0,1.05,44.0,High
+Kentucky,26137.0,0.0,14.0,High
+Florida,132277.0,4.16,34.0,High
+Oregon,0.0,1.2,9.0,Moderate
+California,49926.0,0.0,34.0,High
+West Virginia,454719.0,0.0,35.0,Moderate
+Virginia,31395.0,0.0,13.0,Moderate
+Washington,90993.0,1.26,93.0,High
+Texas,1580963.85,1.17,70.0,High
+Connecticut,41283.0,0.0,29.0,Moderate
+Alaska,1822204.5,1.87,105.0,Low
+Florida,51256.0,7.14,31.0,High
+Nebraska,32041.0,0.0,29.0,High
+New Jersey,172891.0,3.52,53.0,High
+New York,218714.0,1.2,50.0,High
+Kentucky,70854.0,0.0,64.0,High
+Michigan,235936.0,1.47,46.0,Moderate
+Alabama,69857.4,9.57,113.0,High
+Louisiana,527912.0,1.05,109.0,High
+Texas,832571.44,1.0,103.0,High
+California,1521903.0,1.03,62.0,High
+Texas,1.0,0.0,67.0,High
+Michigan,82500.0,2.14,64.0,Moderate
+Missouri,769418.0,0.91,128.0,High
+Texas,324000.0,0.0,53.0,High
+Massachusetts,35565.0,1.1,56.0,Moderate
+Wisconsin,619442.01,1.11,59.0,Moderate
+Wisconsin,48771.0,1.12,50.0,Moderate
+New York,19347.0,0.0,100.0,High
+South Carolina,204968.0,1.0,18.0,Moderate
+California,3000000.0,6.09,80.0,High
+Ohio,391444.0,10.06,53.0,Moderate
+Arizona,532444.0,2.07,38.0,Low
+North Carolina,24000.0,0.0,38.0,High
+New Jersey,123607.0,0.0,48.0,High
+Connecticut,48750.0,0.0,42.0,Moderate
+Wisconsin,8204.0,0.0,60.0,Moderate
+Michigan,19665.0,0.0,20.0,Moderate
+Texas,171351.75,7.99,52.0,High
+Connecticut,89977.0,0.0,96.0,Moderate
+Alabama,23970.0,0.0,39.0,High
+New Jersey,74245.0,0.0,111.0,High
+Nebraska,132165.0,0.0,26.0,High
+Florida,384306.75,2.05,38.0,High
+Florida,198070.51,4.47,40.0,High
+Massachusetts,370356.0,1.28,48.0,Moderate
+Oklahoma,14835.0,0.0,24.0,High
+Florida,413786.0,3.4,40.0,High
+Florida,1639364.59,1.95,72.0,High
+North Carolina,337.5,3.0,47.0,High
+Florida,0.0,1.19,27.0,High
+New York,59271.0,0.0,33.0,High
+Nebraska,1226716.0,1.12,44.0,High
+Nebraska,15677.0,0.0,28.0,High
+Ohio,103345.99,1.62,35.0,Moderate
+Kentucky,252793.51,4.17,93.0,High
+Washington,704967.0,1.27,67.0,High
+New Jersey,0.0,1.13,29.0,High
+Maryland,127451.0,0.0,46.0,Moderate
+California,20234.0,0.0,17.0,High
+Georgia,46658.0,0.0,11.0,High
+Minnesota,92966.0,0.0,71.0,Moderate
+North Carolina,1076840.71,1.35,116.0,High
+New Jersey,100000.0,38.54,72.0,High
+West Virginia,300339.0,0.0,58.0,Moderate
+Alabama,32658.75,0.0,115.0,High
+Oklahoma,23159.86,0.0,47.0,High
+Delaware,1053.0,0.0,19.0,Low
+Nebraska,7500.0,0.0,31.0,High
+Florida,14843.0,9.51,20.0,High
+Oklahoma,1500.0,0.0,75.0,High
+Georgia,24146.0,0.0,28.0,High
+Ohio,219667.0,0.0,38.0,Moderate
+South Carolina,175534.91,1.0,60.0,Moderate
+Puerto Rico,33750.0,0.0,48.0,Moderate
+Kansas,17757.0,0.0,42.0,High
+Iowa,338212.45,0.0,23.0,High
+New Jersey,0.0,0.0,31.0,High
+Illinois,52500.0,0.0,37.0,Moderate
+Alaska,18750.0,0.0,34.0,Low
+Oklahoma,27253.0,0.0,45.0,High
+Mississippi,29087.0,0.0,16.0,High
+Texas,1481250.0,7.7,120.0,High
+Kentucky,15202.0,0.0,41.0,High
+Vermont,1970475.0,2.54,29.0,Moderate
+South Carolina,66000.0,1.02,24.0,Moderate
+Iowa,1128822.0,2.72,41.0,High
+Alabama,130102.5,7.17,117.0,High
+New York,0.0,2.49,69.0,High
+Wisconsin,107511.5,3.75,38.0,Moderate
+Iowa,170773.0,1.02,63.0,High
+New York,38100.0,1.16,89.0,High
+California,114386.0,0.0,35.0,High
+Virginia,353112.0,0.0,22.0,Moderate
+Iowa,1641847.0,1.12,40.0,High
+Minnesota,124141.0,0.0,27.0,Moderate
+Oklahoma,4949.0,0.0,52.0,High
+North Carolina,22500.0,0.0,57.0,High
+Mississippi,29249.0,0.0,48.0,High
+Georgia,21454.0,0.0,48.0,High
+Kansas,37500.0,0.0,17.0,High
+Oklahoma,1008.0,0.0,72.0,High
+Mississippi,155601.0,1.0,39.0,High
+Tennessee,1061602.0,45.55,43.0,Moderate
+Louisiana,43200.0,0.0,128.0,High
+Alabama,7000.0,9.01,16.0,High
+Texas,75000.0,24.75,28.0,High
+Vermont,204311.07,0.0,112.0,Moderate
+South Dakota,365305.0,0.0,47.0,High
+Florida,4493.0,7.72,39.0,High
+Pennsylvania,57206.0,0.0,41.0,High
+Florida,45882.0,2.01,40.0,High
+Pennsylvania,256345.0,0.0,66.0,High
+Oklahoma,27810.0,0.0,38.0,High
+Iowa,66571.0,0.0,81.0,High
+Alabama,48038.0,3.83,72.0,High
+Florida,952942.0,0.0,97.0,High
+California,0.0,0.0,27.0,High
+New Jersey,100000.0,0.0,35.0,High
+Louisiana,0.0,15.09,94.0,High
+Texas,227969.22,0.0,93.0,High
+Virginia,407324.64,1.6,45.0,Moderate
+Washington,3500061.0,2.61,47.0,High
+Alabama,76244.0,1.23,63.0,High
+Tennessee,819728.0,1.78,53.0,Moderate
+Florida,128995.12,0.0,54.0,High
+North Dakota,200111.0,1.09,25.0,High
+West Virginia,718950.0,1.0,0.0,Moderate
+New Hampshire,9147.0,1.07,10.0,Moderate
+Oklahoma,17921.0,0.0,20.0,High
+Kentucky,38435.0,0.0,24.0,High
+Texas,405000.0,0.0,114.0,High
+Wisconsin,1012941.0,0.0,74.0,Moderate
+Massachusetts,25770.0,0.0,68.0,Moderate
+Alabama,128699.0,0.0,130.0,High
+Nebraska,45000.0,0.0,35.0,High
+California,57540.88,11.19,26.0,High
+New Jersey,469759.0,1.23,18.0,High
+Utah,507500.0,1.0,62.0,Low
+Oklahoma,6000.0,0.0,100.0,High
+Montana,7550.0,1.0,20.0,Low
+Northern Mariana Islands,4318.0,6.33,66.0,Low
+Alabama,0.0,0.0,6.0,High
+Guam,290700.0,1.82,110.0,Low
+Oklahoma,105469.0,3.57,68.0,High
+Kentucky,96762.0,8.4,24.0,High
+Missouri,1302076.0,3.57,29.0,High
+Louisiana,56450.0,27.82,89.0,High
+Oklahoma,149225.15,8.85,63.0,High
+Vermont,12176.23,0.0,67.0,Moderate
+Louisiana,864841.0,5.23,138.0,High
+New Jersey,100000.0,0.0,101.0,High
+South Carolina,326479.5,10.08,33.0,Moderate
+North Carolina,190830.6,1.95,69.0,High
+Pennsylvania,377827.0,0.0,0.0,High
+Mississippi,45720.0,1189.22,21.0,High
+Mississippi,208088.0,0.0,39.0,High
+Illinois,46211.0,0.0,48.0,Moderate
+Mississippi,415005.0,0.0,10.0,High
+Virginia,527946.0,1.02,0.0,Moderate
+Oregon,27464.0,0.0,64.0,Moderate
+Texas,116250.0,1.33,57.0,High
+Michigan,181732.0,0.0,108.0,Moderate
+Iowa,1314967.0,0.0,46.0,High
+Alabama,13650.0,1.37,94.0,High
+Arizona,10042.0,0.0,48.0,Low
+Alaska,257271.0,2.32,34.0,Low
+Mississippi,42744.0,4.68,37.0,High
+Virginia,130007.0,0.0,25.0,Moderate
+Louisiana,3030672.32,1.56,150.0,High
+Oklahoma,37500.0,0.0,52.0,High
+Alabama,65895.0,1.37,96.0,High
+Missouri,272918.0,2.23,131.0,High
+Alabama,42376.0,1.37,91.0,High
+Alabama,36000.0,1.37,96.0,High
+Maryland,67500.0,1.0,0.0,Moderate
+Minnesota,156109.0,1.18,48.0,Moderate
+Arizona,15355.0,0.0,38.0,Low
+Washington,3450930.9,9.12,66.0,High
+Tennessee,167462.0,17.01,85.0,Moderate
+Kansas,1093764.0,1.06,38.0,High
+Louisiana,927660.0,1.0,86.0,High
+Missouri,2553285.5,2.0,45.0,High
+Florida,253429.0,1.3,52.0,High
+Florida,122668.0,1.98,42.0,High
+Puerto Rico,0.0,0.0,58.0,Moderate
+Florida,26250.0,1.5,31.0,High
+Connecticut,26922.0,0.0,45.0,Moderate
+Florida,48750.0,3.55,43.0,High
+New Hampshire,10550.0,2.57,28.0,Moderate
+Alabama,10886.0,0.0,23.0,High
+Alabama,24500.0,1.91,9.0,High
+Guam,43106.0,1.31,110.0,Low
+Nebraska,15346.91,0.0,32.0,High
+Missouri,30120.0,0.0,19.0,High
+Michigan,36990.0,1.06,86.0,Moderate
+Iowa,22059.0,0.0,33.0,High
+Ohio,961150.35,1.28,53.0,Moderate
+Oklahoma,20000.0,0.0,68.0,High
+Iowa,29760.0,0.0,8.0,High
+Texas,138517.5,6.87,60.0,High
+North Carolina,10684.66,1.17,44.0,High
+Texas,16509.6,0.0,110.0,High
+Alabama,27650.0,1.26,22.0,High
+Oklahoma,1500.0,0.0,56.0,High
+Texas,57713.0,0.0,102.0,High
+Colorado,278457.57,1.18,33.0,Moderate
+Florida,482685.0,2.89,23.0,High
+Colorado,0.0,0.0,35.0,Moderate
+North Dakota,44588.0,1.13,42.0,High
+Georgia,11723.0,0.0,11.0,High
+California,113584.41,0.0,46.0,High
+Colorado,23739.0,0.0,44.0,Moderate
+Oklahoma,81450.0,9.22,72.0,High
+Ohio,195060.09,1.0,42.0,Moderate
+Arkansas,134712.0,0.0,42.0,Moderate
+Texas,1537651.82,0.0,69.0,High
+Mississippi,34556.0,0.0,19.0,High
+Mississippi,394740.0,0.0,59.0,High
+Nevada,37346.0,0.0,18.0,Low
+Illinois,70270.0,0.0,53.0,Moderate
+Pennsylvania,444454.07,1.0,53.0,High
+Texas,213017.77,2.09,51.0,High
+Texas,199892.72,1.34,74.0,High
+Illinois,0.0,1.0,72.0,Moderate
+Kentucky,91872.0,0.0,31.0,High
+Pennsylvania,445630.0,0.0,59.0,High
+Oklahoma,1500.0,0.0,52.0,High
+Iowa,15675.0,0.0,24.0,High
+Kansas,95459.0,2.12,44.0,High
+Texas,89238.0,0.0,88.0,High
+Tennessee,1116112.5,1.54,34.0,Moderate
+Missouri,30000.0,0.0,23.0,High
+Florida,159853.95,2.11,53.0,High
+Kentucky,51518.0,9.85,41.0,High
+Connecticut,171150.0,8.33,89.0,Moderate
+Alabama,1298513.0,13.78,37.0,High
+Minnesota,19500.0,1.32,66.0,Moderate
+Kansas,84113.0,2.23,39.0,High
+Ohio,124021.8,0.0,33.0,Moderate
+Louisiana,246867.0,7.31,43.0,High
+Florida,32672.0,1.36,31.0,High
+Colorado,630234.0,2.87,53.0,Moderate
+New Jersey,355590.0,1.08,66.0,High
+Kansas,14251.0,0.0,21.0,High
+Missouri,362293.0,2.87,40.0,High
+Florida,179828.0,3.35,45.0,High
+Maryland,267058.0,0.0,53.0,Moderate
+Texas,59062.51,0.0,66.0,High
+New Jersey,0.0,0.0,27.0,High
+Kentucky,47125.0,0.0,19.0,High
+Kentucky,47017.0,5.06,32.0,High
+Kentucky,74300.0,0.0,20.0,High
+California,485391.75,0.0,48.0,High
+Nebraska,11250.0,0.0,36.0,High
+New Jersey,153000.0,1.12,106.0,High
+Oklahoma,1500.0,0.0,52.0,High
+North Dakota,137570.0,1.54,26.0,High
+Pennsylvania,527770.0,0.0,66.0,High
+Washington,40433.0,14.52,56.0,High
+Colorado,96220.26,0.0,27.0,Moderate
+Alabama,3357.0,1.37,88.0,High
+Washington,1449217.5,3.86,163.0,High
+Oklahoma,421132.48,3.69,82.0,High
+Mississippi,12227.0,0.0,24.0,High
+Iowa,34392.0,0.0,52.0,High
+Missouri,408683.3,2.02,32.0,High
+South Carolina,20745.0,2.76,19.0,Moderate
+Vermont,30291.0,1.52,28.0,Moderate
+Arkansas,661500.0,3.08,43.0,Moderate
+West Virginia,136894.0,1.59,19.0,Moderate
+Ohio,188664.0,1.09,35.0,Moderate
+Alabama,11328015.48,1.13,180.0,High
+West Virginia,68476.0,4.07,38.0,Moderate
+Iowa,31710.0,0.0,19.0,High
+Puerto Rico,142882.0,0.0,28.0,Moderate
+Oregon,14264.64,0.0,49.0,Moderate
+Mississippi,0.0,22.94,15.0,High
+Texas,274425.0,1.53,148.0,High
+Alaska,83890.0,2.99,32.0,Low
+Oklahoma,184379.0,1.67,56.0,High
+Missouri,2835.0,0.0,0.0,High
+Kansas,60781.4,0.0,56.0,High
+Mississippi,35084.0,22.32,41.0,High
+Tennessee,337366.0,1.01,34.0,Moderate
+Alabama,55747.5,7.09,81.0,High
+Louisiana,293633.39,1.06,98.0,High
+Iowa,29288.0,0.0,65.0,High
+Iowa,27711.0,0.0,12.0,High
+West Virginia,739987.0,3.04,0.0,Moderate
+Massachusetts,0.0,1.33,2.0,Moderate
+New York,1142250.0,1.72,49.0,High
+Tennessee,16927.0,0.0,43.0,Moderate
+Massachusetts,46725.0,1.24,31.0,Moderate
+South Carolina,312674.58,0.0,63.0,Moderate
+Alabama,77734.38,1.37,130.0,High
+Puerto Rico,16444.0,1.29,57.0,Moderate
+Colorado,5289.08,0.0,53.0,Moderate
+Kentucky,84325.0,0.0,33.0,High
+Ohio,277198.0,1.27,55.0,Moderate
+Texas,322425.0,2.51,102.0,High
+Texas,163215.0,1.08,57.0,High
+Nebraska,262702.0,2.2,30.0,High
+Florida,19724.0,2.67,26.0,High
+Texas,0.0,31.52,0.0,High
+Alabama,80438.0,5.23,52.0,High
+New York,157246.0,1.48,48.0,High
+Georgia,96803.0,17.57,25.0,High
+Mississippi,124527.0,1.73,28.0,High
+Kentucky,40918.0,4.75,54.0,High
+New Jersey,250000.0,2.26,15.0,High
+North Dakota,12750.0,3.32,53.0,High
+Oklahoma,292500.0,2.82,75.0,High
+New Jersey,0.0,0.0,70.0,High
+Pennsylvania,124873.0,0.0,0.0,High
+North Dakota,69027.0,1.43,34.0,High
+New Jersey,75000.0,0.0,79.0,High
+New York,159069.0,0.0,80.0,High
+Virginia,821365.2,1.98,45.0,Moderate
+Massachusetts,313958.0,0.0,87.0,Moderate
+Virginia,1180000.0,1.04,122.0,Moderate
+Missouri,1405844.0,1.97,40.0,High
+New York,4264977.0,1.03,69.0,High
+South Dakota,49222.5,2.44,26.0,High
+New York,121178.0,1.24,25.0,High
+Oklahoma,1500.0,0.0,45.0,High
+Missouri,1320149.0,1.35,41.0,High
+Tennessee,5506.0,0.0,4.0,Moderate
+Mississippi,60484.0,0.0,-7.0,High
+South Dakota,8986.0,0.0,26.0,High
+Oklahoma,20000.0,0.0,102.0,High
+Missouri,19287.93,0.0,13.0,High
+Florida,614071.99,0.0,75.0,High
+Washington,180533.0,0.0,98.0,High
+Oklahoma,33095.0,0.0,32.0,High
+Florida,0.0,12.7,15.0,High
+Tennessee,83794.0,0.0,4.0,Moderate
+Louisiana,800122.0,1.14,72.0,High
+Northern Mariana Islands,36400.0,1.97,54.0,Low
+Florida,1213144.0,11.42,58.0,High
+Alabama,35455.0,1.37,93.0,High
+Minnesota,53064.0,1.12,58.0,Moderate
+New Jersey,14360.0,0.0,21.0,High
+Alabama,222861.0,0.0,69.0,High
+Texas,176158.29,0.0,54.0,High
+North Carolina,72809.0,1.01,43.0,High
+Kansas,11175.0,0.0,39.0,High
+Texas,636599.0,0.0,88.0,High
+South Dakota,70332.0,1.61,20.0,High
+Oklahoma,20000.0,0.0,80.0,High
+Colorado,32878.64,0.0,32.0,Moderate
+New York,405735.0,1.03,25.0,High
+Kansas,384574.0,2.57,24.0,High
+Mississippi,1942982.0,35.24,64.0,High
+Alabama,14282.0,0.0,15.0,High
+Nebraska,9000.0,0.0,13.0,High
+Alabama,8109.0,1.37,10.0,High
+Virgin Islands of the U.S.,17187.0,3.04,81.0,Low
+Texas,975000.0,5.51,36.0,High
+Louisiana,48000.0,0.0,42.0,High
+South Carolina,3609.0,0.0,34.0,Moderate
+Nevada,159533.24,6.32,41.0,Low
+West Virginia,692792.48,1.94,41.0,Moderate
+Arkansas,259560.0,1.0,34.0,Moderate
+Alaska,163420.0,0.0,113.0,Low
+Wisconsin,22808.57,0.0,48.0,Moderate
+Georgia,30235.0,0.0,26.0,High
+Ohio,18750.0,0.0,58.0,Moderate
+California,751396.17,3.39,27.0,High
+Nebraska,39125.0,4.1,20.0,High
+South Dakota,94112.0,1.06,34.0,High
+Louisiana,547678.0,1.45,164.0,High
+Connecticut,88807.0,1.03,26.0,Moderate
+Mississippi,57675.0,0.0,35.0,High
+Iowa,85047.0,0.0,37.0,High
+California,76804.44,0.0,41.0,High
+Connecticut,46674.75,3.6,0.0,Moderate
+California,768434.0,1.05,58.0,High
+Tennessee,427157.0,1.73,33.0,Moderate
+Pennsylvania,602010.0,0.0,-2.0,High
+Iowa,4500.0,0.0,29.0,High
+South Dakota,13770.75,0.0,35.0,High
+Florida,675302.0,14.91,59.0,High
+Ohio,924276.0,0.0,48.0,Moderate
+Iowa,419118.0,1.11,30.0,High
+Texas,19500.0,0.0,99.0,High
+Idaho,6107.0,3.04,12.0,Low
+Arkansas,444685.0,1.0,47.0,Moderate
+Texas,26358.0,0.0,71.0,High
+Nebraska,42825.0,0.0,23.0,High
+Illinois,157875.0,1.0,58.0,Moderate
+Mississippi,17337.0,0.0,8.0,High
+Alabama,5772.0,0.0,14.0,High
+Florida,36403.0,3.42,53.0,High
+Alabama,16587.33,1.37,131.0,High
+New Jersey,0.0,2.37,88.0,High
+Georgia,19235.3,0.0,67.0,High
+Kansas,20356.0,0.0,41.0,High
+Iowa,60497.0,0.0,42.0,High
+Florida,429975.0,9.28,46.0,High
+Alabama,213524.0,0.0,55.0,High
+New Jersey,69491.0,0.0,56.0,High
+Texas,29933.0,0.0,64.0,High
+North Dakota,91461.0,0.0,37.0,High
+North Dakota,2822788.0,6.75,45.0,High
+New York,180856.0,0.0,3.0,High
+Arkansas,273912.0,5.21,58.0,Moderate
+Delaware,31977.0,1.73,3.0,Low
+Kentucky,285656.0,1.19,60.0,High
+Texas,270662.0,4.0,87.0,High
+Oklahoma,14971.69,0.0,42.0,High
+Utah,29898.62,0.0,52.0,Low
+Alaska,262487.0,1.32,33.0,Low
+Michigan,4962477.87,1.03,86.0,Moderate
+Iowa,163237.28,0.0,14.0,High
+Mississippi,13507.0,0.0,20.0,High
+North Dakota,3166767.46,1.44,62.0,High
+Guam,1669798.0,1.3,110.0,Low
+Pennsylvania,139300.0,0.0,51.0,High
+North Dakota,239941.0,0.0,29.0,High
+Virginia,300825.0,4.82,33.0,Moderate
+Washington,86539.49,2.32,47.0,High
+Texas,211721.42,1.48,104.0,High
+Texas,15917.0,55.5,83.0,High
+Oregon,3000.0,0.0,57.0,Moderate
+New York,41797.3,0.0,76.0,High
+Oregon,731512.5,1.4,87.0,Moderate
+Louisiana,130538.0,3.46,90.0,High
+Florida,204488.0,2.11,26.0,High
+Wisconsin,0.0,0.0,47.0,Moderate
+Michigan,71931.0,2.16,31.0,Moderate
+South Dakota,4361.0,2.73,9.0,High
+Texas,804659.0,1.05,139.0,High
+Connecticut,0.0,0.0,40.0,Moderate
+Ohio,160102.0,0.0,31.0,Moderate
+Tennessee,452619.75,1.53,57.0,Moderate
+Oklahoma,450.0,0.0,44.0,High
+Georgia,339707.0,1.85,47.0,High
+Oregon,363998.0,0.0,45.0,Moderate
+South Dakota,100956.0,1.01,23.0,High
+Florida,78827.0,9.57,25.0,High
+New York,0.0,1.0,68.0,High
+Texas,7062404.0,1.17,97.0,High
+Tennessee,40070.0,0.0,25.0,Moderate
+Texas,58275.0,0.0,82.0,High
+Mississippi,263255.0,3.21,59.0,High
+Oklahoma,54702.13,9.18,46.0,High
+Kentucky,237830.18,10.48,35.0,High
+Iowa,515170.0,2.62,19.0,High
+Louisiana,263317.32,1.1,103.0,High
+Iowa,742015.0,1.41,38.0,High
+Wisconsin,350475.0,1.29,55.0,Moderate
+Texas,341154.0,0.0,109.0,High
+California,59727.0,0.0,12.0,High
+Massachusetts,309293.0,2.62,53.0,Moderate
+Vermont,107580.0,0.0,90.0,Moderate
+Alabama,55908.0,5.52,10.0,High
+North Dakota,1637212.5,1.49,35.0,High
+Florida,205818.0,7.84,37.0,High
+Mississippi,204810.0,0.0,-9.0,High
+Alabama,48925.47,4.86,121.0,High
+New York,0.0,2.35,69.0,High
+Oklahoma,1500.0,0.0,82.0,High
+Kentucky,200411.03,2.19,65.0,High
+Guam,17883.0,2.41,120.0,Low
+Hawaii,150095.0,0.0,86.0,Low
+Texas,2458458.0,0.0,153.0,High
+South Dakota,22500.0,0.0,43.0,High
+Louisiana,1846518.31,1.0,111.0,High
+Guam,1017804.0,0.0,130.0,Low
+South Dakota,0.0,5.3,23.0,High
+Mississippi,239550.0,0.0,59.0,High
+Nevada,27000.0,6.15,29.0,Low
+Mississippi,5252.0,29.15,18.0,High
+Iowa,16378.0,0.0,43.0,High
+Oklahoma,4000.0,0.0,94.0,High
+South Dakota,75334.0,1.06,13.0,High
+Maine,212841.0,1.13,77.0,Low
+Connecticut,186237.0,1.16,30.0,Moderate
+Washington,50741.0,0.0,63.0,High
+New York,38003.0,0.0,43.0,High
+Wisconsin,48744.3,1.68,56.0,Moderate
+Kentucky,1044344.04,1.0,75.0,High
+Oklahoma,1500.0,0.0,81.0,High
+New Jersey,558174.56,5.97,48.0,High
+Alabama,69491.66,4.33,116.0,High
+Florida,810925.0,1.23,105.0,High
+Pennsylvania,708583.0,0.0,-26.0,High
+Nebraska,18754.0,0.0,68.0,High
+Iowa,420965.0,1.02,40.0,High
+Oklahoma,20000.0,0.0,96.0,High
+South Dakota,29065.0,0.0,5.0,High
+Florida,21707.61,1.42,34.0,High
+Nebraska,29160.0,0.0,24.0,High
+Colorado,23739.0,0.0,44.0,Moderate
+New Jersey,41025.0,1.67,39.0,High
+Wisconsin,34358.0,1.1,25.0,Moderate
+North Carolina,9251.0,0.0,40.0,High
+Alabama,19838.0,0.0,12.0,High
+Massachusetts,572254.0,3.52,83.0,Moderate
+South Dakota,7500.0,0.0,26.0,High
+New York,57320.0,4.04,102.0,High
+Wisconsin,630399.17,2.11,48.0,Moderate
+Arkansas,14644.38,11.25,46.0,Moderate
+South Carolina,38587.5,7.33,26.0,Moderate
+Maryland,3206314.0,5.51,38.0,Moderate
+Alabama,13853.0,2.29,48.0,High
+Maryland,75000.0,1.0,62.0,Moderate
+Virgin Islands of the U.S.,176393.0,1.65,81.0,Low
+Florida,2244812.18,1.04,65.0,High
+Louisiana,143465.0,0.0,58.0,High
+New York,14225.0,0.0,40.0,High
+New Jersey,952106.0,1.02,38.0,High
+Ohio,6500.0,0.0,49.0,Moderate
+Florida,18563.0,2.34,34.0,High
+Nebraska,600.0,0.0,41.0,High
+Iowa,11463.75,22.41,19.0,High
+Alaska,67500.0,1.28,43.0,Low
+Mississippi,39848.0,0.0,24.0,High
+South Carolina,133516.63,0.0,51.0,Moderate
+Wyoming,8689.8,0.0,40.0,Low
+New Hampshire,420700.81,2.05,62.0,Moderate
+Louisiana,446160.0,2.37,91.0,High
+New York,1949368.0,0.0,39.0,High
+New York,392723.0,1.02,102.0,High
+Georgia,93787.0,0.0,20.0,High
+Virginia,1684151.0,1.3,0.0,Moderate
+Arkansas,44460.0,1.0,33.0,Moderate
+Michigan,81375.0,0.0,73.0,Moderate
+Alabama,57807.0,3.83,70.0,High
+Pennsylvania,184900.0,2.0,22.0,High
+Kansas,25164.0,0.0,52.0,High
+Missouri,16125.0,0.0,25.0,High
+Florida,2133705.0,1.89,52.0,High
+South Dakota,15000.0,0.0,24.0,High
+North Carolina,736768.0,1.24,62.0,High
+New York,1562500.0,1.7,104.0,High
+Kansas,14790.0,0.0,26.0,High
+Puerto Rico,15000.0,0.0,36.0,Moderate
+Massachusetts,64261.0,0.0,38.0,Moderate
+Ohio,413660.19,1.0,52.0,Moderate
+Illinois,43850.0,0.0,53.0,Moderate
+Louisiana,22175.0,0.0,96.0,High
+Iowa,37500.0,0.0,39.0,High
+Oklahoma,28467.0,0.0,92.0,High
+Oklahoma,55184.63,0.0,32.0,High
+Arkansas,30000.0,0.0,80.0,Moderate
+Oklahoma,121875.0,5.05,52.0,High
+Florida,413024.0,0.0,100.0,High
+Minnesota,23381.0,0.0,36.0,Moderate
+Oklahoma,102702.98,0.0,51.0,High
+Washington,13248.0,0.0,39.0,High
+California,214433.25,1.18,24.0,High
+Mississippi,837855.0,3.99,49.0,High
+Illinois,47840.0,0.0,65.0,Moderate
+Arkansas,428001.0,1.99,49.0,Moderate
+Iowa,516150.0,1.41,44.0,High
+Texas,32909.81,1.26,37.0,High
+Michigan,59376.0,0.0,19.0,Moderate
+Texas,5075413.0,2.93,138.0,High
+Alabama,102614.03,7.17,117.0,High
+West Virginia,674896.0,0.0,33.0,Moderate
+Florida,3209765.0,0.0,141.0,High
+Kansas,462738.0,4.27,37.0,High
+New York,13483.0,0.0,82.0,High
+Missouri,1172683.0,2.25,27.0,High
+Iowa,3750.0,0.0,36.0,High
+Washington,37500.0,0.0,57.0,High
+Virginia,480092.0,1.02,54.0,Moderate
+Georgia,19023.0,0.0,47.0,High
+California,287066.26,0.0,-20.0,High
+Oklahoma,43125.0,0.0,56.0,High
+Florida,0.0,1.31,32.0,High
+Nebraska,1189034.0,1.16,51.0,High
+Montana,90532.0,0.0,25.0,Low
+Florida,5404.0,7.86,27.0,High
+Oklahoma,3408.0,0.0,75.0,High
+Alabama,26249.0,0.0,21.0,High
+Florida,96519.0,1.75,53.0,High
+Washington,30888.59,0.0,41.0,High
+New York,108028.0,1.07,58.0,High
+Ohio,10396.0,0.0,39.0,Moderate
+Alabama,12471.0,1.37,96.0,High
+California,0.0,4.01,7.0,High
+Kentucky,83259.0,0.0,12.0,High
+Virginia,43343.0,0.0,6.0,Moderate
+Florida,133501.13,0.0,76.0,High
+Texas,300764.0,2.13,69.0,High
+Kentucky,58361.0,4.77,28.0,High
+Massachusetts,86029.0,0.0,28.0,Moderate
+New Mexico,117539.72,2.96,53.0,Low
+North Carolina,75033.83,1.14,69.0,High
+Texas,33866.0,0.0,102.0,High
+Vermont,112746.0,1.58,36.0,Moderate
+Washington,487130.0,3.13,43.0,High
+Louisiana,219750.0,2.47,22.0,High
+Missouri,302410.35,0.0,33.0,High
+Ohio,1380166.0,1.92,40.0,Moderate
+Michigan,10822.0,0.0,45.0,Moderate
+Ohio,395553.33,1.0,56.0,Moderate
+New Jersey,0.0,2.54,29.0,High
+Nebraska,131069.0,0.0,33.0,High
+Iowa,9923.67,0.0,21.0,High
+Minnesota,15000.0,1.63,73.0,Moderate
+Arkansas,28125.0,0.0,32.0,Moderate
+Nebraska,18071.0,0.0,22.0,High
+California,984750.0,2.26,0.0,High
+California,38520.0,0.0,100.0,High
+Pennsylvania,287795.0,0.0,0.0,High
+Michigan,69706.0,2.17,60.0,Moderate
+New Jersey,64029.0,0.0,39.0,High
+North Carolina,587675.19,1.12,58.0,High
+Tennessee,86265.0,0.0,45.0,Moderate
+Iowa,414473.0,145.4,27.0,High
+Mississippi,37613.0,0.0,22.0,High
+Connecticut,319940.0,1.03,78.0,Moderate
+New Jersey,0.0,1.11,44.0,High
+Mississippi,363084.0,0.0,92.0,High
+North Carolina,7500.0,0.0,22.0,High
+North Carolina,106224.0,0.0,61.0,High
+Iowa,439850.25,1.45,34.0,High
+Alabama,165980.0,0.0,22.0,High
+South Dakota,97375.0,1.6,21.0,High
+Illinois,115661.11,2.35,103.0,Moderate
+Texas,922156.14,3.93,69.0,High
+Oklahoma,1500.0,0.0,52.0,High
+Texas,25357.5,0.0,40.0,High
+Montana,9305.51,0.0,49.0,Low
+Texas,94847.0,0.0,125.0,High
+Minnesota,162919.0,1.8,72.0,Moderate
+Oklahoma,30000.0,0.0,39.0,High
+Vermont,0.0,0.0,13.0,Moderate
+Illinois,134477.19,3.01,101.0,Moderate
+South Dakota,181106.0,1.18,22.0,High
+North Dakota,427373.0,1.11,40.0,High
+Michigan,261934.17,4.09,68.0,Moderate
+Minnesota,69056.0,0.0,89.0,Moderate
+Florida,113992.0,4.46,50.0,High
+Michigan,150000.0,1.33,87.0,Moderate
+Texas,6569029.0,0.0,144.0,High
+Kentucky,45365.98,0.0,83.0,High
+Wisconsin,18750.0,0.0,24.0,Moderate
+Tennessee,2013619.5,5.53,23.0,Moderate
+Massachusetts,517080.0,1.12,68.0,Moderate
+Louisiana,268887.0,1.31,62.0,High
+Mississippi,0.0,0.0,33.0,High
+Alabama,21255.0,1.37,66.0,High
+Oklahoma,13195.0,0.0,67.0,High
+Louisiana,540275.0,1.53,120.0,High
+Oklahoma,20000.0,0.0,91.0,High
+New Jersey,0.0,0.0,58.0,High
+South Dakota,86898.0,1.03,17.0,High
+Alaska,26220.0,0.0,32.0,Low
+Massachusetts,380606.0,2.72,57.0,Moderate
+Pennsylvania,86025.0,0.0,35.0,High
+New Jersey,360132.0,0.0,55.0,High
+Iowa,17190.57,0.0,10.0,High
+South Dakota,11250.0,0.0,28.0,High
+Iowa,200000.0,1.9,42.0,High
+Texas,68688.0,0.0,93.0,High
+Alabama,36398.0,2.7,18.0,High
+Texas,1844387.5,2.74,93.0,High
+Mississippi,25851.0,0.0,18.0,High
+California,0.0,0.0,10.0,High
+California,14544.0,0.0,23.0,High
+Washington,3000000.0,13.33,0.0,High
+Missouri,855546.0,2.46,39.0,High
+Florida,230287.5,1.91,56.0,High
+Iowa,11029.0,0.0,49.0,High
+Alabama,4000.0,2.18,84.0,High
+Virginia,7500.0,0.0,19.0,Moderate
+Missouri,154113.72,0.0,23.0,High
+Mississippi,45000.0,3.66,22.0,High
+Alaska,63141.6,71.36,61.0,Low
+Louisiana,467678.0,1.02,105.0,High
+North Carolina,221379.0,7.35,81.0,High
+Puerto Rico,450917.0,0.0,60.0,Moderate
+Florida,394097.43,1.11,49.0,High
+Missouri,514754.0,0.0,51.0,High
+Florida,25356.0,1.78,58.0,High
+Oklahoma,81740.0,0.0,65.0,High
+Minnesota,93276.0,1.3,17.0,Moderate
+Alabama,4716.0,1.37,99.0,High
+Iowa,17250.0,0.0,33.0,High
+Virginia,18055.0,0.0,0.0,Moderate
+Nebraska,542061.0,3.43,57.0,High
+New Jersey,554309.0,0.0,77.0,High
+Florida,2188298.17,1.27,64.0,High
+Alabama,48910.0,1.37,96.0,High
+Ohio,25000.0,0.0,34.0,Moderate
+Montana,7559.0,0.0,35.0,Low
+Colorado,1174395.51,0.0,55.0,Moderate
+Alabama,57525.0,2.9,83.0,High
+Ohio,111041.87,1.64,30.0,Moderate
+Florida,4100000.0,0.0,47.0,High
+Georgia,24988.0,0.0,18.0,High
+Wisconsin,30000.0,0.0,39.0,Moderate
+Alabama,19839.0,0.0,14.0,High
+Florida,2008977.0,2.49,38.0,High
+Oklahoma,1148821.38,1.72,54.0,High
+Wisconsin,28919.0,0.0,70.0,Moderate
+California,44999.76,0.0,41.0,High
+Oklahoma,1120756.17,2.68,57.0,High
+Vermont,18169.5,1.69,137.0,Moderate
+South Dakota,73814.0,1.09,16.0,High
+North Dakota,695652.0,0.0,68.0,High
+Pennsylvania,53152.0,0.0,36.0,High
+Kansas,25674.0,0.0,23.0,High
+Minnesota,20025.0,0.0,37.0,Moderate
+Vermont,501115.0,0.0,128.0,Moderate
+Oklahoma,1500.0,0.0,52.0,High
+Florida,187554.0,1.69,31.0,High
+Alabama,139079.13,6.75,132.0,High
+Texas,64012.5,0.0,107.0,High
+Vermont,74544.84,1.05,90.0,Moderate
+Illinois,54750.0,0.0,40.0,Moderate
+Minnesota,245625.0,0.0,47.0,Moderate
+North Carolina,47898.0,0.0,61.0,High
+Iowa,981642.0,1.16,37.0,High
+Minnesota,72955.0,0.0,39.0,Moderate
+Alabama,57436.0,4.51,82.0,High
+New Jersey,284160.0,1.34,51.0,High
+Mississippi,117272.0,0.0,21.0,High
+Oklahoma,408350.0,0.0,120.0,High
+Nebraska,67734.0,0.0,33.0,High
+Massachusetts,29942.0,1.0,27.0,Moderate
+Oklahoma,22500.0,0.0,39.0,High
+California,332970.0,1.83,25.0,High
+Missouri,1273630.5,2.03,46.0,High
+California,58799.0,1.0,74.0,High
+Alabama,13877.38,5.02,136.0,High
+Colorado,28164.9,0.0,26.0,Moderate
+New Jersey,839599.0,0.88,38.0,High
+Alabama,41889.0,1.37,96.0,High
+South Dakota,30000.0,0.0,38.0,High
+California,75000.0,0.0,24.0,High
+Kentucky,82035.0,0.0,8.0,High
+Iowa,69420.0,1.03,25.0,High
+Washington,88086.0,8.22,42.0,High
+Louisiana,93370.0,1.21,134.0,High
+Kansas,25756.0,0.0,54.0,High
+Massachusetts,136691.0,1.01,37.0,Moderate
+Tennessee,46326.0,0.0,14.0,Moderate
+Florida,12940.0,1.25,75.0,High
+California,4000000.0,6.75,40.0,High
+Kentucky,29415.0,0.0,38.0,High
+Florida,1235011.0,1.6,90.0,High
+Virginia,42647.0,0.0,40.0,Moderate
+Georgia,22262.0,0.0,13.0,High
+California,849546.12,1.25,50.0,High
+New Jersey,100000.0,1.32,66.0,High
+Louisiana,101885.0,1.95,58.0,High
+Tennessee,422769.37,4.35,74.0,Moderate
+West Virginia,79157.0,14.46,0.0,Moderate
+Nebraska,3508.43,0.0,20.0,High
+Florida,11250.0,11.52,42.0,High
+California,90345.26,0.0,39.0,High
+Alabama,21428.0,0.0,14.0,High
+New Jersey,112343.35,0.0,129.0,High
+South Carolina,16538.0,1.61,28.0,Moderate
+Washington,19575.97,8.82,36.0,High
+District of Columbia,877302.0,1.22,63.0,Low
+West Virginia,53708.49,2.96,39.0,Moderate
+Kentucky,111904.9,0.0,20.0,High
+Massachusetts,267830.93,0.0,151.0,Moderate
+North Dakota,7500.0,0.0,49.0,High
+New Mexico,18734.0,0.0,60.0,Low
+North Carolina,2513020.0,0.0,54.0,High
+Florida,22645.0,1.81,27.0,High
+Alabama,126600.0,1.27,58.0,High
+Montana,288868.14,1.34,64.0,Low
+Oklahoma,10909.0,0.0,3.0,High
+Louisiana,60024.0,0.0,88.0,High
+Pennsylvania,608534.0,1.2,-0.0,High
+North Carolina,109924.0,0.0,57.0,High
+North Dakota,32709.0,0.0,35.0,High
+South Carolina,0.0,1.47,23.0,Moderate
+Louisiana,33711.0,1.65,76.0,High
+Oregon,326193.0,1.59,83.0,Moderate
+South Dakota,52181.91,1.04,27.0,High
+Texas,27488.0,0.0,162.0,High
+Florida,209516.0,1.73,61.0,High
+Maryland,822256.76,1.0,73.0,Moderate
+Michigan,568818.0,1.52,78.0,Moderate
+South Dakota,432915.0,2.84,44.0,High
+New Jersey,197400.0,1.21,33.0,High
+Alabama,4540.0,1.37,97.0,High
+Texas,714119.0,0.0,55.0,High
+Oregon,940849.89,2.51,80.0,Moderate
+Connecticut,59213.0,0.0,25.0,Moderate
+Indiana,478363.0,1.09,71.0,Low
+Texas,77391.0,0.0,159.0,High
+Missouri,0.0,1.8,48.0,High
+Oklahoma,31849.0,0.0,66.0,High
+New Jersey,1373964.0,2.27,75.0,High
+Texas,3485419.0,3.4,48.0,High
+Kentucky,138482.84,1.24,63.0,High
+New Hampshire,150000.0,1.0,21.0,Moderate
+Kansas,30883.0,0.0,44.0,High
+Louisiana,533500.61,1.05,98.0,High
+Missouri,1584787.0,3.61,35.0,High
+North Dakota,56253.0,0.0,21.0,High
+Florida,258000.0,0.0,32.0,High
+Alabama,15957.0,0.0,57.0,High
+Northern Mariana Islands,29061.25,14.47,55.0,Low
+North Dakota,21543.0,0.0,22.0,High
+Iowa,57354.0,1.17,16.0,High
+South Carolina,200302.0,1.67,39.0,Moderate
+Florida,455465.0,2.29,39.0,High
+New York,143670.82,0.0,60.0,High
+Oklahoma,30000.0,0.0,34.0,High
+Alabama,13085.0,0.0,20.0,High
+Oklahoma,135000.0,0.0,33.0,High
+North Dakota,235040.0,2.15,34.0,High
+Kentucky,58361.0,5.31,24.0,High
+Minnesota,80000.0,0.0,77.0,Moderate
+Oregon,38586.65,0.0,37.0,Moderate
+Kentucky,2609007.37,2.61,74.0,High
+Ohio,2030880.51,1.48,41.0,Moderate
+Oklahoma,56658.0,0.0,107.0,High
+Vermont,0.0,0.0,123.0,Moderate
+Florida,18750.0,1.64,37.0,High
+Iowa,44714.0,1.03,25.0,High
+Louisiana,639166.0,2.51,103.0,High
+Nevada,33288.0,0.0,42.0,Low
+North Carolina,147385.0,0.0,58.0,High
+West Virginia,152948.0,1.07,0.0,Moderate
+Oklahoma,38000.0,0.0,42.0,High
+Florida,31129.0,4.01,45.0,High
+Ohio,25250.0,13.69,34.0,Moderate
+Oklahoma,268709.0,13.87,68.0,High
+Oklahoma,1500.0,0.0,75.0,High
+Massachusetts,42166.5,3.82,46.0,Moderate
+Florida,375625.6,1.09,47.0,High
+Texas,64641.75,0.0,59.0,High
+Arkansas,802373.0,3.72,35.0,Moderate
+Kentucky,58680.0,0.0,35.0,High
+Iowa,170847.0,0.0,36.0,High
+Texas,0.0,0.0,0.0,High
+Nebraska,14612.25,0.0,6.0,High
+California,0.0,1.27,4.0,High
+Kentucky,575994.0,1.74,23.0,High
+Texas,547963.34,0.0,132.0,High
+Connecticut,150000.0,1.12,0.0,Moderate
+Kansas,44137.0,5.56,31.0,High
+New Jersey,516337.0,1.07,49.0,High
+Florida,53639.0,2.48,69.0,High
+Florida,215408.0,0.0,112.0,High
+Alabama,5547.0,0.0,29.0,High
+New Hampshire,93827.0,1.28,17.0,Moderate
+West Virginia,48459.34,0.0,2.0,Moderate
+New Jersey,33057.0,10.56,85.0,High
+Texas,90000.0,0.0,71.0,High
+Alabama,52510.81,5.04,122.0,High
+New York,124666.0,0.0,51.0,High
+Pennsylvania,269137.0,0.0,0.0,High
+Florida,3459403.47,1.17,41.0,High
+Rhode Island,1339991.88,2.97,19.0,Low
+Oklahoma,140448.75,1.19,54.0,High
+North Carolina,411865.0,0.0,28.0,High
+Texas,86628.5,0.0,47.0,High
+Florida,0.0,1.75,31.0,High
+Texas,37170.01,0.0,43.0,High
+Texas,1401331.43,1.06,103.0,High
+Kansas,74250.0,1.48,47.0,High
+New Mexico,27453.06,0.0,72.0,Low
+Montana,60735.0,8.62,29.0,Low
+Wyoming,113273.0,1.81,24.0,Low
+Kentucky,0.0,1.55,62.0,High
+Texas,151409.0,0.0,58.0,High
+Maryland,301635.0,5.0,35.0,Moderate
+Alabama,31975.0,0.0,50.0,High
+Washington,83148.0,0.0,56.0,High
+Texas,2031107.0,1.87,61.0,High
+Mississippi,13286.0,0.0,14.0,High
+Mississippi,27758.0,0.0,11.0,High
+Michigan,15616.0,0.0,17.0,Moderate
+New Jersey,2867164.53,1.83,78.0,High
+Wisconsin,502216.0,0.0,33.0,Moderate
+Florida,109040.0,1.51,22.0,High
+Alabama,14726.0,0.0,80.0,High
+Missouri,433619.26,0.0,41.0,High
+Kentucky,1050829.23,2.02,55.0,High
+South Carolina,2963436.82,1.41,116.0,Moderate
+Colorado,1813878.04,2.32,29.0,Moderate
+Kansas,112637.53,0.0,52.0,High
+New Mexico,18000.0,0.0,43.0,Low
+Alabama,28146.0,0.0,17.0,High
+Washington,600764.85,1.94,43.0,High
+California,150000.0,0.0,48.0,High
+Minnesota,24701.0,0.0,27.0,Moderate
+Florida,14307.0,12.91,11.0,High
+Oregon,132210.0,1.08,31.0,Moderate
+Louisiana,109339.01,1.19,100.0,High
+Massachusetts,229967.0,1.13,61.0,Moderate
+Illinois,1972381.22,1.5,105.0,Moderate
+New Jersey,0.0,6.99,77.0,High
+Massachusetts,70650.0,0.0,50.0,Moderate
+Oklahoma,6000.0,0.0,98.0,High
+North Carolina,16523.97,1.0,31.0,High
+Washington,727985.99,1.0,89.0,High
+Kentucky,12072.0,0.0,36.0,High
+New Jersey,133861.05,5.46,68.0,High
+Missouri,1148.0,0.0,27.0,High
+North Dakota,185255.0,3.97,43.0,High
+Florida,39525.0,1.64,37.0,High
+Pennsylvania,402873.0,1.0,37.0,High
+South Carolina,197473.36,1.88,67.0,Moderate
+New York,722.0,1.9,57.0,High
+Louisiana,44646.0,0.0,92.0,High
+Kansas,351697.0,1.03,33.0,High
+Arizona,437628.75,1.54,41.0,Low
+Alaska,158082.0,1.27,30.0,Low
+Maryland,462852.0,0.0,78.0,Moderate
+Ohio,1500.0,1.0,53.0,Moderate
+Nebraska,33403.0,0.0,85.0,High
+Alabama,37184.0,0.0,38.0,High
+New York,2853098.97,1.06,115.0,High
+Missouri,98360.0,0.0,22.0,High
+Kansas,22500.0,0.0,35.0,High
+Ohio,70793.0,1.07,48.0,Moderate
+California,757718.0,0.0,52.0,High
+Oklahoma,49450.0,9.18,28.0,High
+West Virginia,931416.75,8.02,0.0,Moderate
+Mississippi,74269.0,0.0,19.0,High
+Alabama,56250.0,0.0,15.0,High
+New York,97500.0,1.0,81.0,High
+Minnesota,17120.0,0.0,42.0,Moderate
+Massachusetts,259026.5,1.73,69.0,Moderate
+Kansas,24750.0,0.0,28.0,High
+Northern Mariana Islands,151984.08,1.88,95.0,Low
+Mississippi,502415.0,0.0,28.0,High
+Florida,21603.0,2.16,37.0,High
+Florida,58999.0,1.12,34.0,High
+Kansas,3349.05,0.0,31.0,High
+Florida,16284.3,1.18,43.0,High
+Iowa,55623.0,0.0,50.0,High
+Georgia,0.0,2.94,47.0,High
+South Carolina,40269.28,1.74,81.0,Moderate
+Wisconsin,196017.0,0.0,35.0,Moderate
+Alabama,5664.0,0.0,27.0,High
+Indiana,30000.0,0.0,43.0,Low
+Illinois,54750.0,0.0,52.0,Moderate
+Alaska,24806.0,1.3,14.0,Low
+Missouri,16125.0,0.0,16.0,High
+New York,735281.0,1.48,65.0,High
+Mississippi,72450.0,0.0,24.0,High
+Georgia,162726.0,0.0,46.0,High
+Texas,584272.67,1.02,72.0,High
+California,132460.0,0.0,36.0,High
+New Jersey,68470.0,1.9,46.0,High
+Nevada,875916.0,2.56,52.0,Low
+Arizona,12183.45,0.0,88.0,Low
+Pennsylvania,207176.0,0.0,55.0,High
+Alabama,23214.0,0.0,20.0,High
+Oklahoma,11713.43,0.0,50.0,High
+North Carolina,18225.0,0.0,44.0,High
+Vermont,174635.36,0.0,112.0,Moderate
+New York,17081.0,1.37,106.0,High
+Illinois,183258.0,1.0,52.0,Moderate
+Alabama,820653.75,26.65,42.0,High
+Ohio,118800.0,1.0,63.0,Moderate
+Oklahoma,18376.36,0.0,37.0,High
+Texas,63375.0,0.0,53.0,High
+Georgia,15000.0,0.0,27.0,High
+Wisconsin,31500.0,0.0,39.0,Moderate
+Wisconsin,262336.37,5.39,52.0,Moderate
+Texas,96375.01,0.0,45.0,High
+Guam,166860.0,2.12,112.0,Low
+Louisiana,72883.0,3.43,123.0,High
+Louisiana,329366.0,1.86,55.0,High
+Kansas,37697.0,0.0,24.0,High
+Arkansas,80034.0,1.25,70.0,Moderate
+Florida,323451.0,1.16,29.0,High
+Maryland,6401.0,1.31,32.0,Moderate
+Vermont,105480.38,0.0,107.0,Moderate
+Mississippi,165847.0,0.0,21.0,High
+Oklahoma,589772.0,15.1,65.0,High
+Oklahoma,210000.0,2.72,66.0,High
+Maryland,112500.0,44.99,42.0,Moderate
+Maine,28986.0,1.78,29.0,Low
+Oklahoma,20000.0,0.0,97.0,High
+Colorado,430052.0,1.03,32.0,Moderate
+Florida,4827000.0,16.13,44.0,High
+Kentucky,79869.0,0.0,22.0,High
+Nebraska,166106.0,0.0,41.0,High
+California,7775.0,10.33,5.0,High
+Federated States of Micronesia,32676.0,0.0,142.0,Low
+American Samoa,1740439.0,2.64,59.0,Low
+Colorado,37500.0,0.0,30.0,Moderate
+New York,1610310.21,2.36,38.0,High
+Florida,3407324.93,0.0,165.0,High
+Alabama,75327.93,7.62,116.0,High
+Arkansas,418670.0,5.08,32.0,Moderate
+Texas,105925.0,0.0,38.0,High
+Oklahoma,34263.0,0.0,38.0,High
+Washington,611243.0,1.85,54.0,High
+Arkansas,653026.71,3.03,51.0,Moderate
+Vermont,125872.0,0.0,23.0,Moderate
+American Samoa,359360.0,1.12,108.0,Low
+Alaska,54639.59,2.02,46.0,Low
+Connecticut,148290.0,1.99,83.0,Moderate
+Alabama,47861.03,5.64,121.0,High
+Texas,1225213.0,0.0,143.0,High
+Nebraska,29400.0,0.0,22.0,High
+Mississippi,818411.0,0.0,35.0,High
+Missouri,1486083.0,2.11,36.0,High
+New Mexico,251210.93,1.47,70.0,Low
+Alaska,12750.0,0.0,24.0,Low
+Colorado,13000.0,0.0,23.0,Moderate
+Delaware,19142.0,3.34,27.0,Low
+Colorado,2612325.0,1.25,75.0,Moderate
+Texas,183218.72,0.0,62.0,High
+Florida,25149.0,1.38,23.0,High
+Missouri,2406280.0,3.45,41.0,High
+Michigan,60000.0,0.0,84.0,Moderate
+Louisiana,174675.0,5.19,103.0,High
+Oklahoma,4802.0,0.0,57.0,High
+West Virginia,45402.0,0.0,29.0,Moderate
+Florida,78604.5,11.3,39.0,High
+West Virginia,523838.0,0.0,58.0,Moderate
+Kansas,18462.0,0.0,31.0,High
+Iowa,16200.0,0.0,20.0,High
+New Mexico,381446.0,2.41,105.0,Low
+Mississippi,34253.0,0.0,17.0,High
+Alabama,5772.0,0.0,13.0,High
+Missouri,613112.0,2.07,57.0,High
+Alabama,56255.0,0.0,42.0,High
+Washington,361208.0,1.07,18.0,High
+South Carolina,99697.0,6.13,41.0,Moderate
+West Virginia,39500.61,2.0,63.0,Moderate
+Florida,292013.0,2.53,44.0,High
+West Virginia,195969.0,1.42,66.0,Moderate
+Florida,228032.24,1.48,41.0,High
+New York,159750.0,1.0,81.0,High
+Alabama,31149.0,3.21,83.0,High
+Vermont,117776.0,1.89,43.0,Moderate
+Florida,242696.25,1.08,35.0,High
+Vermont,25493.0,1.92,29.0,Moderate
+Louisiana,150000.0,0.0,61.0,High
+Ohio,667509.0,1.0,39.0,Moderate
+Texas,25629.85,2.35,67.0,High
+Puerto Rico,271737.0,0.0,67.0,Moderate
+Oklahoma,30000.0,0.0,19.0,High
+South Carolina,143549.96,4.84,62.0,Moderate
+Louisiana,94685.0,0.0,44.0,High
+Alabama,227318.0,0.0,26.0,High
+North Dakota,131121.0,1.03,32.0,High
+Louisiana,103743.0,1.75,62.0,High
+Michigan,257627.0,11.17,76.0,Moderate
+Georgia,239411.0,0.0,30.0,High
+Alabama,407849.0,3.75,69.0,High
+New York,300.0,0.0,34.0,High
+Texas,2237773.55,2.58,68.0,High
+Oklahoma,45374.81,0.0,82.0,High
+Ohio,687360.0,0.0,34.0,Moderate
+South Carolina,361145.0,2.37,26.0,Moderate
+Florida,343262.25,6.57,34.0,High
+Wisconsin,43080.0,0.0,74.0,Moderate
+Virgin Islands of the U.S.,138292.0,1.15,42.0,Low
+Alabama,7726.0,0.0,21.0,High
+Vermont,0.0,0.0,11.0,Moderate
+Oklahoma,3791.0,0.0,60.0,High
+North Carolina,10638.0,1.06,30.0,High
+Massachusetts,238603.0,0.0,81.0,Moderate
+New York,305670.0,1.82,113.0,High
+Mississippi,3002691.0,22.85,71.0,High
+New Jersey,3156943.87,1.16,38.0,High
+Hawaii,33980.0,4.57,36.0,Low
+New Hampshire,429300.0,2.05,0.0,Moderate
+Alabama,81099.61,1.0,64.0,High
+Massachusetts,268594.0,1.08,58.0,Moderate
+New Jersey,1070010.0,1.07,48.0,High
+Oklahoma,3008.0,0.0,81.0,High
+Alabama,20100.0,5.35,36.0,High
+Oregon,56486.0,0.0,75.0,Moderate
+New York,74881.0,0.0,83.0,High
+Oklahoma,609566.0,2.9,66.0,High
+Iowa,20594.25,0.0,14.0,High
+Minnesota,104842.0,7.66,18.0,Moderate
+Vermont,19715.0,0.0,55.0,Moderate
+Illinois,12018.0,0.0,54.0,Moderate
+Arkansas,8445.0,0.0,32.0,Moderate
+Florida,27609.0,3.34,32.0,High
+Ohio,18375.0,0.0,35.0,Moderate
+Nebraska,90683.0,0.0,73.0,High
+California,64186.0,0.0,70.0,High
+Kansas,23658.93,0.0,17.0,High
+Florida,602397.29,3.15,80.0,High
+New Mexico,30000.0,0.0,51.0,Low
+South Dakota,0.0,0.0,42.0,High
+Alabama,52946.0,0.0,23.0,High
+Michigan,60000.0,1.24,85.0,Moderate
+Georgia,271333.5,2.63,0.0,High
+Florida,41274.0,1.7,53.0,High
+North Carolina,927104.69,1.79,56.0,High
+Alabama,802500.0,0.0,102.0,High
+Texas,747870.0,0.0,117.0,High
+Guam,1756437.0,2.89,110.0,Low
+Florida,393120.12,3.08,43.0,High
+Vermont,611215.79,0.0,132.0,Moderate
+Louisiana,4546.0,0.0,112.0,High
+New Jersey,304636.15,2.58,67.0,High
+Texas,376678.0,1.23,48.0,High
+Maine,22556.0,1.18,82.0,Low
+Texas,58232.0,0.0,56.0,High
+Florida,446526.0,1.03,62.0,High
+Florida,4910.0,1.98,22.0,High
+Kentucky,1329564.0,1.23,55.0,High
+Missouri,45100.99,1.1,46.0,High
+Kansas,20072.0,0.0,42.0,High
+Ohio,43822.0,0.0,41.0,Moderate
+Texas,796437.75,5.49,36.0,High
+Delaware,16475.0,0.0,31.0,Low
+South Carolina,41948.0,2.87,44.0,Moderate
+Connecticut,100000.0,4.94,30.0,Moderate
+South Dakota,113066.0,1.03,12.0,High
+North Dakota,58535.0,0.0,23.0,High
+Alaska,938632.5,6.5,16.0,Low
+Alabama,36850.9,1.37,130.0,High
+Kentucky,15923.0,0.0,25.0,High
+Alabama,19920.0,0.0,74.0,High
+Kentucky,467955.0,6.36,89.0,High
+Oklahoma,11802.0,4.39,16.0,High
+Tennessee,33833.0,0.0,49.0,Moderate
+Mississippi,239602.0,0.0,20.0,High
+Alabama,36159.0,0.0,20.0,High
+Florida,66059.1,0.0,56.0,High
+Virginia,45000.0,0.0,31.0,Moderate
+Kansas,20072.0,0.0,38.0,High
+Minnesota,13572.0,0.0,38.0,Moderate
+North Carolina,34413.0,0.0,50.0,High
+Iowa,23355.0,0.0,13.0,High
+Kentucky,4058.0,9.01,26.0,High
+Florida,810696.1,1.28,37.0,High
+Florida,166216.34,0.0,114.0,High
+Georgia,4860.0,0.0,18.0,High
+Alabama,100627.91,4.13,119.0,High
+South Carolina,193939.0,1.97,64.0,Moderate
+Florida,21342.0,2.73,59.0,High
+Nebraska,676013.0,1.01,40.0,High
+Florida,23427.0,17.83,21.0,High
+New Mexico,142706.0,1.1,106.0,Low
+Iowa,132937.0,0.0,30.0,High
+Georgia,16685.0,0.0,49.0,High
+California,339701.0,11.82,44.0,High
+Kentucky,66113.0,0.0,-6.0,High
+New Jersey,236042.21,1.07,91.0,High
+Maryland,83177.0,0.0,55.0,Moderate
+South Dakota,128404.0,1.59,31.0,High
+Oklahoma,128002.0,2.97,63.0,High
+Oregon,34500.0,0.0,67.0,Moderate
+Texas,208936.63,4.37,62.0,High
+Missouri,1254994.0,2.12,40.0,High
+Indiana,252957.0,0.0,63.0,Low
+Texas,2580405.01,1.11,75.0,High
+New York,118539.0,0.0,82.0,High
+California,332379.35,1.0,-9.0,High
+Maryland,344338.0,0.0,48.0,Moderate
+Kansas,26195.0,0.0,50.0,High
+Missouri,798981.0,3.24,20.0,High
+Texas,2133363.34,1.66,98.0,High
+Iowa,800660.0,2.36,42.0,High
+Indiana,180225.0,2.38,81.0,Low
+Alabama,31869.04,3.73,121.0,High
+South Dakota,30000.0,0.0,30.0,High
+South Carolina,89946.54,0.0,63.0,Moderate
+Kansas,69794.0,5.12,26.0,High
+Texas,26250.0,0.0,78.0,High
+Alabama,4939.5,0.0,13.0,High
+Florida,511758.0,1.62,71.0,High
+Iowa,8250.0,0.0,18.0,High
+California,880883.25,4.56,65.0,High
+Indiana,49545.0,1.87,67.0,Low
+West Virginia,634245.0,0.0,53.0,Moderate
+Tennessee,19916.0,0.0,31.0,Moderate
+Louisiana,6782294.94,0.0,160.0,High
+Alabama,38840.0,2.65,72.0,High
+New Jersey,0.0,0.0,70.0,High
+Alabama,695000.0,3.18,94.0,High
+Alabama,17239.0,0.0,19.0,High
+Louisiana,662410.0,2.33,58.0,High
+Nebraska,16261.0,0.0,24.0,High
+Florida,32798.0,1.39,27.0,High
+Massachusetts,144234.0,4.72,78.0,Moderate
+Georgia,65409.73,0.0,78.0,High
+Kansas,109607.0,1.22,32.0,High
+Kentucky,58811.44,0.0,50.0,High
+Oklahoma,19945.0,6.55,32.0,High
+Wisconsin,21196.0,0.0,34.0,Moderate
+Oklahoma,2332.0,0.0,75.0,High
+Oklahoma,68058.0,0.0,47.0,High
+California,114675.0,4.53,21.0,High
+Indiana,133169.0,0.0,64.0,Low
+Washington,302903.46,0.0,48.0,High
+South Carolina,17922.77,9.75,25.0,Moderate
+Oklahoma,221205.97,6.88,49.0,High
+Arkansas,562500.0,2.0,37.0,Moderate
+West Virginia,36779.85,14.2,29.0,Moderate
+New Jersey,36339.0,0.0,8.0,High
+Texas,185338.52,1.93,47.0,High
+Georgia,23649.42,0.0,66.0,High
+North Dakota,276540.0,2.26,69.0,High
+Northern Mariana Islands,19663.0,4.74,114.0,Low
+Pennsylvania,483500.0,0.25,46.0,High
+South Dakota,48841.0,3.72,20.0,High
+Alabama,135460.0,5.02,120.0,High
+Wisconsin,75902.0,0.0,61.0,Moderate
+Virgin Islands of the U.S.,113870.0,8.12,27.0,Low
+Texas,545900.44,0.0,96.0,High
+Washington,750000.0,1.01,44.0,High
+New Jersey,46232.0,4.69,40.0,High
+Kentucky,43785.29,0.0,82.0,High
+Alabama,59616.0,5.69,23.0,High
+Texas,13500.0,0.0,44.0,High
+Illinois,647550.1,1.0,103.0,Moderate
+Kansas,481603.0,3.19,36.0,High
+Pennsylvania,315325.0,1.0,19.0,High
+Texas,66475239.89,0.0,167.0,High
+West Virginia,40197.0,14.49,46.0,Moderate
+Vermont,78464.05,1.05,106.0,Moderate
+Vermont,64243.17,0.0,36.0,Moderate
+New Hampshire,5933.0,0.0,43.0,Moderate
+New Jersey,0.0,1.39,59.0,High
+New York,5772717.0,1.08,68.0,High
+Arkansas,665487.0,2.48,20.0,Moderate
+South Dakota,143940.0,1.13,9.0,High
+Washington,16194.0,0.0,45.0,High
+Pennsylvania,44963.0,0.0,31.0,High
+Arizona,31953.23,4.18,38.0,Low
+Mississippi,57881.0,0.0,19.0,High
+Oklahoma,10125.0,0.0,54.0,High
+New York,643388.0,0.0,50.0,High
+Kansas,678221.0,4.09,24.0,High
+Connecticut,0.0,0.0,22.0,Moderate
+Iowa,33000.0,0.0,40.0,High
+Wisconsin,473492.0,1.07,83.0,Moderate
+Alabama,32963.0,0.0,14.0,High
+Nevada,86301.0,12.32,24.0,Low
+Montana,94500.0,1.05,33.0,Low
+New York,1864390.52,0.0,105.0,High
+Massachusetts,0.0,0.0,52.0,Moderate
+Oklahoma,20000.0,0.0,96.0,High
+South Dakota,71843.0,1.01,19.0,High
+Alabama,143812.0,0.0,19.0,High
+Iowa,2021122.0,1.42,35.0,High
+Louisiana,120987.88,1.08,85.0,High
+Montana,67557.0,20.26,18.0,Low
+Kentucky,195298.0,0.0,26.0,High
+New Jersey,75000.0,0.0,32.0,High
+Ohio,22561.0,0.0,51.0,Moderate
+New Jersey,60000.0,1.97,21.0,High
+Texas,90501.75,0.0,37.0,High
+Mississippi,51422.0,0.0,25.0,High
+Alabama,202462.0,1.09,57.0,High
+Louisiana,65000.0,0.0,59.0,High
+North Carolina,130539.75,1.32,75.0,High
+Oregon,25737.0,0.0,27.0,Moderate
+Vermont,71110.52,1.13,37.0,Moderate
+Wisconsin,30233.0,0.0,45.0,Moderate
+South Dakota,112541.44,0.0,32.0,High
+North Carolina,22500.0,0.0,13.0,High
+Texas,2816150.74,37.66,96.0,High
+California,4517.0,0.0,18.0,High
+Alabama,130215.23,7.17,118.0,High
+Arkansas,441970.5,1.55,0.0,Moderate
+South Dakota,41953.11,0.0,37.0,High
+New Jersey,89002.0,0.0,47.0,High
+Oregon,93955.0,1.42,58.0,Moderate
+Iowa,81548.25,6.2,17.0,High
+Arizona,4776.0,0.0,10.0,Low
+Maryland,26958.58,1.0,61.0,Moderate
+Texas,189204.41,1.53,62.0,High
+Alabama,17500.0,10.5,8.0,High
+Maine,7739.0,2.31,19.0,Low
+Iowa,555172.0,0.0,29.0,High
+Wisconsin,80990.46,0.0,26.0,Moderate
+Arkansas,795759.0,4.53,75.0,Moderate
+Missouri,452490.0,1.28,24.0,High
+Puerto Rico,59466.0,6.05,13.0,Moderate
+Minnesota,45627.0,0.0,59.0,Moderate
+Mississippi,35400.0,0.0,18.0,High
+Arizona,9906.0,0.0,44.0,Low
+Pennsylvania,389181.0,0.0,63.0,High
+Florida,119250.0,16.78,25.0,High
+Louisiana,1069962.54,13.4,178.0,High
+Georgia,17046.0,0.0,45.0,High
+Delaware,30687.0,0.0,46.0,Low
+Arkansas,12456.54,0.0,39.0,Moderate
+Florida,22224.0,10.33,39.0,High
+Kansas,507675.09,3.15,42.0,High
+California,654440.0,6.12,65.0,High
+Oklahoma,10428.0,0.0,82.0,High
+California,136179.0,0.0,28.0,High
+Michigan,84789.0,3.17,69.0,Moderate
+Florida,493631.0,1.83,79.0,High
+North Dakota,44437.5,1.3,15.0,High
+California,23366.25,0.0,40.0,High
+Florida,184634.0,1.72,18.0,High
+Illinois,65199.6,3.05,25.0,Moderate
+Oregon,86586.04,4.39,61.0,Moderate
+Mississippi,124688.0,0.0,16.0,High
+Massachusetts,46275.0,1.01,33.0,Moderate
+Minnesota,21657.0,0.0,45.0,Moderate
+California,87359.0,10.08,25.0,High
+Montana,0.0,0.0,67.0,Low
+Nevada,159511.58,8.61,41.0,Low
+Arkansas,389340.0,1.82,47.0,Moderate
+North Carolina,24146.0,0.0,22.0,High
+California,86582.55,0.0,30.0,High
+Connecticut,100000.0,10.24,43.0,Moderate
+Florida,121421.0,1.31,102.0,High
+North Dakota,53280.0,0.0,42.0,High
+Massachusetts,275997.0,4.14,22.0,Moderate
+Maine,95250.0,1.04,53.0,Low
+New Jersey,33921.0,4.2,22.0,High
+West Virginia,28026.0,0.0,18.0,Moderate
+California,93603.37,0.0,37.0,High
+Alabama,181426.0,0.0,23.0,High
+Louisiana,26250.0,0.0,44.0,High
+California,187500.0,0.0,24.0,High
+Alabama,86471.0,0.0,15.0,High
+Wyoming,1457819.0,7.82,83.0,Low
+Oklahoma,66000.0,0.0,38.0,High
+South Dakota,115500.0,1.95,22.0,High
+Michigan,56436.0,5.36,46.0,Moderate
+Georgia,18516.0,0.0,18.0,High
+North Carolina,70331.0,0.0,57.0,High
+Illinois,531890.0,1.0,134.0,Moderate
+Texas,55931.0,3.03,143.0,High
+Vermont,34140.0,4.12,50.0,Moderate
+Iowa,310027.0,1.82,53.0,High
+South Dakota,119377.0,1.12,32.0,High
+Alabama,86195.0,1.37,83.0,High
+Iowa,733224.0,8.07,47.0,High
+California,52564.56,1.56,56.0,High
+Tennessee,11808.0,0.0,29.0,Moderate
+Massachusetts,488713.0,0.0,71.0,Moderate
+Florida,796210.0,3.37,24.0,High
+Missouri,1329864.24,3.77,33.0,High
+Florida,8981.0,2.84,42.0,High
+California,24938.72,0.0,31.0,High
+Connecticut,0.0,0.0,21.0,Moderate
+Alabama,62258.0,5.09,67.0,High
+North Carolina,22500.0,0.0,61.0,High
+Alabama,55205.0,6.89,113.0,High
+Kentucky,26250.0,11.46,41.0,High
+Florida,241076.09,3.95,95.0,High
+Minnesota,50192.0,1.22,6.0,Moderate
+Montana,8246.0,0.0,34.0,Low
+Nebraska,5625.0,0.0,23.0,High
+Alabama,44250.0,18.81,23.0,High
+South Dakota,7500.0,0.0,14.0,High
+Tennessee,1847530.88,3.38,49.0,Moderate
+Missouri,1039500.0,2.29,36.0,High
+South Carolina,54924.71,0.0,43.0,Moderate
+North Dakota,672641.0,4.28,41.0,High
+New Jersey,65960.0,1.17,30.0,High
+Connecticut,22502.0,1.56,47.0,Moderate
+Iowa,1173349.12,0.0,30.0,High
+Virginia,117110.0,0.0,0.0,Moderate
+Alabama,26500.0,1.37,94.0,High
+New York,1088324.0,0.0,25.0,High
+California,2887735.0,3.49,143.0,High
+Washington,682461.0,1.04,66.0,High
+North Dakota,10513.0,0.0,8.0,High
+Ohio,0.0,4.29,19.0,Moderate
+Oklahoma,27000.0,0.0,33.0,High
+Alabama,15407.0,0.0,8.0,High
+Florida,1184622.0,3.55,57.0,High
+South Dakota,12658.62,0.0,18.0,High
+Missouri,52237.0,1.42,44.0,High
+Oklahoma,1500.0,0.0,57.0,High
+Iowa,1745144.0,1.51,62.0,High
+Indiana,44887.0,0.0,58.0,Low
+West Virginia,485138.0,1.1,0.0,Moderate
+Florida,178916.0,1.39,68.0,High
+Florida,532603.0,4.41,36.0,High
+Florida,333188.0,1.39,55.0,High
+Kansas,140801.0,2.04,22.0,High
+South Dakota,147525.0,10.51,41.0,High
+Missouri,0.0,0.0,5.0,High
+West Virginia,349170.0,1.01,37.0,Moderate
+Nevada,293651.0,4.23,77.0,Low
+Oklahoma,1075218.89,34.58,51.0,High
+Georgia,30436.0,1.12,22.0,High
+Florida,31268.0,4.64,45.0,High
+Louisiana,6218.0,1.1,95.0,High
+New Mexico,70211.0,1.0,60.0,Low
+Georgia,965889.0,19.04,21.0,High
+California,62325.0,0.0,33.0,High
+Oklahoma,1500.0,0.0,79.0,High
+Puerto Rico,241950.0,0.0,71.0,Moderate
+Florida,1980637.38,1.0,111.0,High
+Alabama,109863.0,1.79,14.0,High
+Rhode Island,47141.0,0.0,37.0,Low
+South Carolina,15669.0,0.0,38.0,Moderate
+Alabama,289208.0,1.07,56.0,High
+Alaska,217021.0,1.69,39.0,Low
+Vermont,184575.25,4.91,115.0,Moderate
+Wyoming,19468.85,0.0,61.0,Low
+California,703867.39,1.29,47.0,High
+Alabama,44369.0,1.37,83.0,High
+Alabama,4000.0,1.37,27.0,High
+Delaware,341.0,0.0,1.0,Low
+South Carolina,172569.0,1.12,23.0,Moderate
+Alabama,4000.0,1.37,118.0,High
+Ohio,2495408.01,1.1,65.0,Moderate
+Ohio,9295.0,0.0,34.0,Moderate
+Florida,183788.81,1.47,54.0,High
+Arkansas,30000.0,0.0,62.0,Moderate
+Mississippi,174794.0,0.0,27.0,High
+Illinois,54750.0,0.0,89.0,Moderate
+Kansas,13706.0,0.0,55.0,High
+Ohio,22945.0,0.0,33.0,Moderate
+Vermont,805.0,13.8,24.0,Moderate
+Texas,213362.0,1.3,115.0,High
+California,3000000.0,6.97,54.0,High
+North Carolina,690000.0,0.0,42.0,High
+New Jersey,42660.0,1.97,36.0,High
+Alabama,19838.0,0.0,16.0,High
+Alabama,94847.0,3.71,112.0,High
+California,2572002.99,2.41,123.0,High
+Pennsylvania,256003.0,0.0,45.0,High
+New Hampshire,48562.0,1.05,57.0,Moderate
+Alabama,62249.0,0.0,70.0,High
+California,1443951.33,4.16,33.0,High
+South Dakota,20250.0,0.0,30.0,High
+North Dakota,23313.0,0.98,58.0,High
+West Virginia,59782.0,45.59,51.0,Moderate
+West Virginia,404877.0,0.0,0.0,Moderate
+Texas,161597.84,1.05,112.0,High
+Puerto Rico,25428.0,0.0,21.0,Moderate
+Illinois,137813.0,0.0,42.0,Moderate
+New Jersey,353250.0,3.37,28.0,High
+Mississippi,2119833.0,1.0,54.0,High
+Hawaii,322892.0,3.69,61.0,Low
+Kansas,385612.0,2.82,21.0,High
+Massachusetts,92104.0,1.2,98.0,Moderate
+Arizona,0.0,5.37,6.0,Low
+New Hampshire,9532.0,0.1,18.0,Moderate
+Virginia,78140.0,0.0,23.0,Moderate
+Texas,618950.0,1.53,81.0,High
+Rhode Island,13300.0,0.0,43.0,Low
+Maine,19502.0,1.85,15.0,Low
+Florida,67748.0,1.1,69.0,High
+Illinois,208806.43,1.0,43.0,Moderate
+Florida,36847.0,1.36,22.0,High
+Minnesota,43500.0,0.0,52.0,Moderate
+New York,1451709.0,0.0,82.0,High
+New York,191860.48,0.0,70.0,High
+Texas,124114.49,28.17,45.0,High
+Kentucky,23979.0,0.0,31.0,High
+Maryland,26745.0,8.44,33.0,Moderate
+Vermont,97425.0,1.0,22.0,Moderate
+Colorado,36328.0,0.0,22.0,Moderate
+Iowa,86327.44,0.0,35.0,High
+Texas,49737.0,0.0,87.0,High
+California,31151.0,1.0,8.0,High
+California,112500.0,0.0,40.0,High
+Missouri,562.0,1.25,33.0,High
+New Jersey,0.0,1.09,120.0,High
+Vermont,87866.0,0.0,66.0,Moderate
+Wyoming,38647.25,0.0,46.0,Low
+Montana,2730.0,0.0,28.0,Low
+Iowa,18750.0,0.0,29.0,High
+Alabama,13289.0,1.37,101.0,High
+New York,211576.0,0.0,1.0,High
+Wisconsin,123117.0,1.06,64.0,Moderate
+Missouri,707154.0,3.1,30.0,High
+Kentucky,7661833.0,1.01,71.0,High
+Arizona,15000.0,0.0,26.0,Low
+Florida,728512.0,3.79,48.0,High
+Mississippi,37864.0,0.0,85.0,High
+Georgia,7200.0,0.0,40.0,High
+Louisiana,55462.5,1.68,131.0,High
+Washington,203360.36,9.38,60.0,High
+North Carolina,443587.55,0.0,72.0,High
+West Virginia,70938.0,23.9,29.0,Moderate
+Georgia,2510.0,0.0,14.0,High
+Nevada,159533.24,6.32,41.0,Low
+Ohio,596580.0,3.03,59.0,Moderate
+Montana,897679.0,3.4,54.0,Low
+Colorado,18155.0,0.0,43.0,Moderate
+South Carolina,197587.5,0.0,39.0,Moderate
+New York,40406180.0,1.34,168.0,High
+Florida,87876.0,1.77,59.0,High
+Missouri,290000.0,0.0,52.0,High
+Texas,371045.55,1.39,73.0,High
+Virginia,29579.0,0.0,19.0,Moderate
+Vermont,46229.53,0.0,110.0,Moderate
+California,13725.0,0.0,41.0,High
+Florida,67638.0,4.76,77.0,High
+Oklahoma,2999000.0,4.04,108.0,High
+Louisiana,19987722.0,1.3,167.0,High
+Maryland,245250.0,1.0,40.0,Moderate
+Alaska,22596.0,3.26,29.0,Low
+Ohio,13639.95,1.0,67.0,Moderate
+South Dakota,466471.0,3.18,59.0,High
+Michigan,47087.0,0.0,84.0,Moderate
+North Carolina,1492269.0,4.27,65.0,High
+Georgia,18678.81,0.0,66.0,High
+California,291155.58,0.0,53.0,High
+Minnesota,60000.0,0.0,49.0,Moderate
+Iowa,369472.0,0.0,43.0,High
+New Mexico,15000.0,0.0,64.0,Low
+Iowa,17970.3,0.0,10.0,High
+Wisconsin,187637.06,1.46,34.0,Moderate
+Georgia,89118.0,0.0,20.0,High
+Vermont,3508.0,0.0,49.0,Moderate
+Alabama,99888.0,3.8,27.0,High
+Georgia,26637.0,0.0,48.0,High
+Oklahoma,1500.0,0.0,71.0,High
+Georgia,36229.0,0.0,20.0,High
+Texas,27000.0,0.0,44.0,High
+Michigan,584130.0,1.09,69.0,Moderate
+Kansas,140700.0,1.39,29.0,High
+Missouri,2098627.0,2.7,39.0,High
+Kansas,151560.75,1.06,39.0,High
+Florida,981.0,3.67,-34.0,High
+Florida,107498.0,2.38,46.0,High
+Louisiana,2220352.66,1.53,63.0,High
+Kentucky,12936.0,0.0,17.0,High
+South Carolina,43086.01,1.16,20.0,Moderate
+North Dakota,8867.0,4.65,56.0,High
+North Carolina,60666.0,7.42,23.0,High
+Alabama,4000.0,1.37,112.0,High
+Pennsylvania,41486.0,0.0,32.0,High
+Wisconsin,77326.39,0.0,81.0,Moderate
+Iowa,39895.0,0.0,52.0,High
+North Carolina,764732.0,5.16,76.0,High
+Alaska,16525.2,0.0,42.0,Low
+Oklahoma,1860.0,0.0,67.0,High
+New Jersey,75000.0,0.0,49.0,High
+North Dakota,171151.0,0.0,41.0,High
+Maryland,248750.0,1.01,53.0,Moderate
+Texas,9353.0,0.0,108.0,High
+Oklahoma,20000.0,0.0,97.0,High
+Tennessee,415182.0,6.01,21.0,Moderate
+South Dakota,193630.0,0.0,60.0,High
+Florida,1214196.0,1.57,29.0,High
+Mississippi,23123.0,0.0,22.0,High
+South Carolina,139473.0,0.0,95.0,Moderate
+Indiana,212686.5,0.0,55.0,Low
+New Mexico,0.0,2.65,55.0,Low
+Oklahoma,38000.0,0.0,88.0,High
+Alabama,176577.52,1.54,82.0,High
+Maine,60747.0,1.01,35.0,Low
+Kentucky,148146.75,2.55,32.0,High
+Texas,112766.0,0.0,51.0,High
+Alabama,47125.15,1.37,130.0,High
+Alabama,35585.25,0.0,49.0,High
+Louisiana,10650882.0,1.25,100.0,High
+Texas,821456.0,16.6,87.0,High
+Montana,249343.0,0.0,99.0,Low
+Alabama,36225.0,0.0,8.0,High
+Iowa,240327.44,2.04,18.0,High
+North Carolina,14730.0,0.0,14.0,High
+New York,112050.0,1.55,38.0,High
+Vermont,50400.0,1.05,21.0,Moderate
+Washington,1378084.0,2.91,81.0,High
+Indiana,1001477.0,0.0,71.0,Low
+Vermont,5341.87,0.0,116.0,Moderate
+Iowa,2147989.0,2.07,41.0,High
+Georgia,13499.0,0.0,29.0,High
+Iowa,207339.0,0.0,38.0,High
+Mississippi,5870331.0,1.84,48.0,High
+Texas,1119075.0,2.21,0.0,High
+Missouri,36073.0,0.0,51.0,High
+Iowa,882168.0,0.0,8.0,High
+Tennessee,4116598.0,1.22,57.0,Moderate
+Kentucky,63480.0,1.08,60.0,High
+North Dakota,128250.0,6.57,52.0,High
+Alabama,104845.05,13.39,117.0,High
+Florida,32642.0,3.14,59.0,High
+New Jersey,0.0,2.91,36.0,High
+Florida,2570350.0,2.02,55.0,High
+Louisiana,27000.0,0.0,66.0,High
+Oregon,51191.23,0.0,26.0,Moderate
+Mississippi,16994.0,0.0,24.0,High
+Pennsylvania,150300.0,1.46,97.0,High
+Oklahoma,3398.0,0.0,3.0,High
+Alabama,56060.0,1.37,87.0,High
+New Jersey,0.0,1.17,83.0,High
+Texas,60269.0,0.0,111.0,High
+New York,443969.59,1.56,-1.0,High
+South Dakota,72386.0,1.15,27.0,High
+Ohio,0.0,3.64,20.0,Moderate
+Maine,8633.51,0.0,73.0,Low
+Oklahoma,41048.0,0.0,82.0,High
+Florida,318222.0,0.84,97.0,High
+Missouri,18612.93,0.0,18.0,High
+South Dakota,14025.0,0.0,36.0,High
+South Dakota,61768.0,1.33,20.0,High
+Florida,146580.0,1.71,31.0,High
+Nebraska,1239251.0,1.26,22.0,High
+Iowa,3609.0,0.0,28.0,High
+Oklahoma,18337.5,0.0,38.0,High
+Texas,1008264.61,1.92,58.0,High
+Mississippi,14089.0,0.0,47.0,High
+Oregon,31534.43,0.0,50.0,Moderate
+California,999999.0,2.7,63.0,High
+Indiana,32000.0,0.0,47.0,Low
+Mississippi,265582.0,1.0,45.0,High
+Missouri,22048.41,0.0,11.0,High
+Florida,1228382.0,1.62,39.0,High
+New York,144528.0,0.0,57.0,High
+Alabama,21253.2,3.53,125.0,High
+Guam,187392.0,3.26,127.0,Low
+Ohio,15300.0,0.0,59.0,Moderate
+Oregon,20565.0,0.0,54.0,Moderate
+Kentucky,31691.31,0.0,88.0,High
+Minnesota,21000.0,0.0,37.0,Moderate
+Oklahoma,16733.67,0.0,40.0,High
+Tennessee,328020.0,2.21,44.0,Moderate
+Oklahoma,99750.0,0.0,42.0,High
+Mississippi,37500.0,0.0,31.0,High
+Michigan,971226.0,1.01,36.0,Moderate
+Arkansas,225000.0,2.94,38.0,Moderate
+Alabama,73871.0,1.37,79.0,High
+Ohio,318788.25,4.63,40.0,Moderate
+Texas,1380746.0,1.25,112.0,High
+Oklahoma,2501.0,0.0,75.0,High
+Alaska,140555.0,1.01,36.0,Low
+Guam,392290.0,4.29,110.0,Low
+Ohio,24479.21,0.0,28.0,Moderate
+Nebraska,18705.75,0.0,33.0,High
+South Dakota,0.0,1.11,22.0,High
+Louisiana,3245177.0,1.82,132.0,High
+Connecticut,164475.0,2.17,55.0,Moderate
+Mississippi,28235.0,0.0,24.0,High
+Connecticut,0.0,1.43,62.0,Moderate
+Wisconsin,4560.0,0.0,28.0,Moderate
+Michigan,76401.0,1.0,40.0,Moderate
+Virginia,65800.0,2.9,122.0,Moderate
+Tennessee,961089.0,1.08,66.0,Moderate
+Tennessee,90975.0,1.19,25.0,Moderate
+Kansas,278724.0,1.29,22.0,High
+Florida,0.0,1.09,8.0,High
+Florida,189216.75,3.74,37.0,High
+Alabama,69035.79,6.03,114.0,High
+California,69950.0,0.0,33.0,High
+New Hampshire,505810.0,2.05,28.0,Moderate
+New Jersey,3858879.07,0.0,81.0,High
+Florida,11738.0,1.93,49.0,High
+Iowa,3047489.0,1.09,56.0,High
+Alabama,48547.75,1.37,137.0,High
+Utah,162497.0,1.15,31.0,Low
+Virginia,597139.0,1.77,45.0,Moderate
+Iowa,4279450.0,1.7,41.0,High
+New Jersey,108919.0,0.0,49.0,High
+Nebraska,208636.37,6.19,33.0,High
+Alabama,58526.0,1.32,18.0,High
+Nebraska,121910.0,0.0,33.0,High
+Alabama,74190.0,0.0,28.0,High
+California,34891.5,0.0,26.0,High
+South Dakota,103292.0,1.01,26.0,High
+Mississippi,1931985.0,1.39,48.0,High
+Michigan,187500.0,1.08,56.0,Moderate
+Louisiana,181695.0,0.0,150.0,High
+California,26841.52,4.83,154.0,High
+Tennessee,700249.0,1.01,62.0,Moderate
+Connecticut,88739.0,3.19,94.0,Moderate
+New Jersey,250000.0,2.37,1.0,High
+Iowa,125374.0,0.0,51.0,High
+New Mexico,199382.73,0.0,88.0,Low
+California,236514.0,36.6,154.0,High
+Alabama,180809.87,6.41,92.0,High
+Indiana,122500.0,1.58,82.0,Low
+Louisiana,198641.0,1.17,37.0,High
+Tennessee,48750.0,0.0,4.0,Moderate
+Washington,391657.5,1.57,0.0,High
+Florida,21972.0,2.53,71.0,High
+Michigan,67830.0,2.88,48.0,Moderate
+Kentucky,419198.19,1.11,77.0,High
+New Jersey,75000.0,8.46,25.0,High
+Florida,195129.66,1.32,59.0,High
+Georgia,2268.79,0.0,32.0,High
+Wisconsin,0.0,0.0,78.0,Moderate
+Virginia,174157.0,0.0,-13.0,Moderate
+Oregon,278133.44,1.4,48.0,Moderate
+Missouri,1501614.0,3.01,37.0,High
+Alabama,52752.29,4.46,124.0,High
+Texas,3013668.87,1.67,92.0,High
+Florida,680136.55,1.14,43.0,High
+Virgin Islands of the U.S.,13475.0,5.4,81.0,Low
+New Jersey,75000.0,1.06,39.0,High
+Alabama,110391.85,5.3,118.0,High
+Ohio,668440.62,1.73,42.0,Moderate
+Florida,76537.0,5.07,40.0,High
+Ohio,2070.0,1.0,14.0,Moderate
+South Carolina,343588.65,2.08,73.0,Moderate
+Texas,189085.0,1.23,51.0,High
+Florida,200000.0,1.29,40.0,High
+Wisconsin,345373.76,1.55,37.0,Moderate
+South Dakota,258750.0,1.03,18.0,High
+Oklahoma,30839.95,0.0,41.0,High
+Alabama,49575.0,0.0,13.0,High
+Kentucky,2027438.02,1.85,86.0,High
+Georgia,9679.0,0.0,11.0,High
+Ohio,88948.0,1.54,44.0,Moderate
+North Carolina,86320.0,0.0,41.0,High
+Alabama,79338.0,7.18,66.0,High
+Iowa,19868.0,0.0,34.0,High
+Tennessee,18003.0,0.0,29.0,Moderate
+Kentucky,92250.0,0.0,22.0,High
+Iowa,29357.0,0.0,47.0,High
+Arizona,403539.0,2.55,48.0,Low
+New Jersey,111692.0,2.21,44.0,High
+Louisiana,567931.7,1.66,121.0,High
+Maryland,19424.0,0.0,0.0,Moderate
+Alabama,29171.0,0.0,16.0,High
+Kansas,314688.0,2.0,38.0,High
+Missouri,16437.0,0.0,5.0,High
+Florida,63048.0,1.27,40.0,High
+Arkansas,0.0,13.59,76.0,Moderate
+Alabama,29771.0,0.0,14.0,High
+Nevada,126000.0,5.63,47.0,Low
+Delaware,830391.75,0.0,44.0,Low
+Iowa,194741.0,4.1,33.0,High
+New Hampshire,277928.0,0.0,76.0,Moderate
+Vermont,535875.0,8.3,44.0,Moderate
+Florida,168168.55,18.18,48.0,High
+West Virginia,183553.0,12.05,0.0,Moderate
+Massachusetts,648575.42,0.0,115.0,Moderate
+Montana,28249.0,0.0,52.0,Low
+Georgia,2738587.5,1.81,44.0,High
+Rhode Island,88321.0,1.03,70.0,Low
+Ohio,503943.93,1.18,46.0,Moderate
+Montana,24699.0,0.0,54.0,Low
+Massachusetts,15000.0,0.0,37.0,Moderate
+Indiana,259950.0,0.0,51.0,Low
+Washington,34144.02,2.83,19.0,High
+Kansas,67250.0,0.0,57.0,High
+Florida,87000.0,1.83,43.0,High
+Mississippi,74969.0,0.0,16.0,High
+Louisiana,3644.0,19.65,26.0,High
+Louisiana,1231510.73,0.0,99.0,High
+Virgin Islands of the U.S.,1670487.0,1.13,30.0,Low
+Georgia,80316.0,0.0,14.0,High
+Washington,127816.49,0.0,94.0,High
+Alabama,54120.0,0.0,63.0,High
+Vermont,356100.0,0.0,76.0,Moderate
+Florida,74761.0,5.48,37.0,High
+Guam,1823099.0,7.98,120.0,Low
+New Jersey,395334.0,2.44,43.0,High
+Indiana,428156.25,2.9,81.0,Low
+Florida,10829.0,3.76,46.0,High
+Missouri,193078.0,0.0,37.0,High
+Alabama,10697.0,0.0,23.0,High
+North Dakota,26734.75,0.0,36.0,High
+Washington,249354.0,3.02,43.0,High
+Texas,72496.0,2.23,153.0,High
+Alaska,23638.0,2.8,40.0,Low
+Louisiana,30000.0,1.16,79.0,High
+Alabama,14121.0,0.0,20.0,High
+New Hampshire,198966.0,1.32,78.0,Moderate
+Idaho,29750.0,0.0,29.0,Low
+New York,37500.0,0.0,46.0,High
+Alabama,14121.0,0.0,19.0,High
+Alabama,116061.96,11.68,115.0,High
+Louisiana,2692609.0,1.1,144.0,High
+North Dakota,27000.0,0.0,25.0,High
+Mississippi,73818.0,4.26,15.0,High
+Washington,272875.36,2.2,44.0,High
+Florida,338184.9,0.0,78.0,High
+Tennessee,0.0,1.0,26.0,Moderate
+Ohio,1260513.0,0.0,76.0,Moderate
+Virginia,262500.0,0.0,0.0,Moderate
+Massachusetts,38955.0,1.08,23.0,Moderate
+Mississippi,1155534.0,2.91,35.0,High
+Ohio,2974944.0,3.38,62.0,Moderate
+Louisiana,599780.0,2.22,58.0,High
+Kentucky,34535.0,0.0,20.0,High
+Kentucky,115154.0,0.0,45.0,High
+New York,259025.0,5.55,108.0,High
+Missouri,1833975.0,2.73,36.0,High
+Indiana,17064.0,0.0,69.0,Low
+Nebraska,56822.0,0.0,26.0,High
+North Dakota,1163766.0,1.03,35.0,High
+Mississippi,18000.0,0.0,26.0,High
+New Mexico,30383.0,0.0,48.0,Low
+Hawaii,34449.0,0.0,32.0,Low
+Louisiana,50000.0,0.0,59.0,High
+North Carolina,7500.0,0.0,32.0,High
+Texas,55625.0,0.0,89.0,High
+Florida,150295.0,2.54,20.0,High
+Maryland,51063.0,0.0,74.0,Moderate
+Iowa,5748.0,1.37,21.0,High
+Arkansas,518784.0,1.0,52.0,Moderate
+Kentucky,8521.0,0.0,27.0,High
+Oklahoma,12000.0,0.0,47.0,High
+Kentucky,45000.0,0.0,34.0,High
+Kentucky,195123.6,1.16,63.0,High
+Iowa,200547.0,0.0,26.0,High
+California,1705578.76,1.15,43.0,High
+Iowa,41250.0,0.0,38.0,High
+Iowa,791801.0,2.9,24.0,High
+California,1080561.0,0.0,51.0,High
+South Dakota,19124.0,0.0,19.0,High
+Illinois,162054.67,1.0,100.0,Moderate
+Oregon,156055.0,4.94,53.0,Moderate
+Virginia,648899.41,1.11,62.0,Moderate
+Iowa,14863.0,0.0,51.0,High
+Massachusetts,4000.0,0.0,56.0,Moderate
+Oklahoma,235463.0,7.2,76.0,High
+California,37500.0,0.0,24.0,High
+Alabama,17813.0,0.0,24.0,High
+Arkansas,441970.5,1.55,0.0,Moderate
+Texas,300000.0,0.0,136.0,High
+Oklahoma,18000.0,0.0,50.0,High
+Oklahoma,851463.0,2.62,64.0,High
+Mississippi,30309.0,0.0,19.0,High
+Alabama,46658.0,0.0,26.0,High
+Texas,263945.0,7.45,118.0,High
+Massachusetts,42528.75,2.48,43.0,Moderate
+New Jersey,148500.0,5.18,84.0,High
+Arkansas,1117201.0,3.95,62.0,Moderate
+Alaska,221243.79,3.47,39.0,Low
+Colorado,199593.82,1.21,46.0,Moderate
+Texas,625254.0,0.0,77.0,High
+Oklahoma,23048.0,0.0,23.0,High
+Pennsylvania,283281.0,0.0,58.0,High
+Vermont,3275.0,1.83,53.0,Moderate
+Puerto Rico,89879.0,0.0,36.0,Moderate
+Florida,346981.0,16.55,58.0,High
+New Jersey,3596088.97,1.39,50.0,High
+New Jersey,113100.0,1.02,101.0,High
+Oklahoma,30000.0,0.0,22.0,High
+California,501188.0,0.0,56.0,High
+Florida,10715.0,2.41,36.0,High
+North Dakota,386264.0,1.05,47.0,High
+South Dakota,22496.0,0.0,36.0,High
+Missouri,1352814.0,4.54,29.0,High
+North Carolina,33750.0,0.0,57.0,High
+Florida,2321.0,1.0,19.0,High
+Michigan,94971.0,1.51,102.0,Moderate
+Mississippi,95167.0,0.0,54.0,High
+Louisiana,1025657.4,0.0,82.0,High
+Arkansas,0.0,2.8,9.0,Moderate
+South Dakota,62428.0,0.0,25.0,High
+Connecticut,107772.0,1.82,56.0,Moderate
+Alabama,81952.0,1.37,95.0,High
+Mississippi,31541.0,0.0,11.0,High
+South Carolina,0.0,1.0,49.0,Moderate
+Guam,840842.0,2.52,120.0,Low
+Iowa,182128.0,5.31,53.0,High
+New Jersey,558772.0,1.86,42.0,High
+Louisiana,150000.0,0.0,57.0,High
+Louisiana,113000.0,1.01,121.0,High
+New Jersey,1238162.32,1.08,59.0,High
+North Carolina,893404.02,0.0,103.0,High
+Wisconsin,38707.7,0.0,25.0,Moderate
+Minnesota,24613.0,0.0,28.0,Moderate
+Utah,31500.0,0.0,23.0,Low
+Northern Mariana Islands,4050.0,1.08,125.0,Low
+South Dakota,135987.0,1.34,29.0,High
+Puerto Rico,21000.0,0.0,30.0,Moderate
+California,3411750.0,19.06,47.0,High
+Indiana,821537.0,0.0,81.0,Low
+Montana,11976.0,1.0,27.0,Low
+Massachusetts,342500.0,0.0,59.0,Moderate
+Texas,110131.91,0.0,54.0,High
+Louisiana,196049.93,4.49,90.0,High
+Washington,246966.0,0.0,60.0,High
+Mississippi,28900.0,0.0,38.0,High
+Vermont,28614.0,1.03,17.0,Moderate
+Kentucky,26612.0,0.0,22.0,High
+Florida,137769.0,1.98,47.0,High
+Alabama,12553.0,0.0,20.0,High
+North Carolina,60000.0,0.0,48.0,High
+Florida,131831.81,1.02,31.0,High
+Nebraska,33262.64,2.61,15.0,High
+North Carolina,383509.43,1.13,90.0,High
+Alabama,292500.0,1.92,40.0,High
+New York,223670.0,1.93,98.0,High
+South Carolina,595634.0,0.0,31.0,Moderate
+Florida,108937.5,3.02,49.0,High
+Kansas,12156073.0,3.17,67.0,High
+Florida,682917.88,1.03,50.0,High
+Virginia,23044.79,0.0,55.0,Moderate
+Florida,451627.0,1.0,68.0,High
+Alabama,183733.0,3.13,81.0,High
+Florida,34399.35,1.67,37.0,High
+Tennessee,454407.65,7.68,36.0,Moderate
+Nebraska,46621.0,0.0,71.0,High
+New Jersey,70000.0,1.37,78.0,High
+Oklahoma,131250.0,0.0,69.0,High
+Alaska,10942.0,0.0,49.0,Low
+Arkansas,274292.0,1.0,55.0,Moderate
+Minnesota,121514.0,1.03,24.0,Moderate
+Arkansas,7994.0,0.0,53.0,Moderate
+Ohio,0.0,1.25,40.0,Moderate
+Florida,1591014.46,1.25,47.0,High
+Vermont,8337.0,1.08,26.0,Moderate
+Missouri,38379.0,0.0,41.0,High
+Florida,520050.0,1.13,22.0,High
+Kansas,16253.0,0.0,44.0,High
+Pennsylvania,177716.0,0.0,52.0,High
+Alabama,63422.0,9.21,91.0,High
+Alabama,103783.21,5.11,113.0,High
+Iowa,11029.5,0.0,11.0,High
+Alabama,29625.0,0.0,19.0,High
+Texas,1012500.0,1.06,64.0,High
+North Dakota,1879205.0,1.02,51.0,High
+Texas,57959.25,0.0,38.0,High
+Washington,101222.0,0.0,59.0,High
+Arkansas,703312.0,3.24,34.0,Moderate
+Montana,435000.0,1.64,71.0,Low
+Oklahoma,38336.0,0.0,20.0,High
+New York,0.0,0.0,86.0,High
+Texas,763671.89,1.1,33.0,High
+Florida,60922.0,1.16,33.0,High
+Virginia,99405.0,1.0,43.0,Moderate
+Alabama,23250.0,9.23,81.0,High
+Maryland,153771.0,1.08,-0.0,Moderate
+North Carolina,20625.0,0.0,28.0,High
+Florida,586836.75,1.22,59.0,High
+Mississippi,24844.0,0.0,19.0,High
+Texas,166257.0,3.97,69.0,High
+New Jersey,50000.0,1.68,29.0,High
+Tennessee,1062186.0,1.11,67.0,Moderate
+New York,82500.0,0.0,22.0,High
+Kentucky,19125.0,0.0,19.0,High
+Puerto Rico,22118.0,11.54,55.0,Moderate
+South Dakota,15137.0,0.0,21.0,High
+Mississippi,355255.0,0.0,59.0,High
+Connecticut,1036053.0,137.84,67.0,Moderate
+Virgin Islands of the U.S.,16023.0,0.0,52.0,Low
+Oklahoma,325733.0,0.0,108.0,High
+Illinois,42525.0,0.0,58.0,Moderate
+New York,59542.0,0.0,44.0,High
+Missouri,22500.0,0.0,10.0,High
+Ohio,113656.0,2.02,50.0,Moderate
+Missouri,1209525.0,2.25,31.0,High
+Oklahoma,20000.0,0.0,96.0,High
+Alabama,62057.0,9.5,108.0,High
+Oklahoma,17900.04,0.0,54.0,High
+West Virginia,526520.76,2.59,62.0,Moderate
+California,53287.0,0.0,20.0,High
+Kansas,15773.0,0.0,39.0,High
+California,6611.0,16.92,80.0,High
+Iowa,543672.9,2.26,15.0,High
+West Virginia,84988.36,2.08,0.0,Moderate
+New Jersey,5619466.0,1.96,79.0,High
+North Dakota,176147.0,0.0,56.0,High
+Oklahoma,15000.0,0.0,51.0,High
+Alabama,122625.09,11.43,78.0,High
+New Hampshire,333750.0,1.01,44.0,Moderate
+Alabama,33139.0,2.65,68.0,High
+Tennessee,16518.0,0.0,4.0,Moderate
+Michigan,12010.0,0.0,44.0,Moderate
+Vermont,48698.0,1.16,80.0,Moderate
+Washington,112500.0,0.0,72.0,High
+Texas,539536.72,0.0,121.0,High
+South Dakota,814943.0,2.63,40.0,High
+Michigan,49359.0,0.0,85.0,Moderate
+Florida,38017.0,5.03,30.0,High
+South Carolina,42999.5,1.09,44.0,Moderate
+Oklahoma,17158.0,0.0,48.0,High
+Mississippi,81628.0,0.0,23.0,High
+Michigan,27900.0,0.0,20.0,Moderate
+Utah,541219.0,2.24,27.0,Low
+Nebraska,18387.61,49.26,35.0,High
+Iowa,1033809.0,0.0,47.0,High
+Arizona,361971.0,1.0,49.0,Low
+Nebraska,566249.0,1.76,51.0,High
+Ohio,599019.0,0.0,96.0,Moderate
+Louisiana,94145.0,1.58,162.0,High
+California,335961.33,3.29,47.0,High
+Kentucky,309143.0,1.37,75.0,High
+Vermont,6850.0,0.0,27.0,Moderate
+North Carolina,2114617.8,1.98,65.0,High
+Michigan,149280.0,3.01,46.0,Moderate
+Michigan,0.0,3.44,26.0,Moderate
+South Carolina,7613.0,0.0,37.0,Moderate
+North Dakota,5415.0,0.0,5.0,High
+North Dakota,10715.0,0.0,71.0,High
+Florida,8434283.0,1.13,86.0,High
+Kansas,24628.0,0.0,50.0,High
+Colorado,58194.0,0.0,33.0,Moderate
+Kentucky,94667.0,0.0,69.0,High
+Wisconsin,26608.2,0.0,10.0,Moderate
+Montana,42932.0,0.0,22.0,Low
+Mississippi,33150.0,0.0,21.0,High
+Connecticut,156648.0,0.0,36.0,Moderate
+Kentucky,11353.0,0.0,54.0,High
+Arkansas,725287.0,1.0,49.0,Moderate
+Alabama,91571.0,0.0,19.0,High
+North Dakota,163123.0,1.08,34.0,High
+Alabama,35072.0,1.37,93.0,High
+Maryland,517453.66,0.0,68.0,Moderate
+Oklahoma,20000.0,0.0,65.0,High
+Iowa,539810.0,1.75,38.0,High
+Alabama,237765.0,9.91,25.0,High
+South Dakota,127200.0,1.08,41.0,High
+Iowa,37500.0,0.0,38.0,High
+Oklahoma,31971.0,0.0,57.0,High
+Kansas,15934.0,0.0,40.0,High
+Indiana,402319.0,1.03,74.0,Low
+Kentucky,519757.0,2.23,32.0,High
+Oklahoma,10000.0,0.0,38.0,High
+Georgia,13898.0,0.0,73.0,High
+Ohio,1248151.0,1.53,39.0,Moderate
+New Hampshire,61500.0,6.54,45.0,Moderate
+Alabama,1075032.0,5.57,19.0,High
+Iowa,3750.0,0.0,35.0,High
+Virginia,611247.0,1.01,0.0,Moderate
+Missouri,66676.69,0.0,23.0,High
+Kansas,23891.0,0.0,35.0,High
+Arkansas,717569.0,3.82,19.0,Moderate
+Mississippi,6608.22,17.23,23.0,High
+Mississippi,7425.0,1.17,19.0,High
+Missouri,1220046.88,2.0,30.0,High
+Illinois,46167.0,0.0,32.0,Moderate
+New York,96059.0,0.0,83.0,High
+South Carolina,91658.4,5.17,48.0,Moderate
+Florida,952470.0,6.0,39.0,High
+Nebraska,86168.0,1.46,50.0,High
+Louisiana,1271792.0,1.24,110.0,High
+California,660000.0,7.32,17.0,High
+Colorado,93410.0,0.0,46.0,Moderate
+Washington,922897.0,1.94,1.0,High
+New York,88087.0,0.0,83.0,High
+Louisiana,516234.0,1.47,115.0,High
+West Virginia,100690.38,3.7,36.0,Moderate
+South Dakota,66701.0,0.0,39.0,High
+Alabama,3718.0,1.37,112.0,High
+Louisiana,838484.55,1.02,168.0,High
+South Dakota,60486.55,0.0,33.0,High
+Florida,967350.0,1.12,45.0,High
+Florida,10382.0,1.94,37.0,High
+Texas,34090.95,0.0,88.0,High
+Florida,246881.44,2.02,77.0,High
+South Carolina,0.0,0.0,40.0,Moderate
+Virginia,377655.0,2.23,27.0,Moderate
+Florida,3116.0,7.79,29.0,High
+California,120000.0,0.0,12.0,High
+Kentucky,495000.0,1.0,66.0,High
+Wisconsin,58591.13,0.0,27.0,Moderate
+West Virginia,116695.0,3.09,14.0,Moderate
+New Jersey,249999.58,6.73,1.0,High
+California,4999999.9,3.84,35.0,High
+Oklahoma,59978.0,0.0,61.0,High
+Mississippi,579029.91,4.03,48.0,High
+Tennessee,1228883.0,3.02,42.0,Moderate
+Arkansas,29246.0,5.1,31.0,Moderate
+New York,90000.0,0.0,27.0,High
+Alabama,8000.0,1.37,10.0,High
+Maryland,14583.0,0.0,37.0,Moderate
+Kansas,186483.0,0.0,31.0,High
+Ohio,16250.0,0.0,21.0,Moderate
+Michigan,52212.78,1.19,57.0,Moderate
+New Jersey,248182.27,2.39,76.0,High
+New Jersey,75000.0,1.02,43.0,High
+Kansas,178200.0,1.23,29.0,High
+Alabama,45140.0,0.0,35.0,High
+Oregon,77903.0,2.16,82.0,Moderate
+Washington,21114.75,0.0,56.0,High
+Texas,933750.0,1.03,114.0,High
+New York,55110.0,5.0,14.0,High
+California,116895.0,1.79,154.0,High
+Texas,84042.26,0.0,29.0,High
+Georgia,26455.5,0.0,46.0,High
+Delaware,1381368.75,3.34,0.0,Low
+Ohio,96141.0,0.0,37.0,Moderate
+Alabama,32100.0,0.0,20.0,High
+Kentucky,3378.0,0.0,10.0,High
+Iowa,7505.99,0.0,9.0,High
+Florida,16307.0,1.98,55.0,High
+Arkansas,1049438.0,5.04,21.0,Moderate
+Florida,1849541.0,1.63,90.0,High
+Washington,25317.75,0.0,48.0,High
+Tennessee,1131530.0,2.85,0.0,Moderate
+Louisiana,33488.0,1.25,124.0,High
+South Dakota,73421.91,1.12,23.0,High
+Michigan,664505.5,1.01,56.0,Moderate
+Pennsylvania,679201.43,1.0,40.0,High
+South Dakota,77250.0,1.06,23.0,High
+Alabama,170372.85,6.41,95.0,High
+Washington,773665.0,1.56,38.0,High
+Alabama,1291796.0,4.57,122.0,High
+Washington,89017.65,2.86,58.0,High
+Oklahoma,280019.0,0.0,48.0,High
+Mississippi,43308.0,0.0,12.0,High
+Oklahoma,15000.0,0.0,104.0,High
+Oklahoma,25125.0,0.0,21.0,High
+Puerto Rico,407453.0,1.1,55.0,Moderate
+Minnesota,1950272.9,38.5,41.0,Moderate
+Mississippi,261485.0,0.0,85.0,High
+Oklahoma,10508.0,0.0,54.0,High
+New York,212960.0,1.19,93.0,High
+Colorado,46942.39,1.73,53.0,Moderate
+Puerto Rico,0.0,1.0,42.0,Moderate
+Arizona,213366.47,2.8,40.0,Low
+Kansas,415013.0,3.17,36.0,High
+Florida,69707.0,1.45,45.0,High
+Ohio,19471.0,0.0,40.0,Moderate
+Alabama,32003.0,1.37,102.0,High
+Mississippi,3075.0,0.0,10.0,High
+California,0.0,0.0,37.0,High
+New Jersey,142080.0,1.66,57.0,High
+Florida,29250.0,1.14,36.0,High
+Louisiana,105897.0,0.0,98.0,High
+Kansas,28559.0,0.0,42.0,High
+Washington,17738.76,0.0,59.0,High
+Florida,1818420.0,1.14,66.0,High
+New York,401422.0,0.0,91.0,High
+Alabama,44919.0,1.37,95.0,High
+Maryland,64791.0,0.0,35.0,Moderate
+Vermont,0.0,0.0,20.0,Moderate
+Louisiana,839208.0,1.27,62.0,High
+Puerto Rico,30000.0,0.0,44.0,Moderate
+Arizona,0.0,0.0,21.0,Low
+Oregon,7499.98,0.0,45.0,Moderate
+South Carolina,413590.0,1.66,47.0,Moderate
+Texas,35312.9,0.0,61.0,High
+Wisconsin,14885.0,0.0,60.0,Moderate
+Louisiana,851029.0,1.06,90.0,High
+Kentucky,651585.6,1.46,45.0,High
+Connecticut,1354812.75,0.0,92.0,Moderate
+Massachusetts,1319847.0,1.33,44.0,Moderate
+Vermont,4720.02,4.15,95.0,Moderate
+California,30503.0,0.0,13.0,High
+Texas,11250.0,0.0,58.0,High
+Vermont,13975.0,0.0,48.0,Moderate
+Texas,1814386.0,0.0,147.0,High
+Georgia,18000.0,0.0,58.0,High
+Connecticut,0.0,9.65,36.0,Moderate
+Iowa,3750.0,0.0,33.0,High
+Michigan,100211.0,1.0,62.0,Moderate
+Alaska,7175.0,0.0,35.0,Low
+Kentucky,73196.79,0.0,78.0,High
+California,67500.0,0.0,19.0,High
+Oklahoma,60405.0,0.0,46.0,High
+California,21000.0,0.0,20.0,High
+Iowa,54396.0,4.63,12.0,High
+Florida,112447.0,3.82,38.0,High
+Nebraska,32092.0,1.19,40.0,High
+New Jersey,2382100.0,1.48,24.0,High
+Georgia,29413.0,0.0,10.0,High
+Washington,14182.35,0.0,53.0,High
+Mississippi,158175.0,0.0,16.0,High
+Kentucky,400724.86,1.43,94.0,High
+Florida,515092.0,4.07,49.0,High
+Louisiana,1841843.0,1.21,91.0,High
+Georgia,11964.0,0.0,31.0,High
+Maryland,50063.0,8.39,-0.0,Moderate
+Wisconsin,102799.0,0.0,56.0,Moderate
+Alaska,388500.0,5.34,56.0,Low
+South Carolina,73988.16,1.88,68.0,Moderate
+Iowa,105595.0,0.0,28.0,High
+Tennessee,40942.0,0.0,31.0,Moderate
+Iowa,22500.0,0.0,52.0,High
+Rhode Island,191251.0,1.0,39.0,Low
+Pennsylvania,29250.0,0.0,24.0,High
+Oklahoma,38636.0,0.0,61.0,High
+Kentucky,61193.0,0.0,33.0,High
+Iowa,561392.0,2.31,44.0,High
+Oklahoma,81783.75,13.11,40.0,High
+West Virginia,76650.0,0.0,13.0,Moderate
+New York,317367.0,0.0,28.0,High
+Tennessee,13996.0,0.0,35.0,Moderate
+Georgia,22500.0,0.0,32.0,High
+Missouri,887757.0,1.59,25.0,High
+Florida,453703.53,3.03,48.0,High
+California,265185.92,1.45,89.0,High
+North Dakota,1790454.0,2.17,41.0,High
+Florida,24631.0,7.61,25.0,High
+Alabama,6908.0,1.37,121.0,High
+Iowa,422620.0,1.29,47.0,High
+New York,22792.0,0.0,177.0,High
+Alabama,52902.29,4.46,124.0,High
+Kentucky,158697.06,1.43,82.0,High
+New Jersey,524476.0,1.62,66.0,High
+Georgia,21000.0,0.0,46.0,High
+Mississippi,24962.0,0.0,35.0,High
+Texas,3006999.0,0.0,58.0,High
+Georgia,77175.0,0.9,27.0,High
+North Dakota,15000.0,0.0,32.0,High
+Kansas,32730.0,0.0,39.0,High
+Idaho,25559.78,1.54,35.0,Low
+Oklahoma,7500.0,0.0,27.0,High
+Oklahoma,1500.0,0.0,71.0,High
+California,2657.0,0.0,55.0,High
+Alaska,467103.0,1.86,46.0,Low
+Ohio,69026.52,1.0,36.0,Moderate
+South Dakota,168242.0,1.29,41.0,High
+Oklahoma,1500.0,0.0,55.0,High
+Texas,149976.74,1.36,54.0,High
+Texas,35420.0,1.32,54.0,High
+Pennsylvania,27126.0,0.0,50.0,High
+Ohio,41996.36,1.16,26.0,Moderate
+California,35973.82,7.4,154.0,High
+Indiana,187618.0,4.11,82.0,Low
+Maryland,967305.0,1.29,227.0,Moderate
+Florida,28287.0,48.5,39.0,High
+South Carolina,109848.75,4.39,26.0,Moderate
+Florida,771152.0,11.37,61.0,High
+Oklahoma,12375.0,0.0,25.0,High
+Florida,482042.22,1.03,27.0,High
+Mississippi,6096275.0,0.0,109.0,High
+Florida,167211.0,1.84,44.0,High
+Vermont,1864690.75,1.62,111.0,Moderate
+North Dakota,458207.0,1.49,20.0,High
+Puerto Rico,418020.0,3.55,62.0,Moderate
+Ohio,1066866.0,1.9,56.0,Moderate
+Kansas,87976.0,0.0,10.0,High
+Tennessee,156311.19,6.59,69.0,Moderate
+West Virginia,263700.0,1.49,68.0,Moderate
+Pennsylvania,28506.0,0.0,38.0,High
+Arizona,11966.84,0.0,39.0,Low
+Pennsylvania,327327.0,0.0,0.0,High
+Kansas,18858.0,0.0,47.0,High
+California,0.0,2.02,19.0,High
+Iowa,5250.0,0.0,40.0,High
+Alabama,59760.0,1.37,82.0,High
+Florida,46921.0,0.0,21.0,High
+Arkansas,105600.0,0.0,75.0,Moderate
+Florida,388467.0,1.55,74.0,High
+Vermont,72435.87,1.08,91.0,Moderate
+South Carolina,53224.5,19.99,64.0,Moderate
+Vermont,0.0,0.0,67.0,Moderate
+North Carolina,1934100.08,2.02,72.0,High
+New Jersey,2161039.5,0.1,45.0,High
+Georgia,15556.0,0.0,51.0,High
+North Carolina,7500.0,0.0,20.0,High
+Oregon,1696205.08,1.32,71.0,Moderate
+Florida,101123.0,1.37,55.0,High
+Texas,13013.0,0.0,88.0,High
+Mississippi,84671.0,1.8,25.0,High
+Nebraska,51997.0,5.57,39.0,High
+Iowa,6392029.0,1.13,65.0,High
+Texas,879895.18,1.35,61.0,High
+Illinois,1141091.0,2.18,66.0,Moderate
+Illinois,7063521.0,50.28,73.0,Moderate
+Iowa,51975.0,15.43,29.0,High
+Alabama,7223.0,0.0,75.0,High
+Maine,15000.0,0.0,14.0,Low
+South Carolina,30000.0,0.0,51.0,Moderate
+New York,30000.0,2.07,83.0,High
+Washington,18612.0,0.0,39.0,High
+Minnesota,153975.0,0.0,24.0,Moderate
+Puerto Rico,1112054.0,0.0,53.0,Moderate
+Guam,34072.0,5.73,110.0,Low
+Maine,14013.21,0.0,66.0,Low
+New Mexico,25730.35,0.0,66.0,Low
+Washington,1019936.0,5.53,2.0,High
+Georgia,19064.0,0.0,29.0,High
+Wisconsin,1230.0,2.39,3.0,Moderate
+Colorado,1559968.86,4.61,80.0,Moderate
+North Carolina,473617.0,2.7,56.0,High
+Louisiana,200722.18,4.43,153.0,High
+Missouri,301500.0,1.25,42.0,High
+Oklahoma,15956.66,0.0,86.0,High
+Virginia,664951.0,1.12,58.0,Moderate
+Alabama,19228.0,1.37,94.0,High
+Texas,1101600.0,0.6,86.0,High
+Florida,91733.0,1.91,38.0,High
+Oklahoma,5625.0,0.0,95.0,High
+Oklahoma,11713.44,0.0,50.0,High
+Florida,17547.0,8.08,24.0,High
+Alabama,84827.0,4.04,14.0,High
+Oklahoma,1008.0,0.0,80.0,High
+New Mexico,42913.04,0.0,83.0,Low
+Kentucky,95427.0,3.69,19.0,High
+Illinois,150000.0,1.0,45.0,Moderate
+Tennessee,504264.0,0.0,36.0,Moderate
+Florida,977276.0,2.27,43.0,High
+Minnesota,1022973.0,0.0,60.0,Moderate
+New Jersey,4568863.0,1.02,64.0,High
+Colorado,825000.0,1.62,41.0,Moderate
+Kentucky,85985.0,0.0,19.0,High
+Alabama,174872.01,3.86,79.0,High
+Florida,13799.0,2.29,40.0,High
+Georgia,99794.81,5.98,112.0,High
+Tennessee,154919.0,4.26,38.0,Moderate
+Florida,116059.5,1.92,43.0,High
+Florida,13051.0,3.87,40.0,High
+Indiana,100138.0,0.0,74.0,Low
+Indiana,73223.0,0.0,68.0,Low
+Oklahoma,7932.0,0.0,71.0,High
+Louisiana,594535.0,1.69,72.0,High
+Kansas,199811.0,2.17,41.0,High
+Minnesota,5336.0,0.0,39.0,Moderate
+Georgia,18000.0,0.0,34.0,High
+Louisiana,249590.25,1.47,60.0,High
+Texas,7860.0,9.84,56.0,High
+Alaska,7474.0,0.0,27.0,Low
+Kansas,619158.0,3.43,40.0,High
+Connecticut,197438.0,7.87,56.0,Moderate
+South Carolina,12304.0,0.0,32.0,Moderate
+North Carolina,220131.33,1.16,56.0,High
+Louisiana,2625940.43,1.65,107.0,High
+Florida,162382.5,1.01,21.0,High
+New Jersey,74386.05,2.41,93.0,High
+Florida,12614.0,1.18,41.0,High
+Missouri,900000.0,2.38,39.0,High
+Iowa,640062.0,1.1,63.0,High
+Kansas,18750.0,0.0,32.0,High
+Tennessee,214631.0,0.0,31.0,Moderate
+Florida,24311.0,2.66,64.0,High
+Nebraska,2072.0,0.0,38.0,High
+Washington,280000.0,12.83,46.0,High
+Alabama,53624.0,1.84,91.0,High
+New Jersey,0.0,2.38,91.0,High
+New Hampshire,500393.0,1.03,57.0,Moderate
+North Carolina,0.0,1.28,21.0,High
+New York,16377.0,0.0,82.0,High
+Pennsylvania,287316.0,1.09,48.0,High
+Alabama,32626.0,1.37,96.0,High
+Florida,1433549.0,2.69,50.0,High
+Vermont,34280.0,1.0,83.0,Moderate
+Minnesota,292677.0,0.0,27.0,Moderate
+California,66626.0,0.0,25.0,High
+Florida,411945.48,2.39,44.0,High
+Nebraska,33083.0,0.0,16.0,High
+Florida,295266.0,1.42,41.0,High
+Alabama,32380.0,1.37,96.0,High
+Iowa,598983.0,3.73,47.0,High
+New York,10979422.0,0.0,162.0,High
+Michigan,15000.0,0.0,45.0,Moderate
+Texas,23085.59,0.0,74.0,High
+Connecticut,0.0,4.75,13.0,Moderate
+Louisiana,2520781.0,1.17,129.0,High
+Oklahoma,298449.22,1.54,63.0,High
+Mississippi,0.0,0.0,12.0,High
+West Virginia,3184.0,0.0,35.0,Moderate
+Guam,83987.0,6.62,111.0,Low
+Georgia,11983.0,0.0,55.0,High
+Pennsylvania,1867349.7,0.0,81.0,High
+Connecticut,151509.0,0.0,24.0,Moderate
+West Virginia,390666.0,1.0,36.0,Moderate
+Minnesota,40001.0,0.0,65.0,Moderate
+Alabama,112140.0,3.04,108.0,High
+Florida,107626.0,5.01,50.0,High
+Nevada,247791.75,12.35,38.0,Low
+Tennessee,2023950.0,1.93,59.0,Moderate
+Washington,45000.0,0.0,98.0,High
+Texas,347597.29,1.69,104.0,High
+Maryland,74854.0,0.0,23.0,Moderate
+Louisiana,139831.2,1.35,98.0,High
+Florida,921821.0,1.19,69.0,High
+Florida,78537.0,1.79,32.0,High
+New Hampshire,44631.72,0.0,67.0,Moderate
+Georgia,19500.0,0.0,44.0,High
+Louisiana,65000.0,0.0,62.0,High
+Illinois,2664113.0,1.04,69.0,Moderate
+Florida,394664.4,11.64,48.0,High
+North Carolina,32610.0,0.0,60.0,High
+Louisiana,127200.0,1.3,95.0,High
+Mississippi,18713.0,0.0,17.0,High
+Washington,0.0,1.06,66.0,High
+Arkansas,98169.95,1.98,43.0,Moderate
+Louisiana,1017592.0,1.47,164.0,High
+Kansas,18750.0,0.0,40.0,High
+New Jersey,525509.68,3.45,45.0,High
+Louisiana,125657.0,2.1,17.0,High
+Arkansas,544600.0,1.0,50.0,Moderate
+California,0.0,8.13,185.0,High
+Alabama,62308.0,7.16,90.0,High
+Nebraska,24047.5,0.0,14.0,High
+South Dakota,16204.0,2.53,45.0,High
+Iowa,1962281.0,1.14,72.0,High
+Florida,463536.0,0.0,101.0,High
+Florida,220097.0,7.41,41.0,High
+Virginia,78151.0,0.0,-32.0,Moderate
+South Carolina,619522.0,1.83,27.0,Moderate
+Nebraska,9000.0,0.0,13.0,High
+California,3360791.45,5.16,74.0,High
+Alabama,21458.96,1.37,125.0,High
+Kansas,133790.0,0.0,64.0,High
+Texas,162276.18,1.97,63.0,High
+Kansas,288578.0,1.55,25.0,High
+Michigan,112500.0,1.31,75.0,Moderate
+Nebraska,55913.0,1.35,33.0,High
+Florida,213074.1,0.0,26.0,High
+Ohio,89608.5,0.0,30.0,Moderate
+Iowa,15018.0,0.0,15.0,High
+Georgia,20625.0,0.0,55.0,High
+South Dakota,6000.0,0.0,12.0,High
+Louisiana,48862.0,1.51,80.0,High
+Oklahoma,20000.0,0.0,73.0,High
+Oklahoma,72000.0,0.0,63.0,High
+Pennsylvania,663056.0,0.0,47.0,High
+Alabama,64586.21,3.95,114.0,High
+South Carolina,310236.87,8.42,49.0,Moderate
+Pennsylvania,231067.0,1.0,19.0,High
+Rhode Island,35250.0,0.0,55.0,Low
+North Carolina,130640.75,3.28,47.0,High
+Kentucky,30356.0,0.0,18.0,High
+Alabama,20207.0,1.39,25.0,High
+Florida,29810.0,1.95,39.0,High
+West Virginia,38819.83,7.56,27.0,Moderate
+Oklahoma,6171.0,0.0,61.0,High
+Illinois,230955.0,0.0,69.0,Moderate
+Federated States of Micronesia,6421.0,3.99,115.0,Low
+Alabama,69713.0,1.37,99.0,High
+Indiana,56870.0,0.0,65.0,Low
+Texas,46872.99,0.0,76.0,High
+Alabama,37766.0,1.37,81.0,High
+California,172799.85,0.0,47.0,High
+Oklahoma,18562.5,0.0,54.0,High
+American Samoa,45331.0,5.35,121.0,Low
+Alabama,33993.02,0.0,88.0,High
+Nebraska,105000.0,0.0,66.0,High
+South Dakota,128708.0,0.0,20.0,High
+Florida,121822.0,1.05,38.0,High
+Nebraska,40050.0,0.0,39.0,High
+Texas,247804.0,2.4,94.0,High
+Minnesota,613449.0,1.01,89.0,Moderate
+New Jersey,2763900.0,1.1,120.0,High
+Vermont,0.0,1.32,39.0,Moderate
+Alabama,176522.0,1.36,47.0,High
+Kansas,8200299.0,2.17,63.0,High
+South Dakota,263487.0,1.74,41.0,High
+Pennsylvania,553652.27,1.0,28.0,High
+South Dakota,14513.0,0.0,31.0,High
+Missouri,97108.49,0.0,20.0,High
+Maryland,24920.0,1.0,12.0,Moderate
+Alabama,11513.0,0.0,15.0,High
+Florida,847393.0,2.78,28.0,High
+Oklahoma,0.0,0.0,32.0,High
+Oklahoma,185265.0,0.0,57.0,High
+Iowa,73009.0,0.0,50.0,High
+New Jersey,8370.0,1.35,44.0,High
+New Jersey,75000.0,1.01,23.0,High
+Alabama,15466.0,0.0,55.0,High
+Illinois,24910.0,0.0,103.0,Moderate
+Missouri,39696.0,0.0,43.0,High
+New Jersey,33303.0,1.23,26.0,High
+South Dakota,2781.0,2.21,28.0,High
+North Dakota,21000.0,0.0,39.0,High
+Florida,459780.0,1.69,11.0,High
+Louisiana,26250.0,0.0,44.0,High
+Louisiana,49995.0,0.0,35.0,High
+Mississippi,60805.0,0.0,23.0,High
+Alabama,12000.0,1.37,91.0,High
+Minnesota,29250.0,0.0,31.0,Moderate
+Nebraska,57768.0,0.0,22.0,High
+Alabama,1547152.0,3.4,39.0,High
+Oklahoma,1800.0,0.0,72.0,High
+New York,0.0,1.13,10.0,High
+Texas,2702434.8,1.05,78.0,High
+South Carolina,38587.5,4.81,40.0,Moderate
+Minnesota,130913.0,4.82,18.0,Moderate
+Florida,277505.0,0.13,32.0,High
+Vermont,337500.0,3.05,111.0,Moderate
+Illinois,47169.0,0.0,69.0,Moderate
+Minnesota,356966.0,1.5,71.0,Moderate
+New York,582132.0,0.0,30.0,High
+Missouri,1150410.0,1.59,36.0,High
+Mississippi,219205.0,0.0,62.0,High
+Missouri,1626664.0,4.12,36.0,High
+Tennessee,68766.0,0.0,29.0,Moderate
+South Dakota,66425.0,1.91,26.0,High
+Kansas,337057.0,7.63,33.0,High
+North Dakota,125043.0,8.71,49.0,High
+Washington,56175.0,3.52,20.0,High
+Florida,188081.25,1.16,29.0,High
+Vermont,56147.0,1.05,115.0,Moderate
+Tennessee,13707.0,0.0,16.0,Moderate
+West Virginia,46350.0,0.0,43.0,Moderate
+South Carolina,33730.0,0.0,24.0,Moderate
+Minnesota,379488.19,4.58,49.0,Moderate
+Florida,25415.0,1.1,38.0,High
+North Carolina,329536.0,0.0,45.0,High
+Mississippi,21257.0,0.0,18.0,High
+Oklahoma,212708.32,1.43,56.0,High
+Michigan,634823.0,1.07,78.0,Moderate
+Pennsylvania,98093.0,1.58,39.0,High
+Wisconsin,11177.25,0.0,39.0,Moderate
+Vermont,30273.0,1.14,16.0,Moderate
+Washington,15885.0,0.0,63.0,High
+New York,14375.0,1.77,21.0,High
+South Dakota,7500.0,0.0,20.0,High
+Georgia,13047.0,0.0,26.0,High
+North Dakota,46212.0,0.0,44.0,High
+Colorado,41453.0,0.0,48.0,Moderate
+Louisiana,7076346.51,2.16,149.0,High
+Florida,425216.0,1.01,44.0,High
+New Jersey,125275.0,14.05,43.0,High
+Puerto Rico,21000.0,0.0,38.0,Moderate
+Illinois,1184250.0,52.4,48.0,Moderate
+Iowa,256060.0,5.72,38.0,High
+Washington,680082.0,1.12,69.0,High
+California,294289.44,3.47,35.0,High
+Michigan,25632.0,1.27,32.0,Moderate
+Michigan,63823.85,1.37,63.0,Moderate
+South Carolina,54234.0,3.95,28.0,Moderate
+Alabama,4749.75,0.0,3.0,High
+Iowa,344003.0,1.02,38.0,High
+Oklahoma,155180.75,9.18,39.0,High
+New Jersey,290050.0,1.1,90.0,High
+Texas,66488.0,0.0,102.0,High
+Nebraska,4125.0,0.0,22.0,High
+Kansas,25277.98,0.0,8.0,High
+Florida,69938.0,3.75,92.0,High
+North Dakota,16871.0,0.0,30.0,High
+Kansas,33750.0,0.0,47.0,High
+Tennessee,94110.0,4.6,44.0,Moderate
+Illinois,48679.73,0.0,54.0,Moderate
+Northern Mariana Islands,3408.0,7.87,123.0,Low
+Vermont,7645.78,0.0,76.0,Moderate
+Maine,10275.0,1.59,17.0,Low
+Oklahoma,6236.0,0.0,68.0,High
+Vermont,863.76,0.0,45.0,Moderate
+Massachusetts,47144.0,3.11,29.0,Moderate
+Florida,138730.5,1.63,27.0,High
+Louisiana,563267.0,1.42,107.0,High
+Georgia,6064354.0,0.0,80.0,High
+Virgin Islands of the U.S.,37700.0,1.52,26.0,Low
+Pennsylvania,990104.0,1.07,-17.0,High
+New York,25720.0,0.0,114.0,High
+Alabama,143588.0,3.84,30.0,High
+South Dakota,7500.0,0.0,28.0,High
+Alabama,22288.0,0.0,13.0,High
+Texas,533287.47,0.0,51.0,High
+Georgia,7200.0,0.0,44.0,High
+Ohio,433904.0,1.29,34.0,Moderate
+Tennessee,230250.0,1.59,61.0,Moderate
+Alabama,47844.0,1.37,96.0,High
+Mississippi,535467.0,0.0,78.0,High
+Illinois,0.0,1.19,46.0,Moderate
+Florida,355825.4,1.17,36.0,High
+Missouri,1390300.0,2.0,30.0,High
+Arkansas,1065146.0,3.28,33.0,Moderate
+Virginia,231882.0,1.05,0.0,Moderate
+Mississippi,32628.0,0.0,35.0,High
+Kansas,37500.0,0.0,27.0,High
+Oklahoma,5250.0,0.0,58.0,High
+North Carolina,53520.99,1.9,72.0,High
+Georgia,23923.0,0.0,28.0,High
+Vermont,56364.0,1.15,50.0,Moderate
+Kentucky,34633.0,0.0,72.0,High
+South Dakota,99733.13,0.0,47.0,High
+North Dakota,626929.58,1.85,29.0,High
+Kansas,12502.0,0.0,9.0,High
+Washington,348750.0,0.0,29.0,High
+Missouri,27138.51,0.0,19.0,High
+New York,182571.0,1.14,90.0,High
+Louisiana,738567.0,1.14,82.0,High
+Iowa,22500.0,0.0,35.0,High
+Louisiana,146260.0,1.12,88.0,High
+Virginia,86250.0,0.0,29.0,Moderate
+Louisiana,1130273.56,1.08,101.0,High
+Kentucky,101165.0,7.33,64.0,High
+Texas,33750.0,2.29,89.0,High
+New Jersey,127746.0,0.0,77.0,High
+Indiana,549656.0,12.36,70.0,Low
+Rhode Island,15000.0,0.0,36.0,Low
+Georgia,2101837.5,7.87,44.0,High
+Nevada,22872.0,0.0,8.0,Low
+Louisiana,102900.0,2.31,106.0,High
+Missouri,1458000.0,3.15,29.0,High
+Guam,845663.0,3.94,120.0,Low
+Georgia,18000.0,0.0,34.0,High
+Vermont,0.0,1.13,30.0,Moderate
+Florida,119051.0,1.24,52.0,High
+Oklahoma,46875.0,0.0,39.0,High
+Ohio,353800.0,1.18,38.0,Moderate
+Vermont,38339.25,1.13,86.0,Moderate
+New York,2721695.0,0.0,45.0,High
+West Virginia,982912.5,9.33,0.0,Moderate
+Pennsylvania,425316.0,0.0,62.0,High
+Kansas,306938.14,1.75,21.0,High
+New Jersey,97275.63,0.0,130.0,High
+Washington,97816.0,3.07,0.0,High
+Maryland,158108.25,1.15,47.0,Moderate
+New York,51203.0,0.0,72.0,High
+Vermont,84934.69,3.86,28.0,Moderate
+Puerto Rico,86933.0,0.0,50.0,Moderate
+West Virginia,61630.0,0.31,0.0,Moderate
+New Jersey,0.0,1.68,42.0,High
+Texas,357817.5,1.48,0.0,High
+Missouri,1013813.0,3.56,49.0,High
+New Jersey,125000.0,0.0,56.0,High
+Kentucky,168363.0,0.0,30.0,High
+Maryland,127850.0,0.0,47.0,Moderate
+Oklahoma,1100.0,0.0,71.0,High
+Washington,0.0,2.25,68.0,High
+Oregon,22000.0,0.0,59.0,Moderate
+Louisiana,3834330.0,1.15,164.0,High
+Florida,881837.0,1.25,67.0,High
+Virginia,413644.0,0.0,85.0,Moderate
+Arkansas,15481.0,1.0,51.0,Moderate
+Colorado,1388068.48,1.03,39.0,Moderate
+Montana,119190.0,1.0,43.0,Low
+Alabama,22500.0,0.0,42.0,High
+Oklahoma,1758.0,0.0,52.0,High
+Oklahoma,35550.0,0.0,31.0,High
+Louisiana,558825.0,0.0,89.0,High
+Connecticut,27693.0,1.73,64.0,Moderate
+New Hampshire,387178.0,1.97,36.0,Moderate
+Arkansas,33000.0,0.0,64.0,Moderate
+Puerto Rico,75000.0,0.0,35.0,Moderate
+Iowa,50580.0,0.0,46.0,High
+Florida,15789.44,0.0,39.0,High
+South Dakota,293.0,0.0,43.0,High
+Texas,74982.0,2.23,50.0,High
+New Hampshire,6000.0,0.0,17.0,Moderate
+Texas,254271.0,2.96,40.0,High
+Alabama,396750.0,77.44,37.0,High
+South Dakota,11250.0,0.0,35.0,High
+Oklahoma,30000.0,0.0,8.0,High
+Florida,44170.0,3.08,36.0,High
+West Virginia,79519.0,1.63,0.0,Moderate
+Massachusetts,0.0,1.69,26.0,Moderate
+Oklahoma,16875.0,0.0,11.0,High
+Texas,21470.0,0.0,155.0,High
+Minnesota,764456.0,1.01,52.0,Moderate
+California,225000.0,0.0,33.0,High
+South Dakota,126953.0,1.67,21.0,High
+Missouri,998543.0,1.73,44.0,High
+Alabama,39.0,1.37,75.0,High
+Georgia,15600.0,0.0,33.0,High
+Virginia,307728.8,2.42,65.0,Moderate
+Maryland,58738.5,0.0,52.0,Moderate
+New York,3946250.0,0.0,53.0,High
+Nebraska,33042.75,0.0,38.0,High
+Virginia,188071.37,1.04,46.0,Moderate
+Hawaii,112500.3,1.35,40.0,Low
+New York,43413.0,1.29,41.0,High
+Missouri,157015.5,2.56,26.0,High
+Connecticut,100000.0,0.0,95.0,Moderate
+Mississippi,125768.0,0.0,24.0,High
+Nebraska,28219.59,0.0,17.0,High
+Alabama,41505.0,0.0,13.0,High
+Michigan,104130.76,2.04,59.0,Moderate
+Kentucky,16461.97,0.0,20.0,High
+Georgia,14957.0,0.0,56.0,High
+Florida,901192.5,1.21,27.0,High
+Florida,60153.0,9.0,16.0,High
+Iowa,33750.0,0.0,57.0,High
+California,1008350.25,12.86,154.0,High
+California,69170.25,0.0,35.0,High
+Rhode Island,359479.35,0.2,75.0,Low
+Missouri,1110000.0,1.66,36.0,High
+Iowa,11425.27,5.04,15.0,High
+New Mexico,41262.44,0.0,85.0,Low
+Oklahoma,460818.0,0.0,103.0,High
+Mississippi,1978484.0,1.8,60.0,High
+Kansas,796505.0,1.57,26.0,High
+Florida,1487709.0,1.39,52.0,High
+Texas,822355.0,1.04,142.0,High
+Iowa,27803.0,0.0,23.0,High
+Florida,341836.0,1.21,77.0,High
+Oklahoma,11250.0,0.0,50.0,High
+New Hampshire,118575.0,1.17,30.0,Moderate
+Maryland,23190.0,0.0,15.0,Moderate
+Michigan,255715.0,1.06,128.0,Moderate
+Florida,5944.0,3.19,38.0,High
+Florida,0.0,1.76,53.0,High
+Illinois,110005.0,0.83,56.0,Moderate
+Michigan,76469.65,2.3,57.0,Moderate
+Vermont,136151.75,1.05,77.0,Moderate
+New Jersey,101502.0,0.0,32.0,High
+North Carolina,348917.0,0.0,62.0,High
+Nebraska,10670.0,0.0,40.0,High
+Kansas,28347.0,0.0,31.0,High
+Ohio,342021.0,1.88,55.0,Moderate
+Florida,4616288.0,1.63,96.0,High
+Kentucky,458192.0,2.18,19.0,High
+Georgia,18000.0,0.0,31.0,High
+Oklahoma,11713.43,0.0,50.0,High
+Mississippi,5226.0,19.61,13.0,High
+Arizona,16194.0,0.0,51.0,Low
+Florida,143058.0,1.04,52.0,High
+Florida,298787.4,1.44,44.0,High
+California,74621.0,0.0,30.0,High
+Kentucky,76949.0,1.42,29.0,High
+Massachusetts,364833.0,2.44,57.0,Moderate
+Kentucky,696671.0,0.0,38.0,High
+Washington,161285.67,2.3,36.0,High
+Oklahoma,19658.0,0.0,21.0,High
+Arkansas,7500.0,0.0,38.0,Moderate
+Oklahoma,1816.0,0.0,57.0,High
+Rhode Island,64897.0,0.0,87.0,Low
+Kansas,20123.99,2.88,18.0,High
+South Carolina,42551.0,2.38,20.0,Moderate
+West Virginia,107101.0,1.37,28.0,Moderate
+Vermont,0.0,1.84,90.0,Moderate
+Connecticut,130425.0,0.0,84.0,Moderate
+California,180725.01,2.83,22.0,High
+Colorado,2005125.0,1.26,49.0,Moderate
+Florida,1233404.0,1.69,43.0,High
+Florida,1902151.0,1.0,45.0,High
+Oregon,8798.62,0.0,33.0,Moderate
+South Dakota,115500.0,1.19,19.0,High
+Georgia,19650.75,0.0,41.0,High
+Oregon,682500.0,2.38,0.0,Moderate
+Alaska,172666.0,1.13,23.0,Low
+Alabama,80887.0,1.37,79.0,High
+Montana,3339.0,0.0,20.0,Low
+Virginia,7249.0,0.0,9.0,Moderate
+Oklahoma,1500.0,0.0,52.0,High
+Kentucky,50031.0,0.0,23.0,High
+North Dakota,269383.0,4.47,22.0,High
+Georgia,431368.0,2.24,51.0,High
+Alabama,122119.0,1.69,23.0,High
+Alabama,508017.65,4.89,118.0,High
+Louisiana,50000.0,0.0,83.0,High
+Florida,1949914.0,0.0,87.0,High
+Mississippi,12994.0,0.0,25.0,High
+Oklahoma,105577.5,3.76,62.0,High
+Virginia,93750.0,0.0,45.0,Moderate
+Nebraska,18444.0,0.0,8.0,High
+Massachusetts,106846.0,0.0,61.0,Moderate
+Colorado,11100.0,0.0,30.0,Moderate
+Arizona,24780.0,0.0,57.0,Low
+Florida,2000.0,2.27,34.0,High
+Florida,295800.21,1.21,63.0,High
+Louisiana,1857076.0,1.22,101.0,High
+South Dakota,25875.0,0.0,18.0,High
+Alabama,9636.0,0.0,28.0,High
+South Dakota,18532.0,1.9,19.0,High
+North Carolina,1208568.0,0.0,61.0,High
+Pennsylvania,37499.0,0.0,1.0,High
+North Dakota,856044.0,0.0,31.0,High
+Louisiana,150000.0,0.0,29.0,High
+Puerto Rico,11421.0,0.0,54.0,Moderate
+Oklahoma,407377.86,9.18,51.0,High
+Pennsylvania,175950.0,1.0,35.0,High
+California,99460.0,0.0,40.0,High
+Mississippi,1650943.0,7.65,53.0,High
+Iowa,954455.0,2.02,42.0,High
+Louisiana,2202729.75,0.0,98.0,High
+New Jersey,190764.0,20.84,96.0,High
+Montana,223346.88,1.4,60.0,Low
+Mississippi,23767.0,0.0,25.0,High
+Missouri,1708467.0,0.0,76.0,High
+Oklahoma,847.0,0.0,85.0,High
+Mississippi,560079.29,0.0,25.0,High
+Alabama,13631.0,0.0,67.0,High
+Illinois,41303.0,0.0,23.0,Moderate
+Florida,26561.0,2.23,41.0,High
+New Hampshire,149156.0,7.4,48.0,Moderate
+Minnesota,12978.0,0.0,15.0,Moderate
+Nebraska,86807.91,21.42,29.0,High
+Maryland,23425.0,0.0,41.0,Moderate
+Puerto Rico,18750.0,0.0,63.0,Moderate
+Alabama,4000.0,0.0,30.0,High
+Mississippi,658344.0,6.78,51.0,High
+Michigan,275730.0,0.0,81.0,Moderate
+West Virginia,409252.0,1.0,37.0,Moderate
+California,299369.75,0.0,48.0,High
+Louisiana,97824.0,8.82,107.0,High
+Iowa,18003.0,0.0,52.0,High
+Florida,727618.0,1.27,70.0,High
+Kentucky,22974.0,0.0,0.0,High
+Iowa,4500.0,0.0,41.0,High
+Alabama,53644.0,1.37,80.0,High
+Oklahoma,40894.29,0.0,74.0,High
+Kansas,138750.0,0.0,43.0,High
+Kentucky,770500.68,1.0,31.0,High
+Oregon,126752.24,2.17,78.0,Moderate
+Washington,412500.0,2.21,99.0,High
+Alabama,70121.25,5.59,77.0,High
+Maine,15619.0,1.33,36.0,Low
+Alabama,56338.76,3.06,115.0,High
+Wisconsin,187500.0,1.3,44.0,Moderate
+Nevada,43759.98,0.0,31.0,Low
+Kansas,29903.0,0.0,51.0,High
+Alabama,37500.0,0.0,14.0,High
+West Virginia,38175.0,0.0,42.0,Moderate
+New York,114530.0,0.94,46.0,High
+Nebraska,21171.0,0.0,41.0,High
+Missouri,73166.0,1.5,45.0,High
+Florida,0.0,6.38,33.0,High
+Texas,100391.0,0.0,81.0,High
+Iowa,3750.0,0.0,43.0,High
+Iowa,59018.0,2.8,38.0,High
+Kansas,75000.0,2.72,42.0,High
+Texas,1403306.47,0.0,54.0,High
+Alabama,49385.0,18.47,13.0,High
+Texas,17643.38,0.0,112.0,High
+Georgia,60289.0,0.0,38.0,High
+Illinois,513203.0,0.73,56.0,Moderate
+Georgia,16650.75,0.0,71.0,High
+Minnesota,30000.0,0.0,40.0,Moderate
+Alabama,53301.77,1.37,142.0,High
+Guam,65828.0,2.24,110.0,Low
+Minnesota,96799.71,0.0,36.0,Moderate
+Indiana,586419.0,0.75,31.0,Low
+Pennsylvania,46276.0,0.0,28.0,High
+Oklahoma,378810.0,3.98,67.0,High
+Kansas,18750.0,0.0,44.0,High
+Florida,15136.0,2.28,48.0,High
+South Carolina,33849.12,1.35,73.0,Moderate
+North Dakota,32669.0,0.0,41.0,High
+Iowa,30115.0,0.0,24.0,High
+Alabama,86250.0,0.0,19.0,High
+Guam,22311.0,31.14,125.0,Low
+North Dakota,24525.0,0.0,20.0,High
+Minnesota,18962.0,0.0,35.0,Moderate
+New Jersey,32759.0,1.87,42.0,High
+Idaho,180450.0,1.79,24.0,Low
+Virginia,16121.0,0.0,-15.0,Moderate
+Minnesota,14375.0,0.0,74.0,Moderate
+Montana,46492.22,0.0,23.0,Low
+Arizona,36000.0,0.0,42.0,Low
+North Dakota,6215.0,0.0,37.0,High
+Arkansas,759780.0,1.0,52.0,Moderate
+Alabama,18763.88,0.0,76.0,High
+Mississippi,1094890.0,8.07,63.0,High
+Oregon,108049.0,1.32,76.0,Moderate
+New Jersey,71109.0,0.0,44.0,High
+Texas,616633.22,0.0,53.0,High
+Maryland,176130.0,0.0,57.0,Moderate
+South Carolina,3350152.21,1.48,70.0,Moderate
+Oklahoma,15000.0,0.0,71.0,High
+Tennessee,10244.0,0.0,43.0,Moderate
+California,2983302.0,1.0,78.0,High
+Mississippi,872382.0,3.99,48.0,High
+Missouri,924750.0,2.86,30.0,High
+Connecticut,14447.0,0.0,47.0,Moderate
+Michigan,12000.0,34.57,50.0,Moderate
+Wisconsin,18102.0,0.0,17.0,Moderate
+Wisconsin,65175.0,2.1,40.0,Moderate
+Iowa,77814.0,0.0,82.0,High
+California,7055640.0,4.72,120.0,High
+West Virginia,785935.41,1.09,36.0,Moderate
+South Carolina,230503.21,5.91,80.0,Moderate
+Kentucky,0.0,3.08,28.0,High
+Iowa,55118.0,1.22,20.0,High
+Washington,97500.0,0.0,42.0,High
+Texas,0.0,0.0,0.0,High
+Oklahoma,5444.0,0.0,63.0,High
+Illinois,432963.0,1.06,44.0,Moderate
+West Virginia,356112.0,1.25,38.0,Moderate
+Iowa,36000.0,0.0,57.0,High
+Georgia,16938.0,0.0,15.0,High
+Texas,11084718.31,0.0,138.0,High
+Nebraska,364288.0,2.44,56.0,High
+Wisconsin,1046742.0,1.04,65.0,Moderate
+Kansas,13927.0,0.0,41.0,High
+Oklahoma,209950.0,0.0,88.0,High
+Florida,373815.74,12.15,43.0,High
+North Carolina,11250.0,0.0,38.0,High
+Louisiana,342370.0,2.56,89.0,High
+Missouri,211245.0,0.0,44.0,High
+Ohio,425397.0,0.0,47.0,Moderate
+Oklahoma,20000.0,0.0,101.0,High
+California,6377.0,1.0,11.0,High
+Arizona,95580.87,1.03,103.0,Low
+New York,30611.0,0.0,40.0,High
+Alabama,101590.8,7.17,129.0,High
+Oklahoma,113177.0,2.42,21.0,High
+Alabama,63229.7,6.27,117.0,High
+North Dakota,18363.0,0.0,20.0,High
+Texas,7586116.0,1.42,117.0,High
+Oklahoma,85101.0,0.0,47.0,High
+Missouri,42857.1,0.0,22.0,High
+Florida,86384.0,2.08,61.0,High
+Oklahoma,97232.0,0.0,65.0,High
+Alabama,4000.0,1.37,27.0,High
+Alabama,68252.0,5.57,119.0,High
+South Carolina,12687.08,4.23,58.0,Moderate
+Utah,62093.0,0.0,58.0,Low
+Connecticut,141419.19,1.67,92.0,Moderate
+Alabama,4000.0,1.37,97.0,High
+Texas,113907.0,0.0,124.0,High
+Kansas,428931.0,1.0,24.0,High
+Texas,70770.0,0.0,38.0,High
+Florida,8496.0,1.76,33.0,High
+Vermont,25630.5,1.7,129.0,Moderate
+Georgia,363672.0,0.0,47.0,High
+Iowa,21269.0,0.0,29.0,High
+Alabama,46756.0,1.37,88.0,High
+Vermont,103141.66,0.0,100.0,Moderate
+Tennessee,102713.0,5.19,49.0,Moderate
+Missouri,50454.0,0.0,11.0,High
+Washington,180248.0,1.04,36.0,High
+West Virginia,8307.81,0.0,2.0,Moderate
+Kentucky,46380.0,3.84,29.0,High
+Nebraska,5965.0,0.0,49.0,High
+New Hampshire,235193.0,2.03,45.0,Moderate
+Georgia,11117.0,0.0,22.0,High
+Oklahoma,350000.0,2.46,43.0,High
+California,96401.89,3.89,26.0,High
+Georgia,331181.0,1.99,44.0,High
+South Carolina,37344.0,0.0,39.0,Moderate
+New Jersey,0.0,0.0,59.0,High
+Iowa,7437.0,0.0,33.0,High
+North Carolina,52383.0,0.0,45.0,High
+Connecticut,117750.0,0.0,45.0,Moderate
+Iowa,127730.74,1.99,19.0,High
+Florida,276278.0,5.54,25.0,High
+Iowa,25500.0,0.0,37.0,High
+Tennessee,5997.0,0.0,0.0,Moderate
+Pennsylvania,36000.0,0.0,22.0,High
+Louisiana,17410.0,3.54,114.0,High
+Ohio,0.01,1.0,58.0,Moderate
+Maryland,11595.0,0.0,17.0,Moderate
+Mississippi,6608.22,4.76,20.0,High
+Ohio,320540.0,1.79,67.0,Moderate
+Texas,44361448.0,1.12,160.0,High
+California,2395018.91,3.77,40.0,High
+Vermont,72059.0,1.08,110.0,Moderate
+Tennessee,11250.0,0.0,25.0,Moderate
+Louisiana,3521819.0,2.24,75.0,High
+Washington,112500.0,0.0,53.0,High
+Oklahoma,1970.0,0.0,75.0,High
+Louisiana,335418.1,1.86,92.0,High
+Mississippi,16791.0,0.0,12.0,High
+Oklahoma,30000.0,0.0,27.0,High
+Iowa,29153.67,0.0,14.0,High
+Texas,120956.0,0.0,45.0,High
+Missouri,207189.0,1.94,68.0,High
+Florida,958518.0,1.36,45.0,High
+Oregon,162750.0,2.37,87.0,Moderate
+Virginia,34550.0,0.0,0.0,Moderate
+Texas,100849.0,2.3,81.0,High
+Montana,91253.0,1.53,26.0,Low
+Florida,0.0,1.25,30.0,High
+South Carolina,0.0,1.84,15.0,Moderate
+Kentucky,749304.99,2.22,58.0,High
+Wisconsin,41960.0,0.0,56.0,Moderate
+Louisiana,59470.0,0.0,40.0,High
+Missouri,1143625.0,1.13,59.0,High
+Nebraska,15506.25,0.0,25.0,High
+Oklahoma,10627.0,0.0,62.0,High
+New Jersey,47693.89,4.34,1.0,High
+Ohio,17098.0,1.55,27.0,Moderate
+Vermont,22195.8,0.0,137.0,Moderate
+Alabama,12000.0,1.37,8.0,High
+Florida,170788.0,1.23,56.0,High
+Louisiana,65000.0,0.0,48.0,High
+Virginia,8224.0,0.0,22.0,Moderate
+South Carolina,0.0,0.0,15.0,Moderate
+Vermont,445715.12,0.0,135.0,Moderate
+Rhode Island,0.0,0.0,44.0,Low
+Oklahoma,21129.0,0.0,18.0,High
+Indiana,60143.0,0.0,65.0,Low
+Florida,949965.0,0.0,49.0,High
+Connecticut,0.0,0.0,44.0,Moderate
+Minnesota,151486.0,0.0,36.0,Moderate
+Florida,14625.0,1.49,153.0,High
+Alabama,93308.0,0.0,55.0,High
+New Jersey,250000.0,1.41,0.0,High
+Iowa,37059.0,0.0,8.0,High
+Nebraska,14650.0,0.0,17.0,High
+Alabama,667962.0,1.72,18.0,High
+California,7500000.0,1.49,34.0,High
+Iowa,1199245.0,0.0,39.0,High
+North Dakota,703815.0,2.08,33.0,High
+Missouri,3097893.0,4.22,33.0,High
+Northern Mariana Islands,5117.0,2.31,67.0,Low
+New Jersey,14363900.0,1.12,69.0,High
+Florida,58494.0,8.91,25.0,High
+Pennsylvania,50343.0,1.55,0.0,High
+Oklahoma,1286533.98,1.96,52.0,High
+South Dakota,97245.75,1.73,26.0,High
+Oklahoma,1935.0,0.0,53.0,High
+Connecticut,0.0,0.0,36.0,Moderate
+Florida,17909.0,4.58,24.0,High
+Arkansas,101763.0,1.0,57.0,Moderate
+Alabama,657870.0,0.0,36.0,High
+New Jersey,72000.0,4.89,20.0,High
+Pennsylvania,27750.0,0.0,31.0,High
+Florida,394216.27,8.11,53.0,High
+Oklahoma,22500.0,0.0,105.0,High
+Nebraska,200760.0,6.66,29.0,High
+Louisiana,227997.0,1.31,144.0,High
+Massachusetts,49400.0,0.0,46.0,Moderate
+New Hampshire,17190.0,0.0,53.0,Moderate
+Kansas,27371.0,0.0,15.0,High
+Kansas,939800.0,3.46,48.0,High
+Oklahoma,37500.0,0.0,45.0,High
+Washington,258647.92,1.61,74.0,High
+Oklahoma,1577851.71,5.13,47.0,High
+Alabama,12000.0,1.37,94.0,High
+Nebraska,2130.0,0.0,18.0,High
+Iowa,8240.65,0.0,17.0,High
+Texas,64125.0,0.0,39.0,High
+Mississippi,44929.0,0.0,14.0,High
+Kentucky,39000.0,0.0,78.0,High
+Arkansas,408082.0,0.0,87.0,Moderate
+Utah,298778.74,3.25,66.0,Low
+Kansas,262500.0,9.53,43.0,High
+Iowa,5944374.0,0.0,53.0,High
+California,387474.0,4.56,21.0,High
+Alabama,100622.93,4.12,83.0,High
+Delaware,8030.0,2.19,0.0,Low
+Alabama,8156.0,0.0,14.0,High
+Massachusetts,104160.0,1.23,56.0,Moderate
+Louisiana,678623.7,4.49,90.0,High
+Texas,141778.58,1.16,55.0,High
+Florida,237698.25,2.09,35.0,High
+California,9377.0,0.0,15.0,High
+Louisiana,65000.0,0.0,35.0,High
+Kansas,119339.0,1.17,27.0,High
+Alabama,30227.0,0.0,29.0,High
+North Dakota,22387.0,0.0,15.0,High
+Kansas,464207.0,0.0,39.0,High
+Alabama,62897.66,12.71,120.0,High
+Vermont,1974.0,1.17,21.0,Moderate
+South Carolina,396152.0,0.0,36.0,Moderate
+Georgia,22147.06,0.0,68.0,High
+Mississippi,341423.0,0.0,43.0,High
+Texas,214481.0,0.0,156.0,High
+North Carolina,72839.0,0.0,94.0,High
+Rhode Island,0.0,0.0,66.0,Low
+New Jersey,257054.2,1.18,63.0,High
+Kansas,97500.0,0.0,22.0,High
+Oklahoma,57240.0,17.36,53.0,High
+Florida,76448.0,2.71,57.0,High
+New Jersey,59772.0,0.0,67.0,High
+Texas,66720.0,3.13,43.0,High
+Oklahoma,85717.5,0.0,57.0,High
+New Jersey,22247142.61,0.0,121.0,High
+Texas,2344322.0,6.49,54.0,High
+Kentucky,101753.0,0.0,25.0,High
+Colorado,176296.0,1.35,69.0,Moderate
+Georgia,10297.0,0.0,11.0,High
+South Dakota,12737.0,0.0,34.0,High
+Arkansas,30000.0,0.0,42.0,Moderate
+Texas,93750.0,0.0,70.0,High
+Mississippi,17447.0,0.0,30.0,High
+Alabama,1000000.0,0.0,38.0,High
+Mississippi,20069278.0,0.0,164.0,High
+South Dakota,53540.0,0.0,47.0,High
+Massachusetts,261103.0,1.94,28.0,Moderate
+Michigan,48375.0,0.0,75.0,Moderate
+South Dakota,6000.0,0.0,25.0,High
+Alabama,59382.0,0.0,112.0,High
+Georgia,39199.0,1.49,28.0,High
+Oklahoma,2465423.24,0.0,61.0,High
+Florida,434668.0,1.04,41.0,High
+Oregon,92416.0,19.65,63.0,Moderate
+Alabama,88521.0,27.35,22.0,High
+Delaware,8463.0,0.0,0.0,Low
+Ohio,9375.0,0.0,52.0,Moderate
+Alabama,89808.0,10.7,18.0,High
+Texas,171789.0,2.01,74.0,High
+Virginia,641093.0,1.81,0.0,Moderate
+North Dakota,157320.0,2.84,41.0,High
+New Jersey,0.0,0.0,72.0,High
+Louisiana,50000.0,0.0,40.0,High
+West Virginia,143530.0,0.0,28.0,Moderate
+West Virginia,225774.0,1.57,39.0,Moderate
+Indiana,248703.75,3.33,81.0,Low
+Arizona,469424.0,3.21,35.0,Low
+Maine,13903.03,0.0,81.0,Low
+Massachusetts,20625.0,1.4,27.0,Moderate
+Florida,167039.92,1.25,34.0,High
+New Jersey,90363.0,0.0,41.0,High
+North Carolina,36084.0,0.0,30.0,High
+New Jersey,2386499.0,1.84,58.0,High
+Iowa,61857.0,0.0,31.0,High
+Georgia,18150.0,0.0,71.0,High
+Alabama,23971.0,1.37,90.0,High
+Mississippi,376130.0,1.21,48.0,High
+Federated States of Micronesia,56836.0,13.74,115.0,Low
+Louisiana,837282.73,4.31,76.0,High
+Vermont,4346.0,1.38,36.0,Moderate
+Oregon,15000.0,0.0,17.0,Moderate
+Oregon,43853.78,0.0,50.0,Moderate
+Iowa,323024.0,1.2,21.0,High
+Alabama,9537.75,5.37,60.0,High
+Louisiana,56813.0,1.35,189.0,High
+Florida,36303.0,1.74,45.0,High
+Guam,378192.0,1.55,111.0,Low
+South Carolina,0.0,0.0,21.0,Moderate
+Alabama,46510.0,5.54,13.0,High
+Florida,56307.0,1.25,31.0,High
+Alabama,32750.0,1.37,93.0,High
+Alabama,17919.0,0.0,22.0,High
+Illinois,1677592.19,0.0,65.0,Moderate
+Kentucky,1215000.0,0.0,34.0,High
+North Dakota,97530.0,1.53,16.0,High
+Texas,67277.0,0.0,69.0,High
+Massachusetts,2821456.0,1.09,103.0,Moderate
+North Carolina,732005.0,0.0,108.0,High
+Missouri,2571816.0,2.74,44.0,High
+Texas,0.0,9.57,0.0,High
+Connecticut,14018.0,1.0,69.0,Moderate
+New Jersey,0.0,4.14,39.0,High
+New York,304500.0,6.22,37.0,High
+California,98490.0,0.0,30.0,High
+Oregon,1500.0,2.05,50.0,Moderate
+Kansas,528773.0,1.49,51.0,High
+New Jersey,34902.5,0.0,130.0,High
+Massachusetts,177227.0,1.56,25.0,Moderate
+West Virginia,55326.0,0.0,0.0,Moderate
+California,34579.5,0.0,47.0,High
+Georgia,804864.37,1.65,0.0,High
+Arkansas,30000.0,0.0,34.0,Moderate
+Montana,86738.0,1.0,72.0,Low
+South Dakota,11795.0,1.0,13.0,High
+Alabama,46726.0,2.2,22.0,High
+Alabama,39852.0,1.37,81.0,High
+Maryland,452069.0,0.0,29.0,Moderate
+Missouri,924322.29,5.39,39.0,High
+New Jersey,69000.0,1.05,68.0,High
+North Carolina,58125.0,0.0,45.0,High
+North Carolina,7500.0,0.0,21.0,High
+Oregon,225000.0,1.12,62.0,Moderate
+Tennessee,16500.0,0.0,32.0,Moderate
+Iowa,3750.0,0.0,40.0,High
+Ohio,535500.0,7.61,74.0,Moderate
+North Dakota,70093.0,1.08,35.0,High
+South Dakota,74258.56,0.0,39.0,High
+Alabama,262500.0,1.16,33.0,High
+Ohio,196256.0,1.62,49.0,Moderate
+Florida,316578.0,0.0,58.0,High
+Alabama,56034.0,7.95,76.0,High
+Louisiana,10162104.0,1.24,62.0,High
+Alabama,117686.0,0.0,34.0,High
+Florida,414306.0,1.24,32.0,High
+Louisiana,488679.0,2.68,40.0,High
+Mississippi,39093.0,0.0,18.0,High
+Vermont,622772.67,1.02,91.0,Moderate
+Texas,276521.39,3.07,59.0,High
+Washington,893987.0,1.18,98.0,High
+Alabama,4248.0,1.37,119.0,High
+Kentucky,223177.0,0.0,83.0,High
+North Dakota,101211.0,16.52,24.0,High
+California,4973065.46,1.55,42.0,High
+Puerto Rico,21054.0,0.0,18.0,Moderate
+Vermont,28570.8,0.0,73.0,Moderate
+Massachusetts,0.0,0.0,62.0,Moderate
+Alabama,3858.0,1.37,21.0,High
+Alabama,52127.0,3.83,77.0,High
+Alabama,40301.0,0.0,19.0,High
+Kansas,422396.0,1.01,19.0,High
+New Jersey,71900.0,0.0,71.0,High
+Illinois,145776.0,0.0,54.0,Moderate
+California,125000.37,0.0,38.0,High
+New Jersey,75000.0,2.19,47.0,High
+Iowa,706394.0,1.98,44.0,High
+Louisiana,1006945.11,1.19,34.0,High
+Mississippi,92601.0,0.0,79.0,High
+Kentucky,58361.0,4.68,28.0,High
+Oklahoma,31425.0,0.0,50.0,High
+Indiana,45000.0,0.0,71.0,Low
+Minnesota,480007.0,15.59,29.0,Moderate
+Kentucky,2269035.0,0.0,48.0,High
+New York,18750.0,1.18,8.0,High
+Iowa,4500.0,0.0,43.0,High
+Mississippi,66612.0,0.0,47.0,High
+New Hampshire,41635.0,1.44,78.0,Moderate
+Missouri,1422253.0,3.23,29.0,High
+Florida,0.0,4.45,7.0,High
+Florida,342058.0,10.67,42.0,High
+California,26250.0,0.0,26.0,High
+Wisconsin,5207390.0,1.02,79.0,Moderate
+Alabama,4189.0,1.37,42.0,High
+Oklahoma,1500.0,0.0,52.0,High
+Oklahoma,41000.0,0.0,63.0,High
+Alabama,19837.0,0.0,23.0,High
+Florida,24005.0,1.03,39.0,High
+South Dakota,13125.0,0.0,26.0,High
+Alabama,1694386.0,0.0,59.0,High
+Florida,65458.0,1.19,52.0,High
+Alabama,100277.0,0.0,9.0,High
+Missouri,1164546.0,3.29,40.0,High
+Louisiana,65384.0,3.63,98.0,High
+Texas,86355.0,0.0,68.0,High
+Alabama,129816.7,2.92,117.0,High
+Colorado,37500.0,0.0,39.0,Moderate
+California,833359.0,0.0,15.0,High
+New Jersey,45450.0,2.66,1.0,High
+Kansas,11952.0,0.0,11.0,High
+Alabama,32929.0,1.37,80.0,High
+New York,22500.0,0.0,45.0,High
+Ohio,821322.89,1.54,41.0,Moderate
+Puerto Rico,25442.0,0.0,31.0,Moderate
+Florida,44093.0,1.36,29.0,High
+Kansas,239964.0,0.0,88.0,High
+Oklahoma,919.0,0.0,74.0,High
+Tennessee,44529.0,0.0,58.0,Moderate
+Kansas,21600.0,0.0,47.0,High
+Virginia,937172.0,1.73,17.0,Moderate
+California,892467.0,2.78,47.0,High
+Minnesota,117670.0,0.0,13.0,Moderate
+South Carolina,124107.75,0.0,31.0,Moderate
+Louisiana,221887.0,1.44,93.0,High
+Massachusetts,170380.0,1.0,32.0,Moderate
+Minnesota,124792.0,0.0,58.0,Moderate
+South Dakota,179411.0,1.01,22.0,High
+Oregon,296273.0,0.0,79.0,Moderate
+New Hampshire,77497.0,3.17,51.0,Moderate
+Alabama,60251.24,5.06,116.0,High
+South Carolina,174999.0,1.0,60.0,Moderate
+Nebraska,105480.0,0.0,20.0,High
+Florida,108542.03,1.1,52.0,High
+Mississippi,128250.0,0.0,31.0,High
+Washington,601014.0,1.0,49.0,High
+West Virginia,345833.0,1.72,-0.0,Moderate
+Georgia,32532.0,0.0,16.0,High
+California,2976000.0,9.85,154.0,High
+Kentucky,82006.0,0.0,28.0,High
+Georgia,131527.0,0.0,87.0,High
+Missouri,25814.0,0.0,49.0,High
+North Carolina,335965.0,1.44,44.0,High
+Montana,1853324.61,1.04,73.0,Low
+Alabama,5760.0,0.0,9.0,High
+Mississippi,71777.0,0.0,21.0,High
+Mississippi,34230.0,0.0,15.0,High
+Florida,12788.0,1.21,40.0,High
+Kentucky,172403.0,3.98,45.0,High
+Texas,1503519.75,1.5,98.0,High
+Washington,912108.0,2.02,50.0,High
+Washington,582483.05,1.16,51.0,High
+Rhode Island,74250.0,1.5,15.0,Low
+Louisiana,149783.0,0.0,62.0,High
+West Virginia,58691.0,0.0,34.0,Moderate
+Mississippi,252786.0,0.0,36.0,High
+Iowa,10570.0,1.17,17.0,High
+Kentucky,89926.0,0.0,27.0,High
+Ohio,127583.11,2.35,39.0,Moderate
+Massachusetts,387413.0,4.29,75.0,Moderate
+Georgia,19500.0,0.0,26.0,High
+Alaska,16390.0,0.0,31.0,Low
+Florida,177872.0,0.0,54.0,High
+Kansas,28943.32,0.0,10.0,High
+Alabama,47520.0,1.37,85.0,High
+Missouri,1920002.0,0.0,31.0,High
+Iowa,77982.0,1.78,42.0,High
+Oregon,183750.0,3.89,51.0,Moderate
+New Jersey,258518.0,2.1,1.0,High
+Alabama,27754.0,1.37,96.0,High
+New York,3948871.32,0.0,41.0,High
+Vermont,444438.92,0.0,132.0,Moderate
+New York,45000.0,0.0,83.0,High
+Puerto Rico,41376.0,8.43,55.0,Moderate
+Alaska,227051.0,1.91,41.0,Low
+Tennessee,5476.0,0.0,16.0,Moderate
+California,4000000.0,1.1,24.0,High
+Missouri,1039968.0,2.12,36.0,High
+Nebraska,769415.0,2.62,43.0,High
+South Dakota,13926.0,0.0,9.0,High
+California,1638998.1,3.52,37.0,High
+Florida,8250.0,1.37,30.0,High
+California,721233.0,2.49,43.0,High
+Mississippi,365456.0,1.01,74.0,High
+California,648581.25,3.33,45.0,High
+North Carolina,2738254.0,0.0,47.0,High
+New Mexico,77499.0,0.0,65.0,Low
+Vermont,218451.5,0.0,134.0,Moderate
+Massachusetts,48666.0,3.24,52.0,Moderate
+North Carolina,400534.75,1.01,50.0,High
+Oklahoma,126526.5,0.0,20.0,High
+Mississippi,48863.0,0.0,18.0,High
+Alabama,71358.0,1.37,84.0,High
+Missouri,1181250.0,1.88,46.0,High
+Texas,42202.01,3.53,65.0,High
+Kentucky,569185.0,1.0,65.0,High
+Kansas,573603.0,5.53,14.0,High
+South Dakota,33803.9,0.0,42.0,High
+Alabama,141232.0,2.53,118.0,High
+Texas,148498.88,42.24,51.0,High
+North Carolina,0.0,1.31,24.0,High
+New Jersey,0.0,1.08,36.0,High
+Kansas,22618.0,0.0,40.0,High
+Louisiana,309890.98,1.85,196.0,High
+New Mexico,71234.0,0.0,68.0,Low
+Texas,55297.85,0.0,130.0,High
+Louisiana,7072.0,4.99,118.0,High
+California,174428.0,0.0,95.0,High
+Kentucky,38821.53,0.0,13.0,High
+Alabama,152238.0,0.0,74.0,High
+Louisiana,64760.0,0.0,51.0,High
+Puerto Rico,73355.0,0.0,30.0,Moderate
+Alabama,30403.0,1.03,15.0,High
+Washington,69204.0,0.0,54.0,High
+California,380497.0,2.23,130.0,High
+Oregon,21592.0,0.0,79.0,Moderate
+Virginia,25500.0,0.0,31.0,Moderate
+New Jersey,75000.0,4.75,80.0,High
+South Carolina,120289.0,0.0,49.0,Moderate
+South Dakota,47580.19,0.0,33.0,High
+Minnesota,408326.0,1.12,95.0,Moderate
+Oklahoma,20000.0,0.0,86.0,High
+Iowa,450000.0,1.65,25.0,High
+North Dakota,129843.0,0.0,39.0,High
+Florida,856788.92,4.65,47.0,High
+Alabama,99777.0,0.0,19.0,High
+Georgia,250858.0,0.0,87.0,High
+Iowa,57444.0,0.0,49.0,High
+Ohio,24733.0,0.0,45.0,Moderate
+Mississippi,10597.0,0.0,18.0,High
+Virginia,18750.0,0.0,0.0,Moderate
+Alabama,17500.0,57.11,15.0,High
+Colorado,505930.0,1.54,45.0,Moderate
+Federated States of Micronesia,96094.0,1.85,116.0,Low
+New Jersey,0.0,1.84,86.0,High
+Mississippi,130782.0,3.55,21.0,High
+Alabama,63750.0,0.0,43.0,High
+New Hampshire,98944.0,1.32,30.0,Moderate
+Oklahoma,1500.0,0.0,88.0,High
+Alabama,327206.0,2.23,128.0,High
+New York,94765.0,0.0,46.0,High
+Georgia,30471.21,0.0,61.0,High
+South Dakota,18916.0,0.0,13.0,High
+Arkansas,504491.0,4.19,63.0,Moderate
+New Hampshire,73917.0,1.0,79.0,Moderate
+Oklahoma,1500.0,0.0,56.0,High
+Idaho,8448.0,0.0,48.0,Low
+California,167174.0,0.0,24.0,High
+North Carolina,59969.0,0.0,59.0,High
+New Hampshire,38192.0,1.12,54.0,Moderate
+California,935.0,1.0,8.0,High
+Mississippi,17679.0,11.77,17.0,High
+Montana,1566178.72,2.24,60.0,Low
+Maryland,88128.0,9.4,24.0,Moderate
+Federated States of Micronesia,116250.0,0.0,129.0,Low
+Michigan,784881.1,1.01,44.0,Moderate
+Mississippi,174601.0,0.0,22.0,High
+Alabama,1202361.0,5.33,40.0,High
+Florida,374231.0,2.79,69.0,High
+Georgia,4497295.0,0.0,89.0,High
+Kentucky,500310.0,1.1,20.0,High
+New Jersey,323332.0,1.02,86.0,High
+Tennessee,3120.0,0.0,15.0,Moderate
+Georgia,188932.31,0.0,17.0,High
+Louisiana,1039520.66,1.25,182.0,High
+Iowa,9891.0,0.0,26.0,High
+Alabama,5247.0,0.0,38.0,High
+New Mexico,18765.0,0.0,66.0,Low
+Nebraska,48544.0,0.0,71.0,High
+Alabama,74118.0,1.37,112.0,High
+Alabama,69483.0,3.83,69.0,High
+Texas,16194.0,0.0,34.0,High
+Illinois,2603088.0,1.3,84.0,Moderate
+Iowa,358020.0,1.48,38.0,High
+New Jersey,102543.06,0.0,130.0,High
+Florida,156663.22,1.46,77.0,High
+Alabama,50330.0,11.51,31.0,High
+South Dakota,7500.0,0.0,21.0,High
+Alabama,142786.0,0.0,20.0,High
+Minnesota,107015.0,0.0,62.0,Moderate
+Iowa,20866.5,0.0,7.0,High
+Florida,206.0,1.02,50.0,High
+Virginia,279500.0,1.09,1.0,Moderate
+Iowa,966562.0,1.04,37.0,High
+Alabama,51446.0,2.1,72.0,High
+West Virginia,2743153.5,29.79,0.0,Moderate
+Alabama,369338.0,8.23,95.0,High
+Florida,8741.0,3.2,44.0,High
+Pennsylvania,496290.72,1.0,40.0,High
+Arizona,35475.0,0.0,25.0,Low
+Texas,48750.0,0.0,49.0,High
+South Dakota,146753.81,0.0,32.0,High
+Florida,0.0,1.51,19.0,High
+Texas,207420.0,1.09,105.0,High
+Florida,523548.0,2.02,58.0,High
+New York,26562.54,1.38,26.0,High
+Arkansas,33849.0,1.0,40.0,Moderate
+Missouri,1277967.0,2.72,34.0,High
+Florida,38299.0,1.48,39.0,High
+Oklahoma,38115.0,0.0,30.0,High
+Alabama,150000.0,0.0,58.0,High
+Florida,506317.58,1.66,82.0,High
+Connecticut,684556.95,19.6,72.0,Moderate
+Florida,109814.0,1.68,29.0,High
+North Carolina,1429441.82,1.17,58.0,High
+Kentucky,35202.0,0.0,27.0,High
+North Carolina,164695.0,1.01,60.0,High
+Ohio,288483.11,1.83,52.0,Moderate
+Kentucky,72250.0,0.0,18.0,High
+Kentucky,117051.0,4.5,28.0,High
+New York,210393.78,1.03,66.0,High
+Louisiana,7449.71,4.38,100.0,High
+New Mexico,49302.18,0.0,71.0,Low
+North Dakota,1627352.0,1.95,36.0,High
+Florida,228570.72,1.0,50.0,High
+Kansas,227166.0,0.0,73.0,High
+Mississippi,4040307.0,21.15,48.0,High
+California,357534.0,0.0,61.0,High
+Wisconsin,109313.0,0.86,56.0,Moderate
+Texas,413105.0,1.06,100.0,High
+Massachusetts,506250.0,1.3,58.0,Moderate
+South Carolina,13750.0,0.0,46.0,Moderate
+Texas,162326.0,0.0,147.0,High
+South Dakota,213315.0,0.0,38.0,High
+Massachusetts,6130000.0,0.0,44.0,Moderate
+New York,18762.0,1.15,109.0,High
+Wisconsin,12594.0,0.0,50.0,Moderate
+Iowa,15113.0,0.0,20.0,High
+Kansas,1962142.96,1.44,46.0,High
+Georgia,59535.0,0.0,35.0,High
+Oklahoma,409887.0,2.34,73.0,High
+West Virginia,331612.87,1.64,28.0,Moderate
+Alabama,76335.0,0.0,22.0,High
+Kentucky,279456.0,1.01,39.0,High
+Iowa,27000.0,0.0,11.0,High
+Florida,5717219.0,1.25,91.0,High
+New York,96239.0,1.34,93.0,High
+North Dakota,14516.13,0.0,19.0,High
+Texas,4316929.88,0.0,140.0,High
+Alabama,62177.0,0.0,25.0,High
+Maryland,45994.0,5.94,0.0,Moderate
+Wisconsin,94402.86,0.0,61.0,Moderate
+Alabama,5292.0,0.0,9.0,High
+California,812321.25,2.84,34.0,High
+Oklahoma,6487.0,0.0,57.0,High
+South Carolina,10651.5,2.02,42.0,Moderate
+South Dakota,57218.0,0.0,30.0,High
+Mississippi,161562.0,0.0,72.0,High
+Vermont,40088.0,2.83,51.0,Moderate
+Oklahoma,20000.0,0.0,71.0,High
+Alabama,36875.0,3.25,86.0,High
+Washington,441371.0,0.0,29.0,High
+Kentucky,164434.0,1.0,17.0,High
+Missouri,294672.13,1.0,45.0,High
+Louisiana,37500.0,0.0,38.0,High
+New Hampshire,63340.0,1.02,29.0,Moderate
+Michigan,15000.0,0.0,109.0,Moderate
+Florida,1358683.16,1.32,77.0,High
+Colorado,2690509.96,1.06,54.0,Moderate
+Missouri,76078.0,0.0,26.0,High
+New York,99364.0,0.0,54.0,High
+Florida,103598.0,1.53,40.0,High
+Texas,912185.25,0.0,119.0,High
+Texas,475712.0,1.56,0.0,High
+Florida,292063.0,1.91,58.0,High
+New Jersey,90000.0,1.5,20.0,High
+Arkansas,581640.0,4.07,35.0,Moderate
+Louisiana,424114.25,0.0,106.0,High
+Florida,324509.0,1.12,55.0,High
+Alabama,51703.41,3.83,121.0,High
+South Carolina,202607.0,1.0,24.0,Moderate
+Maryland,57389.0,4.71,13.0,Moderate
+Kansas,1072528.0,0.0,78.0,High
+Alabama,52879.4,5.73,116.0,High
+Oregon,513632.0,4.42,66.0,Moderate
+Mississippi,36639.0,0.0,13.0,High
+California,273203.68,0.0,74.0,High
+Colorado,29000.0,2.37,31.0,Moderate
+Kentucky,79932.0,1.13,17.0,High
+Puerto Rico,82539.0,0.0,33.0,Moderate
+Louisiana,150000.0,0.0,60.0,High
+Texas,1304264.35,2.74,117.0,High
+Mississippi,1308496.0,2.29,51.0,High
+Delaware,11855.63,3.23,27.0,Low
+Oklahoma,1500.0,0.0,81.0,High
+Nebraska,4500.0,0.0,22.0,High
+Texas,85096.72,0.0,44.0,High
+Nebraska,9000.0,0.0,9.0,High
+New York,150.0,0.0,91.0,High
+Mississippi,20013.0,0.0,9.0,High
+Oklahoma,23775.0,0.0,8.0,High
+Louisiana,121372.0,1.13,83.0,High
+New Jersey,600000.0,0.0,54.0,High
+Alabama,77510.0,1.37,92.0,High
+Illinois,116324.0,0.0,71.0,Moderate
+Oklahoma,20000.0,0.0,98.0,High
+Michigan,438665.0,1.13,66.0,Moderate
+Indiana,36868.0,0.0,53.0,Low
+Vermont,731.0,3.25,11.0,Moderate
+Texas,0.0,0.0,9.0,High
+North Carolina,23349.05,5.64,41.0,High
+New Jersey,0.0,4.36,87.0,High
+Arizona,106806.0,0.0,72.0,Low
+Alabama,128628.0,0.0,19.0,High
+Vermont,31184.0,1.21,42.0,Moderate
+North Dakota,3266.0,0.0,40.0,High
+Louisiana,521250.0,4.03,1.0,High
+Missouri,2181962.0,1.63,30.0,High
+Texas,227000.0,1.22,83.0,High
+South Carolina,102750.0,1.17,32.0,Moderate
+New York,0.0,0.0,66.0,High
+Alabama,20203.0,1.37,10.0,High
+Texas,366966.0,1.65,71.0,High
+Texas,84273.56,0.0,72.0,High
+California,132884.0,0.0,22.0,High
+Arkansas,37360.0,0.0,71.0,Moderate
+Missouri,454340.0,0.0,52.0,High
+Alabama,119396.36,7.17,113.0,High
+Kansas,26250.0,0.0,13.0,High
+Massachusetts,1079924.98,1.81,0.0,Moderate
+New Jersey,292500.0,2.33,31.0,High
+Wisconsin,25333.0,0.0,37.0,Moderate
+Nebraska,16342.5,0.0,17.0,High
+Vermont,3428.0,8.42,15.0,Moderate
+Alabama,42258.75,7.09,116.0,High
+Mississippi,127101.0,0.0,18.0,High
+Oregon,1036125.31,1.83,69.0,Moderate
+Mississippi,10288.0,1.17,17.0,High
+Texas,249868.0,2.43,146.0,High
+Florida,72189.0,2.98,33.0,High
+Florida,78755.0,1.07,25.0,High
+Florida,112500.0,43.29,39.0,High
+Ohio,120500.0,0.0,25.0,Moderate
+Montana,17342.0,1.0,22.0,Low
+Kentucky,39334.29,7.78,70.0,High
+New Jersey,4638167.0,1.14,30.0,High
+Oklahoma,45241.35,0.0,36.0,High
+Wisconsin,201549.0,3.89,51.0,Moderate
+Illinois,52623.0,0.0,97.0,Moderate
+Kansas,555115.0,2.42,29.0,High
+Florida,535626.0,1.08,36.0,High
+Utah,615249.0,1.12,37.0,Low
+Alabama,5760.0,0.0,7.0,High
+South Dakota,7500.0,0.0,28.0,High
+Louisiana,370698.0,1.61,53.0,High
+Wyoming,5553.0,0.0,24.0,Low
+Montana,16400.27,0.0,66.0,Low
+South Dakota,12000.0,0.0,40.0,High
+Virginia,100000.0,0.0,48.0,Moderate
+Kansas,196575.0,6.2,30.0,High
+New Jersey,132854.0,3.15,43.0,High
+Michigan,6000.0,0.0,74.0,Moderate
+Alabama,40182.0,0.0,63.0,High
+Alabama,4243.0,1.37,10.0,High
+Texas,9965356.09,2.76,70.0,High
+California,254052.0,2.84,115.0,High
+Florida,122411.25,4.78,29.0,High
+Florida,4379816.25,2.43,47.0,High
+Kentucky,43092.0,0.0,18.0,High
+Missouri,1633547.0,1.09,65.0,High
+Vermont,27144.0,0.0,50.0,Moderate
+Kentucky,15119.0,0.0,40.0,High
+New Jersey,0.0,1.53,21.0,High
+Arkansas,28125.0,0.0,50.0,Moderate
+California,0.0,0.0,10.0,High
+South Carolina,242722.5,2.6,62.0,Moderate
+Tennessee,410810.0,4.07,43.0,Moderate
+Tennessee,637645.0,4.35,40.0,Moderate
+Ohio,67125.0,1.39,57.0,Moderate
+Connecticut,937625.14,13.42,68.0,Moderate
+Alaska,190225.0,0.0,33.0,Low
+New Jersey,246576.0,1.18,43.0,High
+Kentucky,253942.0,4.3,23.0,High
+Texas,1016475.0,2.28,0.0,High
+South Carolina,70896.78,0.0,45.0,Moderate
+Florida,85183.0,5.95,24.0,High
+Washington,1131243.75,1.27,64.0,High
+Texas,38993502.17,4.74,136.0,High
+Massachusetts,34859.0,0.0,62.0,Moderate
+Mississippi,0.0,24.18,3.0,High
+Florida,209467.0,1.29,26.0,High
+California,130601.0,12.9,23.0,High
+Massachusetts,320325.0,2.86,45.0,Moderate
+Illinois,358331.98,1.0,144.0,Moderate
+Mississippi,19125.0,0.0,17.0,High
+Virginia,260100.0,2.25,29.0,Moderate
+Kentucky,22296.0,0.0,66.0,High
+Kansas,507254.0,1.48,18.0,High
+Georgia,16650.75,0.0,66.0,High
+Michigan,4066.0,0.0,83.0,Moderate
+Oklahoma,779174.0,1.4,48.0,High
+Iowa,308093.0,1.31,30.0,High
+Iowa,42427.0,0.0,21.0,High
+Connecticut,494749.14,0.0,126.0,Moderate
+Rhode Island,29453.19,0.0,45.0,Low
+North Carolina,2028473.0,1.84,63.0,High
+Virginia,1594173.0,1.21,0.0,Moderate
+Virginia,17025.0,0.0,29.0,Moderate
+New Jersey,75000.0,1.01,32.0,High
+Pennsylvania,187500.0,1.0,150.0,High
+Arkansas,416492.0,3.02,57.0,Moderate
+Alabama,683314.0,1.03,25.0,High
+Louisiana,150000.0,0.0,61.0,High
+Ohio,553237.0,1.9,36.0,Moderate
+Alabama,28949.48,0.0,118.0,High
+Tennessee,320917.0,3.85,33.0,Moderate
+California,1154961.35,1.28,61.0,High
+Florida,167580.0,3.06,66.0,High
+Florida,2157472.0,1.6,136.0,High
+Iowa,16200.0,0.0,24.0,High
+Louisiana,149654.0,0.0,58.0,High
+California,1942945.0,1.96,50.0,High
+South Carolina,312496.28,11.05,45.0,Moderate
+Pennsylvania,35342.0,0.0,26.0,High
+Minnesota,35647.0,1.05,42.0,Moderate
+New Jersey,3322765.0,0.0,114.0,High
+New York,50560.0,0.0,82.0,High
+Florida,334574.0,1.88,57.0,High
+West Virginia,255844.0,0.0,44.0,Moderate
+Alabama,15957.0,0.0,56.0,High
+Oklahoma,164431.0,2.63,68.0,High
+Alabama,45563.01,1.19,55.0,High
+Texas,4615655.74,0.0,137.0,High
+North Carolina,110328.0,0.0,33.0,High
+Georgia,39126.0,0.0,9.0,High
+Maine,97406.0,1.54,83.0,Low
+Oklahoma,0.0,0.0,62.0,High
+Florida,3873.0,4.28,40.0,High
+Wisconsin,752364.0,0.0,70.0,Moderate
+Iowa,140019.0,3.02,36.0,High
+New Hampshire,6394.55,0.0,54.0,Moderate
+Louisiana,656936.0,1.43,125.0,High
+Maine,975.0,0.0,52.0,Low
+Mississippi,45000.0,0.0,30.0,High
+Texas,64125.0,0.0,26.0,High
+North Carolina,156661.0,0.0,85.0,High
+Florida,71184.0,1.25,39.0,High
+South Carolina,0.0,0.0,35.0,Moderate
+Washington,328651.05,2.24,39.0,High
+Mississippi,1261134.75,1.07,60.0,High
+North Carolina,513564.77,2.01,60.0,High
+Oregon,56602.0,4.16,28.0,Moderate
+Georgia,3322.0,0.0,3.0,High
+Kentucky,46305.0,4.75,46.0,High
+California,1133741.29,1.02,33.0,High
+Alabama,44194.19,4.21,120.0,High
+Oregon,158000.03,2.66,81.0,Moderate
+California,203251.5,1.01,25.0,High
+Minnesota,264770.0,0.0,36.0,Moderate
+Montana,146942.27,0.0,67.0,Low
+New Jersey,146223.91,2.63,81.0,High
+Mississippi,33480.0,0.0,22.0,High
+Florida,7432.62,1.03,56.0,High
+Alabama,333018.0,3.51,131.0,High
+Michigan,424989.0,1.09,48.0,Moderate
+Puerto Rico,1626806.0,1.05,110.0,Moderate
+Tennessee,40152.0,0.0,14.0,Moderate
+Alabama,47180.0,0.0,49.0,High
+Alabama,78164.0,0.0,19.0,High
+Arkansas,504746.0,4.16,63.0,Moderate
+Idaho,32807.0,0.0,41.0,Low
+North Dakota,1287900.0,1.91,88.0,High
+New Jersey,75000.0,1.35,99.0,High
+Montana,268577.0,2.06,81.0,Low
+Massachusetts,18315.0,1.41,38.0,Moderate
+Mississippi,17475.0,0.0,51.0,High
+Oklahoma,12332.0,0.0,37.0,High
+New Jersey,120000.0,1.82,103.0,High
+Nebraska,49224.0,0.0,66.0,High
+Georgia,864230.0,0.0,92.0,High
+Oklahoma,19494.0,0.0,39.0,High
+Louisiana,35000.0,0.0,42.0,High
+California,308726.94,0.0,42.0,High
+California,281324.0,0.0,26.0,High
+Michigan,28594.0,1.88,55.0,Moderate
+Florida,792582.0,1.01,62.0,High
+Montana,35250.0,1.0,28.0,Low
+Iowa,1335396.0,1.08,42.0,High
+Washington,264117.0,15.81,75.0,High
+Hawaii,92374.9,5.97,28.0,Low
+South Dakota,13215.0,0.0,18.0,High
+Oregon,54048.0,1.42,14.0,Moderate
+Massachusetts,17843.0,0.0,31.0,Moderate
+Tennessee,168379.0,1.13,58.0,Moderate
+Texas,74951.0,0.0,104.0,High
+Washington,37500.0,0.0,39.0,High
+Oklahoma,167264.0,1.0,66.0,High
+Massachusetts,51560.0,1.4,23.0,Moderate
+Alabama,12896.0,1.57,42.0,High
+Washington,8276.0,1.47,2.0,High
+Missouri,26370.9,0.0,24.0,High
+Mississippi,2196489.0,34.6,64.0,High
+Florida,115948.0,2.49,65.0,High
+Indiana,96540.3,0.0,68.0,Low
+North Dakota,8169.0,7.96,60.0,High
+North Carolina,3600.0,0.0,-27.0,High
+Iowa,433289.0,1.15,48.0,High
+Missouri,195072.87,0.0,32.0,High
+Alaska,68366.0,10.9,28.0,Low
+Virginia,3054.0,0.0,25.0,Moderate
+Oklahoma,33750.0,0.0,55.0,High
+Louisiana,1433947.77,1.1,56.0,High
+New York,1150788.0,0.0,60.0,High
+Virginia,139732.0,1.27,-0.0,Moderate
+Louisiana,43211.0,0.0,48.0,High
+Alabama,14911.0,0.0,13.0,High
+Virginia,191941.0,1.08,0.0,Moderate
+Georgia,20000.0,0.0,40.0,High
+Florida,343666.31,3.94,47.0,High
+California,2128679.25,1.01,47.0,High
+New York,155514.0,1.01,44.0,High
+Tennessee,63750.0,6.79,81.0,Moderate
+Florida,3171751.95,2.05,145.0,High
+Virginia,1314900.0,1.18,121.0,Moderate
+California,115986.0,0.0,22.0,High
+Florida,0.0,4.08,27.0,High
+Missouri,20691.0,2.76,0.0,High
+Florida,4931.0,9.47,16.0,High
+Georgia,19500.0,0.0,51.0,High
+Pennsylvania,6563.0,0.0,0.0,High
+New Jersey,364770.0,1.86,80.0,High
+Alabama,40895.72,3.77,114.0,High
+Kentucky,0.0,2.77,44.0,High
+California,201000.0,3.27,154.0,High
+Oregon,36046.0,0.0,65.0,Moderate
+Nebraska,851049.0,1.03,52.0,High
+Iowa,250545.0,1.23,28.0,High
+Alaska,7481.0,0.0,22.0,Low
+Florida,390903.18,1.03,69.0,High
+Florida,388962.0,2.22,85.0,High
+Louisiana,150000.0,0.0,58.0,High
+Georgia,26250.0,0.0,65.0,High
+North Dakota,166205.0,0.0,31.0,High
+Kansas,2638574.0,1.06,40.0,High
+Minnesota,206501.0,0.0,28.0,Moderate
+Oklahoma,184962.0,1.0,71.0,High
+Mississippi,90466.0,7.46,67.0,High
+Oklahoma,5400.0,0.0,26.0,High
+South Carolina,76745.08,1.16,40.0,Moderate
+Florida,420000.0,1.01,46.0,High
+Louisiana,929.91,0.0,59.0,High
+California,838388.25,1.79,24.0,High
+Vermont,17000.0,1.05,10.0,Moderate
+Florida,97751.84,3.76,39.0,High
+Texas,22482.0,0.0,69.0,High
+New Jersey,115748.0,0.0,68.0,High
+Louisiana,742314.0,2.37,89.0,High
+Alabama,3000000.0,2.01,98.0,High
+Texas,2560.0,10.5,103.0,High
+Maine,37987.0,1.04,16.0,Low
+Oklahoma,14963.0,0.0,11.0,High
+Kentucky,71363.0,0.0,55.0,High
+Hawaii,175817.0,1.61,54.0,Low
+California,10377.0,1.0,107.0,High
+New York,84474.0,0.0,68.0,High
+New Jersey,19486.0,0.0,33.0,High
+Arizona,100000.0,0.0,107.0,Low
+Texas,5033.75,1.24,114.0,High
+North Carolina,238583.55,1.74,59.0,High
+New York,165563.0,1.19,63.0,High
+Mississippi,88200.0,2.18,23.0,High
+Vermont,99187.5,2.92,0.0,Moderate
+Louisiana,69100.0,3.01,98.0,High
+Texas,49543.5,14.89,62.0,High
+South Dakota,29986.0,0.0,40.0,High
+Missouri,2109999.0,1.95,36.0,High
+West Virginia,209575.0,1.45,14.0,Moderate
+Iowa,188895.0,1.16,43.0,High
+Florida,33225.0,1.1,54.0,High
+Kansas,52875.0,1.86,55.0,High
+Ohio,542428.0,1.75,57.0,Moderate
+Louisiana,51378.0,1.61,73.0,High
+Alabama,4992.0,0.0,14.0,High
+Montana,177434.0,3.04,30.0,Low
+Mississippi,25186.0,0.0,12.0,High
+Wisconsin,565108.0,0.0,40.0,Moderate
+Alabama,4649.0,6.88,84.0,High
+Kentucky,88347.0,0.0,45.0,High
+North Carolina,297905.0,0.0,42.0,High
+Texas,179625.0,1.65,58.0,High
+Florida,10212674.0,0.0,94.0,High
+North Dakota,112779.0,0.0,42.0,High
+South Carolina,1750000.0,8.65,31.0,Moderate
+South Dakota,32723.0,1.4,12.0,High
+Mississippi,129841.0,0.0,81.0,High
+Colorado,127737.0,4.9,33.0,Moderate
+Mississippi,18685687.4,2.63,78.0,High
+Iowa,17634.0,2.39,63.0,High
+New Jersey,575020.0,1.97,44.0,High
+Michigan,27375.0,0.0,67.0,Moderate
+Washington,2000625.0,2.79,74.0,High
+Georgia,142858.0,4.89,38.0,High
+Alabama,112800.0,0.0,27.0,High
+New Jersey,52000.0,2.1,36.0,High
+Texas,2236133.9,1.85,94.0,High
+Florida,82817.52,1.18,37.0,High
+Florida,218807.24,2.85,59.0,High
+Massachusetts,240899.28,6.44,44.0,Moderate
+Oklahoma,749763.0,0.0,80.0,High
+Kentucky,51518.0,7.84,41.0,High
+Florida,56197.0,1.63,45.0,High
+Alabama,4496.0,0.0,63.0,High
+New York,99889.0,5.65,24.0,High
+Michigan,35602.55,0.0,53.0,Moderate
+Montana,55500.0,0.0,30.0,Low
+Florida,7718.0,9.17,45.0,High
+New Jersey,419174.0,1.54,48.0,High
+Kansas,482640.0,1.71,25.0,High
+Colorado,21114.86,4.11,29.0,Moderate
+Florida,3286680.0,0.0,46.0,High
+North Dakota,77659.69,1.94,38.0,High
+Maryland,347527.0,0.0,33.0,Moderate
+California,359460.0,0.0,39.0,High
+Alabama,62559.66,9.6,117.0,High
+Texas,726248.69,30.05,114.0,High
+Michigan,194796.0,0.0,100.0,Moderate
+Oklahoma,13702.0,0.0,25.0,High
+Vermont,59776.0,0.0,56.0,Moderate
+West Virginia,11250.0,2.12,11.0,Moderate
+Florida,51229.5,1.19,61.0,High
+Washington,194408.42,1.02,54.0,High
+Wisconsin,206186.16,0.0,54.0,Moderate
+South Carolina,379053.81,6.8,63.0,Moderate
+Michigan,11625.0,0.0,76.0,Moderate
+Iowa,976466.0,2.17,37.0,High
+Iowa,32471.0,0.0,35.0,High
+Texas,92964.0,0.0,92.0,High
+Alabama,11876.0,0.0,53.0,High
+Alabama,13238.0,1.37,96.0,High
+Tennessee,2046387.0,3.56,43.0,Moderate
+Mississippi,1386211.0,2.26,99.0,High
+Alabama,107753.0,0.0,19.0,High
+South Dakota,82932.02,0.0,31.0,High
+Florida,603023.36,7.85,63.0,High
+Mississippi,30750.0,0.0,13.0,High
+Utah,83762.0,1.71,55.0,Low
+Kansas,38996.25,1.52,11.0,High
+Kansas,165703.0,4.06,55.0,High
+Vermont,0.0,1.01,80.0,Moderate
+Kentucky,61500.0,1.17,39.0,High
+Oklahoma,257962.75,9.18,40.0,High
+Florida,15974.0,2.21,36.0,High
+Wisconsin,82490.45,0.0,63.0,Moderate
+North Carolina,1291759.99,2.42,77.0,High
+New York,100650.0,0.0,100.0,High
+Georgia,20000.0,0.0,41.0,High
+Georgia,14479.0,0.0,29.0,High
+Mississippi,23895.0,0.0,17.0,High
+Guam,42930.0,11.79,120.0,Low
+Missouri,1364746.0,8.91,40.0,High
+Missouri,824652.0,1.77,44.0,High
+North Dakota,21000.0,0.0,27.0,High
+Arizona,234551.11,2.09,0.0,Low
+Northern Mariana Islands,132595.0,17.63,39.0,Low
+Colorado,18995.0,0.0,32.0,Moderate
+Michigan,82875.0,1.1,98.0,Moderate
+Oklahoma,1036695.66,1.63,56.0,High
+Maryland,61658.0,35.01,33.0,Moderate
+Florida,1385639.0,1.54,61.0,High
+California,60480.0,0.0,39.0,High
+Ohio,11850.0,1.34,21.0,Moderate
+Alabama,300000.0,0.0,28.0,High
+New Jersey,187122.0,0.0,37.0,High
+New Mexico,162989.84,0.0,76.0,Low
+Kentucky,10958.0,0.0,18.0,High
+New Hampshire,1875.0,1.2,39.0,Moderate
+Illinois,785553.84,1.01,109.0,Moderate
+North Carolina,314693.75,0.0,77.0,High
+New Jersey,179084.88,2.35,82.0,High
+Florida,7085.0,3.18,17.0,High
+Arkansas,34308.0,0.0,62.0,Moderate
+New York,219389.75,0.0,115.0,High
+Florida,1384778.0,1.76,61.0,High
+California,6585.0,0.0,29.0,High
+New Hampshire,7500.0,0.0,30.0,Moderate
+Texas,1771575.75,1.09,89.0,High
+Florida,29189.0,0.0,31.0,High
+Oklahoma,13847.0,0.0,50.0,High
+New Hampshire,161618.4,2.65,45.0,Moderate
+Puerto Rico,25459.0,5.67,28.0,Moderate
+Mississippi,74471.0,1.21,53.0,High
+California,85658.5,1.28,32.0,High
+Alabama,12691.0,1.37,86.0,High
+South Dakota,53330.27,0.0,32.0,High
+Texas,278111.17,1.39,87.0,High
+Guam,57618.0,5.36,111.0,Low
+New York,24943.0,2.87,58.0,High
+Pennsylvania,542378.0,1.89,0.0,High
+Kentucky,181520.0,0.0,89.0,High
+Florida,40014.0,3.48,44.0,High
+Iowa,22500.0,0.0,22.0,High
+Arkansas,18750.0,0.0,44.0,Moderate
+Vermont,85369.0,2.83,105.0,Moderate
+Utah,180663.74,3.25,220.0,Low
+Oklahoma,1365802.0,6.55,57.0,High
+Louisiana,708453.0,1.45,105.0,High
+Florida,0.0,1.3,29.0,High
+Iowa,28925.0,0.0,4.0,High
+Missouri,1018757.58,1.54,35.0,High
+Massachusetts,0.0,6.19,16.0,Moderate
+Mississippi,14625.0,0.0,6.0,High
+Michigan,687300.0,2.01,44.0,Moderate
+Kansas,284491.0,3.73,13.0,High
+South Dakota,17906.0,1.11,16.0,High
+Kentucky,406829.55,0.0,111.0,High
+North Carolina,2626296.0,0.0,65.0,High
+New Jersey,0.0,0.0,66.0,High
+Tennessee,800426.0,4.41,58.0,Moderate
+Utah,194675.0,9.98,48.0,Low
+Maine,811.0,0.0,40.0,Low
+Nebraska,1387.5,3.9,18.0,High
+South Dakota,18991.81,0.0,39.0,High
+Kentucky,53239.0,0.0,29.0,High
+Kentucky,29548.0,0.0,28.0,High
+Vermont,10112.89,1.25,132.0,Moderate
+New Hampshire,149957.0,2.03,72.0,Moderate
+Oklahoma,1500.0,0.0,81.0,High
+Illinois,1376100.0,1.0,68.0,Moderate
+Ohio,250.0,0.0,24.0,Moderate
+New Jersey,46800.0,1.57,98.0,High
+Alabama,61667.0,1.37,95.0,High
+North Dakota,92120.42,2.65,0.0,High
+Virginia,7875.0,0.0,4.0,Moderate
+Texas,553183.14,1.52,71.0,High
+Oklahoma,38080.0,0.0,26.0,High
+California,1108648.0,2.27,50.0,High
+Oklahoma,83988.0,0.0,46.0,High
+Louisiana,37500.0,0.0,57.0,High
+Oklahoma,40050.0,0.0,50.0,High
+Mississippi,21570.0,0.0,19.0,High
+North Dakota,36432.0,0.0,27.0,High
+Oklahoma,179363.0,3.06,84.0,High
+Alabama,61534.0,0.0,108.0,High
+Texas,118500.0,3.29,59.0,High
+Florida,395557.0,1.61,77.0,High
+California,72000.0,0.0,62.0,High
+Alabama,5329.0,1.18,51.0,High
+Virginia,52444.0,0.0,0.0,Moderate
+Virginia,553140.0,1.8,62.0,Moderate
+Oregon,8787.0,3.63,51.0,Moderate
+Puerto Rico,28511.0,0.0,39.0,Moderate
+Iowa,18530.0,0.0,40.0,High
+Alabama,88521.0,2.33,16.0,High
+West Virginia,380301.88,3.73,32.0,Moderate
+South Dakota,8359.0,0.0,28.0,High
+North Carolina,427276.74,1.33,54.0,High
+Missouri,264725.0,2.65,73.0,High
+Oklahoma,179650.0,1.5,64.0,High
+Wisconsin,418684.0,0.0,82.0,Moderate
+Mississippi,663175.0,0.0,65.0,High
+Michigan,2667.0,1.34,26.0,Moderate
+Oklahoma,42365.0,0.0,70.0,High
+Alabama,60144.0,3.74,107.0,High
+Colorado,50000.0,0.0,25.0,Moderate
+Arkansas,469703.0,1.91,52.0,Moderate
+Georgia,14045.0,0.0,45.0,High
+North Dakota,9492.0,0.0,31.0,High
+Texas,2437500.0,1.71,36.0,High
+Ohio,11925.0,0.0,55.0,Moderate
+West Virginia,64914.0,1.39,18.0,Moderate
+Missouri,1568717.0,2.53,40.0,High
+Florida,3881.0,3.83,46.0,High
+Indiana,44556.4,0.0,80.0,Low
+New Jersey,0.0,0.0,66.0,High
+Alabama,30975.0,0.0,13.0,High
+Texas,573419.52,2.37,79.0,High
+Minnesota,31189.0,0.0,24.0,Moderate
+Oregon,168781.0,1.81,79.0,Moderate
+Mississippi,211098.0,1.57,34.0,High
+Florida,457685.0,7.17,28.0,High
+Florida,476715.0,1.11,53.0,High
+South Carolina,4743.0,0.0,6.0,Moderate
+Virginia,83533.0,1.02,8.0,Moderate
+Ohio,725840.7,8.85,72.0,Moderate
+West Virginia,259709.0,0.0,53.0,Moderate
+Oklahoma,20000.0,0.0,85.0,High
+Nebraska,63852.0,107.13,26.0,High
+Texas,35769.0,0.0,102.0,High
+Oklahoma,1500.0,0.0,55.0,High
+Arizona,20884.0,1.15,16.0,Low
+California,111345.54,0.0,46.0,High
+Florida,83763.5,1.45,67.0,High
+Missouri,2483477.0,1.95,33.0,High
+Mississippi,223207.0,1.98,35.0,High
+South Dakota,45645.0,3.59,9.0,High
+Iowa,116557.0,1.19,26.0,High
+Tennessee,894913.0,3.8,47.0,Moderate
+Michigan,24759.0,1.74,46.0,Moderate
+Virginia,162851.0,14.86,0.0,Moderate
+Pennsylvania,52636.0,0.0,46.0,High
+Florida,41591.0,2.75,45.0,High
+Alabama,19838.0,0.0,16.0,High
+Texas,524460.0,2.71,57.0,High
+American Samoa,824072.0,1.41,65.0,Low
+Oklahoma,140677.0,0.0,94.0,High
+Connecticut,160844.95,6.49,56.0,Moderate
+Alabama,13492.0,0.0,71.0,High
+Puerto Rico,319801.0,13.42,85.0,Moderate
+South Dakota,15056.0,0.0,22.0,High
+Kentucky,159160.94,1.0,36.0,High
+Rhode Island,584177.54,1.4,97.0,Low
+Florida,667594.0,3.91,53.0,High
+West Virginia,272289.0,3.43,0.0,Moderate
+New Hampshire,6000.0,0.0,23.0,Moderate
+South Dakota,13955.0,0.0,9.0,High
+Kentucky,3820607.0,1.11,84.0,High
+Florida,222697.81,1.71,52.0,High
+Kansas,847438.0,2.19,51.0,High
+Nebraska,28762.0,0.0,33.0,High
+Iowa,39000.0,0.0,57.0,High
+Florida,497054.0,1.73,46.0,High
+Alabama,400695.0,1.63,38.0,High
+Tennessee,165462.0,1.1,36.0,Moderate
+Florida,48674.0,17.98,21.0,High
+Arizona,9375.0,0.0,10.0,Low
+Florida,830433.0,0.0,102.0,High
+New York,61368.0,0.0,83.0,High
+New Mexico,22500.0,0.0,45.0,Low
+Oklahoma,1500.0,0.0,52.0,High
+Kentucky,15938.0,1.94,25.0,High
+Oklahoma,20000.0,0.0,97.0,High
+Mississippi,406035.0,4.6,27.0,High
+Connecticut,173104.0,2.69,75.0,Moderate
+Wisconsin,4845.13,0.0,7.0,Moderate
+Pennsylvania,147506.0,0.0,0.0,High
+South Carolina,130820.6,0.0,39.0,Moderate
+Wisconsin,14456.52,0.0,21.0,Moderate
+Illinois,54750.0,0.0,82.0,Moderate
+Louisiana,149996.0,0.0,58.0,High
+Florida,296373.67,2.58,44.0,High
+New Jersey,1664610.0,1.0,68.0,High
+Indiana,94993.25,1.71,81.0,Low
+New Jersey,57263.48,0.0,81.0,High
+North Dakota,190360.43,8.41,46.0,High
+Florida,8046.0,4.62,68.0,High
+South Carolina,0.0,0.0,47.0,Moderate
+Wisconsin,76371.23,0.0,22.0,Moderate
+Georgia,23430.59,0.0,53.0,High
+Kansas,13706.0,0.0,33.0,High
+Nebraska,93639.0,4.05,21.0,High
+North Carolina,37029.6,1.29,31.0,High
+South Dakota,17265.54,0.0,13.0,High
+Iowa,8971403.0,1.62,55.0,High
+Vermont,9450.0,0.0,74.0,Moderate
+New Jersey,1537426.0,0.0,58.0,High
+Florida,17970.0,1.17,52.0,High
+Missouri,1170000.0,1.33,42.0,High
+New Jersey,417150.23,0.0,125.0,High
+South Carolina,111000.11,0.0,50.0,Moderate
+Texas,144619.0,0.0,96.0,High
+New Jersey,71355.8,0.0,124.0,High
+Florida,41084.0,0.0,24.0,High
+Oregon,12119.0,0.0,56.0,Moderate
+California,936779.46,1.24,62.0,High
+New Jersey,49661.0,0.0,25.0,High
+Washington,22035.91,0.0,49.0,High
+South Dakota,118525.13,0.0,33.0,High
+New Hampshire,78554.0,1.0,79.0,Moderate
+Mississippi,826252.0,3.99,48.0,High
+Georgia,131502.0,0.0,35.0,High
+New Mexico,4019395.01,2.0,50.0,Low
+Pennsylvania,30000.0,0.0,17.0,High
+Georgia,397136.25,2.12,74.0,High
+New Jersey,88509.0,23.96,75.0,High
+Florida,334706.0,3.83,62.0,High
+Alabama,57605.0,3.83,70.0,High
+Pennsylvania,61234.0,0.0,40.0,High
+Michigan,12000.0,0.0,87.0,Moderate
+Kansas,70737.0,0.0,44.0,High
+California,35015.0,0.0,18.0,High
+Florida,2860220.0,1.05,75.0,High
+New Jersey,0.0,1.54,63.0,High
+South Carolina,0.0,0.0,41.0,Moderate
+New Jersey,159048.0,1.63,54.0,High
+North Dakota,425457.0,1.03,21.0,High
+California,115711.0,0.0,61.0,High
+Louisiana,42962.28,1.11,98.0,High
+Oklahoma,17212.5,0.0,41.0,High
+Texas,35339.0,0.0,85.0,High
+Georgia,102010.0,0.0,64.0,High
+Mississippi,23750.0,0.0,12.0,High
+Florida,504500.61,1.36,44.0,High
+New York,15000.0,2.48,106.0,High
+North Dakota,1352770.0,1.41,54.0,High
+Colorado,72826.0,0.0,44.0,Moderate
+Texas,57149.0,3.88,145.0,High
+Minnesota,464745.0,4.8,49.0,Moderate
+New York,1674475.0,1.87,90.0,High
+Arkansas,772767.98,1.36,37.0,Moderate
+Pennsylvania,1351176.65,1.0,51.0,High
+Nebraska,395157.0,1.07,52.0,High
+South Dakota,77778.0,1.96,19.0,High
+New York,1.0,0.0,60.0,High
+Colorado,2680823.7,1.78,54.0,Moderate
+California,930660.75,1.47,71.0,High
+Alabama,15573.0,0.0,18.0,High
+West Virginia,116734.0,0.0,43.0,Moderate
+Oklahoma,144900.0,9.38,76.0,High
+Montana,65820.0,0.0,50.0,Low
+Louisiana,252800.0,1.2,116.0,High
+Louisiana,1963385.93,1.2,111.0,High
+New Hampshire,53455.9,1.04,33.0,Moderate
+Florida,303001.0,1.6,83.0,High
+Alabama,4960.5,0.0,7.0,High
+Alabama,50463.0,1.37,93.0,High
+Alabama,1150750.0,3.17,123.0,High
+Florida,206.0,1.23,1.0,High
+Washington,1221780.0,18.28,55.0,High
+Alabama,31057.0,1.37,95.0,High
+North Carolina,5130.0,1.08,40.0,High
+Florida,1647485.0,1.47,64.0,High
+Alabama,53595.12,4.46,123.0,High
+Oregon,22658.17,0.0,39.0,Moderate
+West Virginia,792574.0,7.8,66.0,Moderate
+New Jersey,130870.32,1.61,107.0,High
+North Dakota,675000.0,0.0,38.0,High
+New Jersey,18450180.0,1.31,100.0,High
+New Jersey,393000.0,3.98,18.0,High
+Missouri,1809123.0,2.0,32.0,High
+Missouri,956640.0,2.87,39.0,High
+Wisconsin,590739.0,2.84,42.0,Moderate
+Oregon,82925.65,0.0,31.0,Moderate
+New Hampshire,92730.0,2.78,23.0,Moderate
+California,2999999.92,6.4,149.0,High
+Florida,3273507.0,1.97,100.0,High
+Georgia,313537.5,2.93,0.0,High
+Tennessee,12933.0,0.0,56.0,Moderate
+Florida,352848.96,2.52,38.0,High
+Florida,70035.0,5.23,45.0,High
+Michigan,134465.0,8.86,142.0,Moderate
+New York,91861.0,12.86,46.0,High
+Oklahoma,374348.0,12.54,25.0,High
+Massachusetts,135975.0,2.86,60.0,Moderate
+Wisconsin,505364.0,1.46,32.0,Moderate
+Florida,206.0,1.23,164.0,High
+Washington,9898.5,0.0,56.0,High
+Massachusetts,7132.14,0.0,67.0,Moderate
+Florida,16697.0,14.73,31.0,High
+Florida,20175.0,1.03,50.0,High
+West Virginia,84097.5,0.0,55.0,Moderate
+Tennessee,487074.0,1.57,41.0,Moderate
+Indiana,406422.0,0.0,52.0,Low
+Oklahoma,20000.0,0.0,80.0,High
+Vermont,376661.25,1.0,34.0,Moderate
+North Dakota,198015.37,1.34,32.0,High
+Oklahoma,3364.0,0.0,52.0,High
+California,21574.8,0.0,35.0,High
+Ohio,732498.75,1.0,61.0,Moderate
+Florida,562269.54,1.1,44.0,High
+Idaho,0.0,3.32,35.0,Low
+Oklahoma,46883.0,0.0,55.0,High
+North Carolina,357984.16,0.0,73.0,High
+Alabama,134414.0,0.0,15.0,High
+Iowa,87465.0,1.92,15.0,High
+Texas,59778.75,1.13,38.0,High
+Connecticut,80694.67,0.0,98.0,Moderate
+Maine,472746.0,0.0,49.0,Low
+Oklahoma,454995.37,0.0,77.0,High
+New York,941.0,1.56,68.0,High
+South Carolina,39712.5,1.01,41.0,Moderate
+California,1854171.21,1.24,32.0,High
+Minnesota,20888.0,0.0,47.0,Moderate
+Texas,95590.79,1.35,92.0,High
+Kansas,549923.0,2.25,27.0,High
+Arkansas,26250.0,0.0,31.0,Moderate
+Alabama,39235.0,0.0,37.0,High
+Michigan,2587063.57,1.0,84.0,Moderate
+Alabama,4000.0,2.3,45.0,High
+Florida,588807.0,1.06,48.0,High
+Texas,80460.0,0.0,86.0,High
+Louisiana,811000.0,0.0,36.0,High
+West Virginia,59398.92,1.42,38.0,Moderate
+New York,180420.0,1.76,41.0,High
+New York,180000.0,0.0,47.0,High
+Indiana,114813.0,1.01,76.0,Low
+Georgia,27526.82,0.0,63.0,High
+Illinois,1557717.97,1.16,109.0,Moderate
+Maryland,30284.0,0.0,15.0,Moderate
+Maryland,257.0,0.0,53.0,Moderate
+California,24992.0,0.0,31.0,High
+Maine,17778.0,1.4,15.0,Low
+New Jersey,180926.0,1.07,53.0,High
+Alaska,187500.0,1.86,29.0,Low
+Arizona,174972.82,1.25,33.0,Low
+South Dakota,19500.0,0.0,35.0,High
+Alabama,637440.84,43.95,90.0,High
+South Dakota,12510.0,0.0,35.0,High
+Georgia,15938.0,0.0,56.0,High
+Texas,60136.48,0.0,77.0,High
+California,208425.0,1.23,35.0,High
+Wisconsin,23700.0,0.0,46.0,Moderate
+South Carolina,1252743.0,0.0,48.0,Moderate
+Maine,3908.0,1.16,-6.0,Low
+Oklahoma,190358.0,4.66,40.0,High
+Indiana,190643.0,0.0,62.0,Low
+New Jersey,265880.0,0.0,54.0,High
+Kentucky,37261.0,0.0,28.0,High
+Florida,0.0,1.84,44.0,High
+Florida,4910.0,2.08,22.0,High
+Tennessee,39975.0,0.0,25.0,Moderate
+Iowa,26272.0,0.0,36.0,High
+Georgia,21879.65,0.0,67.0,High
+Alabama,146221.0,3.51,54.0,High
+North Carolina,86393.0,0.0,45.0,High
+Michigan,168750.0,9.31,78.0,Moderate
+Alabama,52774.97,5.53,118.0,High
+Iowa,13271.93,0.0,21.0,High
+Colorado,2697188.0,2.42,45.0,Moderate
+Washington,373142.0,3.19,16.0,High
+South Dakota,7500.0,0.0,21.0,High
+California,79256.3,0.0,37.0,High
+Nebraska,87956.0,0.0,38.0,High
+Wisconsin,103538.0,1.73,27.0,Moderate
+Massachusetts,12679.0,0.0,72.0,Moderate
+New York,678545.0,0.0,91.0,High
+Oklahoma,20000.0,0.0,72.0,High
+Alabama,95682.0,12.46,11.0,High
+Florida,11356.89,1.07,36.0,High
+North Dakota,196047.0,0.0,38.0,High
+Colorado,35610.0,0.0,34.0,Moderate
+Maine,27340.0,1.5,83.0,Low
+Pennsylvania,46442.0,0.0,52.0,High
+North Dakota,33750.0,0.0,25.0,High
+Iowa,130449.0,3.43,35.0,High
+Idaho,12176.0,1.92,19.0,Low
+California,5252300.25,1.95,37.0,High
+Florida,55933.0,10.71,56.0,High
+Pennsylvania,85669.0,3.16,0.0,High
+Virginia,567044.1,1.01,60.0,Moderate
+Tennessee,987494.0,6.32,66.0,Moderate
+Iowa,23236.0,0.0,27.0,High
+South Dakota,15986.0,2.4,15.0,High
+Alabama,177433.66,6.41,95.0,High
+Kansas,230923.0,0.0,71.0,High
+New Jersey,1887708.15,1.66,59.0,High
+Florida,561670.36,2.02,81.0,High
+New Jersey,69999.0,0.0,35.0,High
+Alabama,61387.5,4.52,113.0,High
+Georgia,13255.0,0.0,23.0,High
+Kansas,20072.0,0.0,40.0,High
+North Carolina,22150.75,1.01,37.0,High
+Florida,3764933.52,0.0,171.0,High
+Alabama,882955.0,0.0,50.0,High
+North Carolina,152250.0,0.0,59.0,High
+Virginia,108385.0,0.0,37.0,Moderate
+Puerto Rico,15729.0,5.49,16.0,Moderate
+Minnesota,38000.0,0.0,72.0,Moderate
+California,2067577.5,11.26,154.0,High
+Alabama,4000.0,3.78,97.0,High
+Alabama,135375.0,1.37,78.0,High
+Kentucky,245250.0,1.02,65.0,High
+North Carolina,7500.0,0.0,36.0,High
+Louisiana,90292.0,10.95,19.0,High
+Missouri,1038082.5,1.4,32.0,High
+Alabama,94064.59,4.17,113.0,High
+New Mexico,34876.0,0.0,70.0,Low
+Georgia,8871.0,0.0,18.0,High
+Pennsylvania,0.0,1.0,4.0,High
+Texas,48635.0,0.0,43.0,High
+Alabama,4000.0,1.37,20.0,High
+Florida,178979.18,0.0,69.0,High
+Florida,95850.0,5.87,8.0,High
+Illinois,39238.0,0.0,54.0,Moderate
+South Carolina,0.0,0.0,33.0,Moderate
+Wisconsin,24750.0,0.0,32.0,Moderate
+Texas,78223.0,1.66,33.0,High
+Mississippi,44567.0,0.0,18.0,High
+Alabama,75980.0,6.27,11.0,High
+Texas,13333.33,0.0,91.0,High
+Georgia,8329.0,0.0,24.0,High
+Alabama,52106.0,0.0,14.0,High
+Missouri,64253.0,0.0,65.0,High
+New York,574040.37,2.97,109.0,High
+Oklahoma,17970.0,0.0,15.0,High
+Florida,607210.93,1.08,49.0,High
+Ohio,8156.0,0.0,44.0,Moderate
+Florida,242518.0,1.56,78.0,High
+New Jersey,148782.0,1.9,23.0,High
+Ohio,1038064.0,10.34,73.0,Moderate
+South Carolina,133100.0,1.07,28.0,Moderate
+North Dakota,29621.0,0.0,64.0,High
+North Carolina,3884274.66,1.42,85.0,High
+Georgia,53583.0,0.0,19.0,High
+Arkansas,22430.0,0.0,49.0,Moderate
+West Virginia,29413.0,4.35,52.0,Moderate
+Washington,120000.0,2.16,97.0,High
+Florida,1155063.0,1.66,74.0,High
+California,141050.0,0.0,45.0,High
+California,75000.0,0.0,27.0,High
+Iowa,19500.0,0.0,59.0,High
+Tennessee,581297.0,3.18,79.0,Moderate
+Georgia,29338.0,0.0,19.0,High
+Georgia,300000.0,0.0,70.0,High
+Mississippi,55633.0,0.0,22.0,High
+Iowa,5100.0,0.0,29.0,High
+Georgia,23754.0,0.0,31.0,High
+New York,76515.0,2.36,100.0,High
+Georgia,85925.47,1.59,64.0,High
+Kansas,3742164.0,1.87,50.0,High
+South Carolina,407831.26,3.04,62.0,Moderate
+Nebraska,33952.0,0.0,14.0,High
+Mississippi,27615.0,0.0,22.0,High
+Oklahoma,30000.0,0.0,44.0,High
+North Carolina,106620.24,2.57,42.0,High
+Florida,8396.0,1.99,16.0,High
+South Dakota,10125.0,0.0,25.0,High
+New York,986000.0,0.0,76.0,High
+Kentucky,39254.0,0.0,16.0,High
+Vermont,3500.0,0.0,79.0,Moderate
+Iowa,36000.0,0.0,23.0,High
+Georgia,96622.0,1.88,48.0,High
+New Jersey,400000.0,2.55,27.0,High
+Puerto Rico,173114.0,15.78,54.0,Moderate
+Virginia,143209.0,1.14,25.0,Moderate
+Oklahoma,958436.96,1.88,62.0,High
+New York,37208.0,0.98,63.0,High
+Florida,1260596.0,21.23,23.0,High
+Alabama,19350.0,2.07,14.0,High
+California,11250.0,1.82,13.0,High
+Alabama,98993.0,0.0,63.0,High
+Georgia,40587.53,0.0,68.0,High
+Ohio,11250.0,0.0,28.0,Moderate
+Mississippi,0.0,0.0,79.0,High
+Alabama,53192.25,0.0,116.0,High
+Iowa,1406.25,1.73,31.0,High
+Montana,367.3,0.0,37.0,Low
+Guam,3600.0,1.34,111.0,Low
+Puerto Rico,408623.0,0.0,64.0,Moderate
+Alabama,36297.0,1.04,39.0,High
+New York,297298.0,2.94,55.0,High
+South Dakota,25291.0,1.06,25.0,High
+Florida,80235.0,13.24,19.0,High
+Connecticut,100000.0,3.0,21.0,Moderate
+Oklahoma,117000.0,0.0,19.0,High
+Minnesota,151562.0,0.0,65.0,Moderate
+Missouri,628587.0,1.64,39.0,High
+New Jersey,121397.0,2.65,1.0,High
+Mississippi,0.0,1.75,38.0,High
+Wisconsin,1153412.0,1.0,71.0,Moderate
+Kansas,120524.0,1.49,52.0,High
+Wisconsin,9000.0,0.0,26.0,Moderate
+Nebraska,3892028.06,1.99,62.0,High
+Texas,385984.86,0.0,63.0,High
+Oklahoma,12090.0,0.0,56.0,High
+Federated States of Micronesia,212452.0,8.68,95.0,Low
+New Jersey,43859.0,0.0,37.0,High
+North Carolina,2761797.0,0.0,53.0,High
+Connecticut,148739.0,14.65,71.0,Moderate
+Alaska,166900.0,0.0,35.0,Low
+Massachusetts,0.0,1.15,48.0,Moderate
+Texas,61848.0,0.0,69.0,High
+Louisiana,65000.0,0.0,32.0,High
+Oklahoma,28125.0,0.0,32.0,High
+South Dakota,453000.0,1.17,6.0,High
+Nevada,14886.0,0.0,62.0,Low
+Texas,194477.0,0.0,140.0,High
+New Jersey,75000.0,1.78,42.0,High
+Vermont,1.0,0.0,36.0,Moderate
+California,150000.0,0.0,33.0,High
+Ohio,57900.0,0.0,29.0,Moderate
+Mississippi,402276.65,5.99,27.0,High
+Vermont,15778.0,1.78,55.0,Moderate
+North Carolina,81929.0,0.0,28.0,High
+Texas,216175.0,0.0,85.0,High
+Georgia,14844.0,0.0,45.0,High
+Oklahoma,22500.0,0.0,48.0,High
+South Dakota,58528.0,1.01,25.0,High
+Louisiana,833248.0,1.2,86.0,High
+North Carolina,0.0,1.61,44.0,High
+Iowa,390260.0,1.21,28.0,High
+Virginia,104651.0,0.0,0.0,Moderate
+Texas,2675996.0,1.2,66.0,High
+North Dakota,71276.0,0.0,40.0,High
+Washington,207889.98,1.55,29.0,High
+Indiana,15000.0,0.0,68.0,Low
+Arkansas,442149.0,3.73,62.0,Moderate
+Alabama,5760.0,1.83,9.0,High
+Florida,1316137.5,7.04,55.0,High
+Texas,95123.25,0.0,83.0,High
+Michigan,19717.0,0.0,106.0,Moderate
+Florida,596.0,2.26,31.0,High
+Florida,22028.0,1.64,26.0,High
+Arkansas,717232.0,2.53,63.0,Moderate
+Washington,98271.0,0.0,83.0,High
+South Dakota,9375.0,0.0,19.0,High
+Wisconsin,202498.87,0.0,63.0,Moderate
+Tennessee,17224.0,0.0,59.0,Moderate
+Pennsylvania,25172.0,0.0,37.0,High
+Texas,85000.0,0.0,141.0,High
+Hawaii,485.0,0.0,58.0,Low
+Michigan,216723.0,1.34,0.0,Moderate
+Florida,296126.89,1.12,43.0,High
+Kansas,643611.0,3.24,64.0,High
+South Dakota,64564.0,1.02,23.0,High
+Nebraska,120000.0,0.0,43.0,High
+Louisiana,150000.0,0.0,52.0,High
+Florida,37295.62,3.37,42.0,High
+Alabama,198007.15,1.74,77.0,High
+Alabama,59500.0,20.88,30.0,High
+Alabama,38035.71,3.83,114.0,High
+Mississippi,318431.44,12.55,54.0,High
+Michigan,89554.0,1.01,39.0,Moderate
+Mississippi,140904.0,0.0,45.0,High
+Tennessee,80475.0,0.0,53.0,Moderate
+Virginia,35256.0,0.0,-1.0,Moderate
+Florida,95636.0,1.82,40.0,High
+Minnesota,376237.03,0.0,73.0,Moderate
+Indiana,2444158.0,0.0,81.0,Low
+Wisconsin,524295.0,4.83,41.0,Moderate
+Florida,10611.0,3.42,14.0,High
+Alabama,55296.0,1.37,83.0,High
+Florida,40680.0,1.17,41.0,High
+Iowa,110037.0,0.0,36.0,High
+Alabama,2654.0,0.0,9.0,High
+New Jersey,75000.0,0.0,32.0,High
+California,2999999.98,19.39,151.0,High
+Alabama,141095.21,1.97,86.0,High
+California,809626.31,1.03,55.0,High
+Nebraska,10860.0,0.0,34.0,High
+Texas,74969.0,0.0,146.0,High
+Nevada,16875.57,0.0,52.0,Low
+Iowa,176084.0,0.0,48.0,High
+Alabama,51385.0,0.0,64.0,High
+Illinois,2500.0,0.0,37.0,Moderate
+Wisconsin,57711.0,0.0,74.0,Moderate
+New Hampshire,15461.0,1.69,49.0,Moderate
+Ohio,1280013.0,2.61,50.0,Moderate
+Georgia,11404.0,0.0,25.0,High
+Georgia,15938.0,0.0,48.0,High
+Florida,370884.75,10.33,45.0,High
+Kentucky,2251263.4,0.0,150.0,High
+Iowa,80609.0,0.0,52.0,High
+Kansas,315830.0,4.13,42.0,High
+Maryland,31590.0,1.0,22.0,Moderate
+Texas,94499.99,0.0,47.0,High
+Iowa,17362.52,0.0,33.0,High
+New Hampshire,72750.0,8.35,36.0,Moderate
+Minnesota,950462.0,1.03,26.0,Moderate
+Florida,154263.94,4.41,39.0,High
+Alabama,83206.0,1.37,80.0,High
+Georgia,15000.0,0.0,43.0,High
+New York,1444238.34,0.0,115.0,High
+Colorado,290025.0,2.06,49.0,Moderate
+New York,22814.48,1.0,0.0,High
+Alabama,52314.55,5.61,118.0,High
+Oklahoma,29281.0,0.0,28.0,High
+Florida,7109.0,6.67,28.0,High
+Mississippi,3226154.0,2.87,62.0,High
+Florida,1011662.0,1.14,86.0,High
+Louisiana,99474.0,1.11,75.0,High
+Alabama,253360.03,3.27,116.0,High
+Missouri,416120.3,0.0,50.0,High
+Iowa,243306.0,4.4,31.0,High
+California,460817.0,3.33,53.0,High
+Missouri,742709.86,0.0,58.0,High
+Louisiana,77857.5,7.82,117.0,High
+Minnesota,23625.0,0.0,66.0,Moderate
+Iowa,26250.0,0.0,26.0,High
+Nebraska,145913.0,0.0,69.0,High
+Iowa,231151.0,0.0,31.0,High
+West Virginia,127949.0,0.0,0.0,Moderate
+Vermont,54884.0,1.09,133.0,Moderate
+Missouri,342830.0,2.56,28.0,High
+Pennsylvania,735000.0,1.02,0.0,High
+Tennessee,69052.0,0.0,38.0,Moderate
+Mississippi,24602.0,0.0,5.0,High
+Arkansas,1453253.0,3.41,62.0,Moderate
+New Hampshire,6000.0,0.0,28.0,Moderate
+Alabama,15020.86,3.53,125.0,High
+Mississippi,1632025.0,1.8,55.0,High
+South Dakota,122327.0,0.0,43.0,High
+Alabama,1020485.0,5.9,119.0,High
+Vermont,11338.0,0.0,53.0,Moderate
+Oklahoma,163883.75,9131.3,65.0,High
+Tennessee,8202.0,0.0,60.0,Moderate
+Oklahoma,32534.0,4.6,28.0,High
+Missouri,102925.68,2.21,13.0,High
+Florida,0.0,1.59,31.0,High
+Alabama,67593.12,4.29,111.0,High
+South Dakota,10125.0,0.0,36.0,High
+Texas,14825.63,0.0,48.0,High
+New Jersey,146541.0,0.0,41.0,High
+Florida,602294.0,2.35,62.0,High
+Massachusetts,904325.81,1.05,95.0,Moderate
+Louisiana,149993.0,0.0,66.0,High
+Kansas,33750.0,0.0,27.0,High
+Texas,1452752.75,1.25,71.0,High
+Michigan,312375.0,1.15,76.0,Moderate
+Tennessee,8508.0,0.0,67.0,Moderate
+New Jersey,2199559.79,1.0,79.0,High
+South Dakota,400367.36,3.76,58.0,High
+Alabama,61125.0,1.37,95.0,High
+Tennessee,212077.58,2.21,75.0,Moderate
+Kansas,451554.0,1.5,31.0,High
+Pennsylvania,34289.65,0.0,43.0,High
+Louisiana,261666.0,8.33,38.0,High
+Florida,71991.0,0.0,96.0,High
+New Jersey,70063.47,1.33,71.0,High
+Texas,72054.0,0.0,53.0,High
+Mississippi,53984.0,11.12,72.0,High
+Oklahoma,138925.46,8.94,42.0,High
+Oklahoma,15783.0,0.0,33.0,High
+New York,1216991.98,0.0,114.0,High
+Nebraska,11381.42,0.0,26.0,High
+Kentucky,138699.0,1.55,27.0,High
+Alabama,17447.99,0.0,115.0,High
+Florida,312888.66,1.0,33.0,High
+Delaware,32759.0,0.0,48.0,Low
+Mississippi,21496.52,0.0,36.0,High
+Wisconsin,0.0,1.87,12.0,Moderate
+Iowa,48233.09,2.13,47.0,High
+Oklahoma,45512.0,0.0,39.0,High
+Florida,75307.5,0.0,51.0,High
+Louisiana,135070.0,0.0,83.0,High
+Ohio,12270.0,0.0,41.0,Moderate
+Connecticut,24000.0,0.0,46.0,Moderate
+Utah,874695.0,1.2,58.0,Low
+Alabama,9788.0,0.0,23.0,High
+Florida,79642.5,3.71,62.0,High
+North Dakota,32580.72,0.0,59.0,High
+California,275000.0,1.31,41.0,High
+Oklahoma,3225.0,0.0,72.0,High
+Vermont,236455.0,0.0,53.0,Moderate
+Wyoming,35996.27,0.0,44.0,Low
+New Mexico,422100.0,1.45,126.0,Low
+Iowa,3852966.0,1.35,73.0,High
+North Carolina,467906.0,2.93,52.0,High
+Massachusetts,279085.48,1.55,65.0,Moderate
+Connecticut,1769340.5,1.76,51.0,Moderate
+California,75000.0,0.0,35.0,High
+North Carolina,637.5,1.34,49.0,High
+Oregon,46014.0,0.0,75.0,Moderate
+Alabama,7495.0,0.0,58.0,High
+Georgia,199996.0,0.0,102.0,High
+Oklahoma,3087.0,0.0,52.0,High
+Alabama,354522.0,0.0,115.0,High
+Texas,9104559.5,1.42,117.0,High
+Ohio,134662.23,0.0,25.0,Moderate
+Florida,10978.0,1.56,41.0,High
+Georgia,29999.0,0.0,33.0,High
+Alabama,8835.0,0.0,56.0,High
+Connecticut,2461460.0,1.84,94.0,Moderate
+Colorado,47682.0,0.0,22.0,Moderate
+Alabama,268500.0,1.1,30.0,High
+Connecticut,0.0,16.63,91.0,Moderate
+Iowa,3985093.0,1.59,54.0,High
+Massachusetts,80250.0,0.0,65.0,Moderate
+Kentucky,1728129.0,1.37,54.0,High
+Florida,31062.13,2.87,22.0,High
+North Dakota,14517.0,0.0,76.0,High
+North Carolina,336384.0,0.0,45.0,High
+Illinois,429334.0,1.06,72.0,Moderate
+South Dakota,168352.0,0.0,91.0,High
+Washington,0.0,0.0,60.0,High
+Colorado,1157454.65,1.96,154.0,Moderate
+West Virginia,324000.0,2.43,26.0,Moderate
+Alabama,4680.0,0.0,37.0,High
+District of Columbia,16058.0,3.5,61.0,Low
+Oregon,1161588.0,3.26,41.0,Moderate
+Connecticut,56700.0,30.46,0.0,Moderate
+South Carolina,3137.0,5.18,29.0,Moderate
+Montana,2940375.89,1.52,83.0,Low
+Colorado,6956.0,0.0,27.0,Moderate
+Kansas,558563.0,1.26,48.0,High
+Iowa,56038.0,0.0,22.0,High
+Oklahoma,440999.9,1.0,0.0,High
+Texas,49350.0,0.0,80.0,High
+Alabama,54594.0,1.4,96.0,High
+New Jersey,4984384.0,1.08,54.0,High
+New Jersey,100000.0,2.47,32.0,High
+Washington,45207.0,0.0,44.0,High
+Alaska,2625.0,0.0,23.0,Low
+Alabama,3500.0,2.61,15.0,High
+West Virginia,240251.0,5.06,22.0,Moderate
+Alabama,23967.0,0.0,52.0,High
+Kentucky,1294.0,0.0,30.0,High
