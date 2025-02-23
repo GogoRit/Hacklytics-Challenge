@@ -12,6 +12,13 @@ The inspiration for **RiskScope** stems from the increasing complexity of disast
 - **Predict Insurance Prices**: The system predicts where insurance premiums should be higher based on the disaster risk level in each state. Higher-risk zones, with more frequent and severe disasters, would logically require higher insurance coverage.
 - **Visualize Disaster Risk**: It visualizes disaster risk by showing the geographical distribution of high-risk and low-risk zones, helping stakeholders understand which areas need more attention in terms of risk management and insurance pricing.
 
+## Screenshots
+
+![Predictive Modeling](Screenshots/Predictive%20modeling.png)
+![Financial Dashboard](Screenshots/Financial%20Performance.png)
+![Disaster Location Zones](Screenshots/Location%20Zones.png)
+![Project Statistic Dashboard](Screenshots/Project%20Timeline.png)
+
 ## How we built it
 
 We built **RiskScope** using a combination of data science, machine learning, and visualization tools:
