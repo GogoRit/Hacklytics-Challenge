@@ -4,16 +4,24 @@ import plotly.express as px
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 import numpy as np
-# import openai
+import google.generativeai as genai
+from dotenv import load_dotenv
+import os
 
+# ✅ Load environment variables from .env
+load_dotenv()
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# Streamlit UI
+# ✅ Configure Gemini API
+if GEMINI_API_KEY:
+    genai.configure(api_key=GEMINI_API_KEY)
+else:
+    st.error("❌ Gemini API key not found. Please check your .env file.")
+
+# ✅ Streamlit UI
 st.set_page_config(layout="wide", page_title="Multi-Agent AI System")
 
-# # Gemini API Key
-# openai.api_key = "YOUR_GEMINI_API_KEY"
-
-# Load Datasets
+# ✅ Load Datasets
 @st.cache_data
 def load_data():
     financial_df = pd.read_csv('/Users/gaurankmaheshwari/Documents/Projects/hacklytics/data/agent_dashboards/Financial_Performance_Dataset.csv')
@@ -44,8 +52,7 @@ def load_data():
 
 financial_df, location_df, outcomes_df = load_data()
 
-# Multi-Agent System
-
+# ✅ Multi-Agent System
 class LocationRiskAgent:
     def define_risk_zones(self, df):
         frequency_counts = df['state'].value_counts().reset_index()
@@ -63,34 +70,27 @@ class LocationRiskAgent:
 
 class FinancialAgent:
     def visualize_financial_performance(self, df):
-        # Set a scaling factor (e.g., 1e6 for millions)
-        scaling_factor = 1e6  # For scaling to millions
-        
-        # Apply the scaling factor to 'projectAmount' and 'federalShareObligated'
+        scaling_factor = 1e6  # Scale to millions
         df['scaledProjectAmount'] = df['projectAmount'] / scaling_factor
         df['scaledFederalShare'] = df['federalShareObligated'] / scaling_factor
         
-        # Create scatter plot with a custom color scale
         fig = px.scatter(df, 
                          x='scaledFederalShare', 
                          y='scaledProjectAmount', 
                          color='benefitCostRatio',
-                         title='Financial Performance of Disaster Recovery Projects (Scaled)',
-                         color_continuous_scale='Viridis',  # You can use any of Plotly's built-in color scales, 'Viridis' is a good option
-                         range_color=[0, 1.5],  # This will show BCR from 0 to 1.5 for better contrast
+                         title='Financial Performance of Disaster Recovery Projects',
+                         color_continuous_scale='Viridis',
+                         range_color=[0, 1.5],
                          labels={
                              'scaledFederalShare': 'Federal Share Obligated (Millions)',
                              'scaledProjectAmount': 'Project Amount (Millions)',
                              'benefitCostRatio': 'Benefit-Cost Ratio'
                          })
-
-        # Update axis titles to reflect scaling
         fig.update_layout(
-            xaxis=dict(range=[0, 50]),  # Set x-axis range to 0 to 100 million
-            yaxis=dict(range=[0, 100]),  # Set y-axis range to 0 to 200 million
+            xaxis=dict(range=[0, 50]),
+            yaxis=dict(range=[0, 100]),
             height=600
         )
-
         return fig
     
 class OutcomesAgent:
@@ -99,41 +99,42 @@ class OutcomesAgent:
                            title='Distribution of Project Timelines (Months)')
         return fig
 
-# Initialize Agents
+# ✅ Initialize Agents
 location_risk_agent = LocationRiskAgent()
 financial_agent = FinancialAgent()
 outcomes_agent = OutcomesAgent()
 
-# Process Data using Agents
+# ✅ Process Data using Agents
 location_df = location_risk_agent.define_risk_zones(location_df)
 
-# # Gemini LLM Scenario Simulation
-# def predict_insurance_scenario(location, federal_funding, cost_benefit_ratio, timeline_months):
-#     prompt = f"""
-#     Based on the following disaster recovery scenario:
-#     - Location: {location}
-#     - Federal Funding: ${federal_funding}
-#     - Cost-Benefit Ratio: {cost_benefit_ratio}
-#     - Project Timeline: {timeline_months} months
-    
-#     Predict whether the insurance coverage will be HIGH, MODERATE, or LOW.
-#     """
-#     response = openai.Completion.create(
-#         engine="text-davinci-003",
-#         prompt=prompt,
-#         max_tokens=50
-#     )
-#     return response.choices[0].text.strip()
+# ✅ Gemini LLM Prediction
+def predict_insurance_scenario(location, federal_funding, cost_benefit_ratio, timeline_months):
+    prompt = f"""
+    Predict the insurance zone (HIGH, MODERATE, LOW) based on:
+    - Location: {location}
+    - Federal Funding: ${federal_funding}
+    - Cost-Benefit Ratio: {cost_benefit_ratio}
+    - Project Timeline: {timeline_months} months
 
+    Output only one word: HIGH, MODERATE, or LOW.
+    """
+    try:
+        model = genai.GenerativeModel('gemini-pro')
+        response = model.generate_content(prompt)
+        return response.text.strip().upper()
+    except Exception as e:
+        return f"Prediction Error: {str(e)}"
+
+# ✅ Streamlit UI
 st.title('Multi-Agent AI System Dashboard')
 
-# Sidebar options
+# ✅ Sidebar options
 agent_option = st.sidebar.selectbox('Choose a Dashboard', ['Location Risk Zones', 'Financial Performance', 'Project Timeline', 'Insurance Coverage Prediction'])
 
-# Location Risk Zones Dashboard
+# ✅ Location Risk Zones Dashboard
 if agent_option == 'Location Risk Zones':
     st.header('Location Risk Zones (USA Map)')
-    st.write('This dashboard visualizes the geographical distribution of disaster risk across the United States, categorizing states into Low, Moderate, and High Risk Zones based on the frequency of past disasters.')
+    st.write('Visualizes geographical disaster risk levels across the US.')
     location_df['text'] = location_df['state'] + '<br>' + location_df['RiskZone']
     fig = px.scatter_geo(location_df,
                          locations='state_code',
@@ -144,33 +145,37 @@ if agent_option == 'Location Risk Zones':
                          title='Geographical Clusters of Risk Zones')
     st.plotly_chart(fig)
 
-# Financial Performance Dashboard
+# ✅ Financial Performance Dashboard
 elif agent_option == 'Financial Performance':
     st.header('Financial Performance Dashboard')
-    st.write('This dashboard presents a scatter plot of the project amount versus federal funding obligated, colored by the benefit-cost ratio. It helps in evaluating the financial efficiency of disaster recovery projects.')
+    st.write('Scatter plot of project amounts and federal funding, colored by the benefit-cost ratio.')
     fig = financial_agent.visualize_financial_performance(financial_df)
     st.plotly_chart(fig)
 
-# Project Timeline Dashboard
+# ✅ Project Timeline Dashboard
 elif agent_option == 'Project Timeline':
     st.header('Project Timeline Dashboard')
-    st.write('This dashboard displays the distribution of project timelines, in months, to assess the duration it takes for majority of disaster recovery projects to complete.')
+    st.write('Distribution of project durations in months.')
     fig = outcomes_agent.visualize_project_timeline(outcomes_df)
     st.plotly_chart(fig)
 
-# Insurance Coverage Prediction (LLM)
+# ✅ Insurance Coverage Prediction
 elif agent_option == 'Insurance Coverage Prediction':
     st.header('Insurance Coverage Prediction Using Gemini LLM')
-    st.write('This model allows users to input project parameters (location, funding, benefit-cost ratio, and timeline) to predict the potential insurance coverage using a simulated LLM model.')
-    location = st.selectbox('Select Location', location_df['state'].unique())
-    federal_funding = st.number_input('Enter Federal Funding ($)', min_value=10000, max_value=10000000, value=500000)
-    cost_benefit_ratio = st.number_input('Enter Cost-Benefit Ratio', min_value=0.1, max_value=10.0, value=1.5)
-    timeline_months = st.number_input('Enter Project Timeline (Months)', min_value=1, max_value=60, value=12)
+    st.write('Predict whether the insurance coverage will be HIGH, MODERATE, or LOW.')
 
-    if st.button('Predict Insurance Coverage'):
-        prediction = predict_insurance_scenario(location, federal_funding, cost_benefit_ratio, timeline_months)
-        st.success(f'Predicted Insurance Coverage: **{prediction}**')
+    with st.form("insurance_prediction_form"):
+        location = st.selectbox('Select Location', location_df['state'].unique())
+        federal_funding = st.number_input('Federal Funding ($)', min_value=10000, max_value=10000000, value=500000)
+        cost_benefit_ratio = st.number_input('Benefit-Cost Ratio', min_value=0.1, max_value=10.0, value=1.5)
+        timeline_months = st.number_input('Project Timeline (Months)', min_value=1, max_value=60, value=12)
+        submitted = st.form_submit_button("Predict Insurance Zone")
 
-# Footer
+    if submitted:
+        with st.spinner("Predicting..."):
+            prediction = predict_insurance_scenario(location, federal_funding, cost_benefit_ratio, timeline_months)
+            st.success(f"Predicted Insurance Zone: **{prediction}**")
+
+# ✅ Footer
 st.markdown("---")
 st.markdown("**Multi-Agent AI System with Gemini LLM - Insurance Cost Prediction**")
